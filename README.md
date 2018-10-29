@@ -4,6 +4,9 @@
 
 ### Day 01
 ### Day 02
+
+* Markdown
+
 ### Day 03
 ### Day 04
 ### Day 05
@@ -28,9 +31,11 @@
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
 * Data Wrapper: https://app.datawrapper.de/
+* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Tools
 
+* [atom](https://atom.io/): Versatile IDE
 * [ffmpeg](https://www.ffmpeg.org/): Video Manipulation
 * [plotly](https://plot.ly/): Interactive plots
 * [revealjs](https://revealjs.com/#/): Markdown presentations
