@@ -3,19 +3,33 @@
 ## Contents
 
 ### Day 01
-### Day 02
 
-* Markdown
+* R/Python primer
+
+### Day 02
 
 ### Day 03
 ### Day 04
 ### Day 05
 
-## Author
 
-[PhD Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
 
 ## Resources
+
+A compendium of available resources for data visualization activities.
+
+### Tools (in no particular order)
+
+* [atom](https://atom.io/): Versatile IDE
+* [ffmpeg](https://www.ffmpeg.org/): Video Manipulation
+* [plotly](https://plot.ly/): Interactive plots
+* [revealjs](https://revealjs.com/#/): Markdown presentations
+* [remarkjs](https://github.com/gnab/remark): Javascript presentations
+* [matplotlib](https://matplotlib.org/): Python plotting
+* [networkD3](https://christophergandrud.github.io/networkD3/): R Network Plotting
+* [rStudio](https://www.rstudio.com/): R IDE
+* [shiny](http://shiny.rstudio.com/): Interactive we development
+* [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf): Plotting in R
 
 
 ### Books
@@ -33,10 +47,6 @@
 * Data Wrapper: https://app.datawrapper.de/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### Tools
+## Author
 
-* [atom](https://atom.io/): Versatile IDE
-* [ffmpeg](https://www.ffmpeg.org/): Video Manipulation
-* [plotly](https://plot.ly/): Interactive plots
-* [revealjs](https://revealjs.com/#/): Markdown presentations
-* [remarkjs](https://github.com/gnab/remark): Javascript presentations
+[PhD Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
