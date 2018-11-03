@@ -12,7 +12,7 @@ This is a compendium of materials and activities designed to develop and improve
 
 1. Introduction
 2. Data Visualization Primer
-3. R/Python primer
+3. R/Python primer (in atom)
 4. Types of plots
 
 ### [Day 02](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day02)
