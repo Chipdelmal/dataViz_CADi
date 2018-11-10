@@ -2,6 +2,8 @@
 
 This repository contains the materials for the "Data Visualization" one week intensive [CADi ("Cursos de Actualización en las Disciplinas")](http://sitios.itesm.mx/va/capacitacion/1_2.html) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018.
 
+<br><img src="./docs/media/traces01.png" width="100%"><br>
+
 This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <hr>
@@ -24,7 +26,7 @@ This is a compendium of materials and activities designed to develop and improve
 
 <b>Goal:</b>
 
-1. Treemap
+1. Media Formats
 
 ### [Day 03 (8h)](./Day03/README.md)
 
@@ -69,9 +71,9 @@ A compendium of available resources for data visualization activities.
 
 * Data Wrapper: https://app.datawrapper.de/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* Observable: https://beta.observablehq.com/collection/@observablehq/
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
-* Observable: https://beta.observablehq.com/collection/@observablehq/
 * The Truthful Art: https://truth-and-beauty.net/
 
 
