@@ -1,15 +1,16 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" one week intensive [CADi ("Cursos de Actualización en las Disciplinas")](http://sitios.itesm.mx/va/capacitacion/1_2.html) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es).
+This repository contains the materials for the "Data Visualization" one week intensive [CADi ("Cursos de Actualización en las Disciplinas")](http://sitios.itesm.mx/va/capacitacion/1_2.html) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018.
 
-This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work.
+This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <hr>
+
 ## Contents
 
 ### [Day 01 (8h)](./Day01/README.md)
 
-<b>Goal:</b>
+<b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
 1. [Introduction/Background](./Day01/intro.md)
 2. [Data Visualization Primer](./Day01/dataVizPrimer.md)
@@ -39,7 +40,9 @@ This is a compendium of materials and activities designed to develop and improve
   a. Stop-motion animations
   b. Further editing
 
+
 <hr>
+
 ## Resources
 
 A compendium of available resources for data visualization activities.
@@ -54,8 +57,10 @@ A compendium of available resources for data visualization activities.
 * [matplotlib](https://matplotlib.org/): Python plotting
 * [networkD3](https://christophergandrud.github.io/networkD3/): R Network Plotting
 * [plotly](https://plot.ly/): Interactive plots (both in R, and Python)
+* [python](https://www.python.org/): General-purpose programming language
 * [remarkjs](https://github.com/gnab/remark): Markdown presentations
 * [revealjs](https://revealjs.com/#/): Javascript presentations
+* [R](https://www.r-project.org/): Statistical computing programming language
 * [rStudio](https://www.rstudio.com/): R IDE
 * [shiny](http://shiny.rstudio.com/): Interactive web development
 * [slides](https://slides.com/): GUI for revealjs
@@ -67,7 +72,7 @@ A compendium of available resources for data visualization activities.
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
 * Observable: https://beta.observablehq.com/collection/@observablehq/
-* http://ptgmedia.pearsoncmg.com/images/9780321934079/samplepages/9780321934079.pdf
+* The Truthful Art: https://truth-and-beauty.net/
 
 
 ### Books
@@ -79,5 +84,7 @@ A compendium of available resources for data visualization activities.
 * [Adams, S., & Helfand, J. (2017). The designer’s dictionary of color. 9781419723919](https://www.amazon.com/Designers-Dictionary-Color-Sean-Adams/dp/141972391X/ref=sr_1_1?ie=UTF8&qid=1540755233&sr=8-1&keywords=the+designers+dictionary+of+color)
 
 <hr>
-## Author: [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
-<img src="./docs/media/berkeley.jpg" style="width:40%;"><img src="./docs/media/itesm.png" style="width:40%;">
+
+## [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
+
+<img src="./docs/media/berkeley.jpg" width="200"><img src="./docs/media/itesm.png" width="200">
