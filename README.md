@@ -7,25 +7,25 @@ This is a compendium of materials and activities designed to develop and improve
 <hr>
 ## Contents
 
-### [Day 01 (8h)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01)
+### [Day 01 (8h)](./Day01/README.md)
 
 <b>Goal:</b>
 
-1. [Introduction/Background]()
-2. [Data Visualization Primer]()
-3. [R/Python/Mathematica Primer]()
-4. [Types of plots]()
-5. [Colors]()
+1. [Introduction/Background](./Day01/intro.md)
+2. [Data Visualization Primer](./Day01/dataVizPrimer.md)
+3. [R/Python/Mathematica Primer](./Day01/ProgrammingPrimer.md)
+4. [Types of plots](./Day01/plotTypes.md)
+5. [Colors](./Day01/colors.md)
   a. Color Palettes
   b. Colorblindness
 
-### [Day 02 (8h)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day02)
+### [Day 02 (8h)](./Day02/README.md)
 
 <b>Goal:</b>
 
 1. Treemap
 
-### [Day 03 (8h)](./Day03/Readme.md)
+### [Day 03 (8h)](./Day03/README.md)
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
@@ -60,7 +60,6 @@ A compendium of available resources for data visualization activities.
 * [shiny](http://shiny.rstudio.com/): Interactive web development
 * [slides](https://slides.com/): GUI for revealjs
 
-
 ### Online
 
 * Data Wrapper: https://app.datawrapper.de/
@@ -75,6 +74,7 @@ A compendium of available resources for data visualization activities.
 
 * [Yau, N. (2011). Visualize this : the FlowingData guide to design, visualization, and statistics. Wiley Pub. ISBN-13: 978-0470944882](https://flowingdata.com/books/)
 * [Yau, N. (2013). Data points: visualization that means something. ISBN-13: 978-1118462195](https://flowingdata.com/books/)
+* [Cairo, Alberto (2016). The truthful art: data, charts, and maps for communication.  ISBN-13: 978-0321934079 ](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
 * [Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. ISBN-13: 978-1473912144](http://www.visualisingdata.com/book/)
 * [Adams, S., & Helfand, J. (2017). The designer’s dictionary of color. 9781419723919](https://www.amazon.com/Designers-Dictionary-Color-Sean-Adams/dp/141972391X/ref=sr_1_1?ie=UTF8&qid=1540755233&sr=8-1&keywords=the+designers+dictionary+of+color)
 
