@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Datasets
+/Day03/Datasets/ffmpeg/factorialFrames/

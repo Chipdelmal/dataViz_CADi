@@ -1,44 +1,45 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" one week intensive [CADi ("Cursos de Actualización en las Disciplinas")](http://sitios.itesm.mx/va/capacitacion/1_2.html) course given at ["Tecnológico de Monterrey"](https://tec.mx/es).
+This repository contains the materials for the "Data Visualization" one week intensive [CADi ("Cursos de Actualización en las Disciplinas")](http://sitios.itesm.mx/va/capacitacion/1_2.html) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es).
 
 This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work.
 
+<hr>
 ## Contents
 
-### [Day 01](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01)
+### [Day 01 (8h)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01)
 
 <b>Goal:</b>
 
-1. Introduction
-2. Data Visualization Primer
-3. R/Python primer (in atom)
-4. Types of plots
+1. [Introduction/Background]()
+2. [Data Visualization Primer]()
+3. [R/Python/Mathematica Primer]()
+4. [Types of plots]()
+5. [Colors]()
+  a. Color Palettes
+  b. Colorblindness
 
-### [Day 02](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day02)
+### [Day 02 (8h)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day02)
 
 <b>Goal:</b>
 
 1. Treemap
 
-### [Day 03](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day03)
+### [Day 03 (8h)](./Day03/Readme.md)
 
-<b>Goal:</b>
+<b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
-### [Day 04](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day04)
+1. [Markdown](./Day03/markdown.md)
+3. [Remarkjs](./Day03/remarkjs.md)
+2. [gh-pages](./Day03/ghPages.md)
+  a. Docs & templates
+  b. Jekyll
+4. [Revealjs](./Day03/revealjs.md)
+5. [ffmpeg](./Day03/ggmpeg.md)
+  a. Stop-motion animations
+  b. Further editing
 
-<b>Goal:</b>
-
-### [Day 05](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day05)
-
-<b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course.
-
-1. Markdown
-2. gh-pages
-3. Remarkjs
-4. Revealjs
-5. ffmpeg
-
+<hr>
 ## Resources
 
 A compendium of available resources for data visualization activities.
@@ -66,7 +67,8 @@ A compendium of available resources for data visualization activities.
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
-* Observable: https://beta.observablehq.com/collection/@observablehq/visualization
+* Observable: https://beta.observablehq.com/collection/@observablehq/
+* http://ptgmedia.pearsoncmg.com/images/9780321934079/samplepages/9780321934079.pdf
 
 
 ### Books
@@ -76,7 +78,6 @@ A compendium of available resources for data visualization activities.
 * [Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. ISBN-13: 978-1473912144](http://www.visualisingdata.com/book/)
 * [Adams, S., & Helfand, J. (2017). The designer’s dictionary of color. 9781419723919](https://www.amazon.com/Designers-Dictionary-Color-Sean-Adams/dp/141972391X/ref=sr_1_1?ie=UTF8&qid=1540755233&sr=8-1&keywords=the+designers+dictionary+of+color)
 
-
-## Author
-
-[Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
+<hr>
+## Author: [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
+<img src="./docs/media/berkeley.jpg" style="width:40%;"><img src="./docs/media/itesm.png" style="width:40%;">
