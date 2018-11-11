@@ -1,6 +1,6 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018.
+This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018 at Campus Estado de México.
 
 <br><img src="./docs/media/traces01.png"  width="100%"><br>
 
@@ -16,15 +16,15 @@ This is a compendium of materials and activities designed to develop and improve
 
 1. [Introduction/Background](./Day01/intro.md)
 2. [Data Visualization Primer](./Day01/dataVizPrimer.md)
-3. [R/Python/Mathematica Primer](./Day01/ProgrammingPrimer.md)
+3. [R/Python/Mathematica Primer](./Day01/programmingPrimer.md)
 4. [Types of plots](./Day01/plotTypes.md)
 5. [Colors](./Day01/colors.md): Color Palettes
+6. [Media Formats](./Day01/formats.md): Vector-based
 
 ### [Day 02 (8h)](./Day02/README.md)
 
-<b>Goal:</b>
+<b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
-1. Media Formats: Vector-based
 
 ### [Day 03 (8h)](./Day03/README.md)
 
