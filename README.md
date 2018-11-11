@@ -1,8 +1,8 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" one week intensive [CADi ("Cursos de Actualización en las Disciplinas")](http://sitios.itesm.mx/va/capacitacion/1_2.html) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018.
+This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018.
 
-<br><img src="./docs/media/traces01.png" width="100%"><br>
+<br><img src="./docs/media/traces01.png"  width="100%"><br>
 
 This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
@@ -18,29 +18,23 @@ This is a compendium of materials and activities designed to develop and improve
 2. [Data Visualization Primer](./Day01/dataVizPrimer.md)
 3. [R/Python/Mathematica Primer](./Day01/ProgrammingPrimer.md)
 4. [Types of plots](./Day01/plotTypes.md)
-5. [Colors](./Day01/colors.md)
-  a. Color Palettes
-  b. Colorblindness
+5. [Colors](./Day01/colors.md): Color Palettes
 
 ### [Day 02 (8h)](./Day02/README.md)
 
 <b>Goal:</b>
 
-1. Media Formats
+1. Media Formats: Vector-based
 
 ### [Day 03 (8h)](./Day03/README.md)
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
-1. [Markdown](./Day03/markdown.md)
-3. [Remarkjs](./Day03/remarkjs.md)
-2. [gh-pages](./Day03/ghPages.md)
-  a. Docs & templates
-  b. Jekyll
-4. [Revealjs](./Day03/revealjs.md)
-5. [ffmpeg](./Day03/ggmpeg.md)
-  a. Stop-motion animations
-  b. Further editing
+1. [Markdown](./Day03/markdown.md):
+3. [Remark](./Day03/remark.md):
+2. [gh-pages](./Day03/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
+4. [Revealjs](./Day03/revealjs.md): MathJax
+5. [ffmpeg](./Day03/ggmpeg.md): Stop-motion animations, Further video editing
 
 
 <hr>
@@ -57,13 +51,15 @@ A compendium of available resources for data visualization activities.
 * [github pages](https://pages.github.com/): Github pages
 * [jekyll](https://jekyllrb.com/): Blog-like templates for github pages (Ruby)
 * [matplotlib](https://matplotlib.org/): Python plotting
+* [mathjax](https://www.mathjax.org/): Use latex in html documents through javascript
 * [networkD3](https://christophergandrud.github.io/networkD3/): R Network Plotting
 * [plotly](https://plot.ly/): Interactive plots (both in R, and Python)
 * [python](https://www.python.org/): General-purpose programming language
-* [remarkjs](https://github.com/gnab/remark): Markdown presentations
+* [remark](https://github.com/gnab/remark): Markdown presentations
 * [revealjs](https://revealjs.com/#/): Javascript presentations
 * [R](https://www.r-project.org/): Statistical computing programming language
 * [rStudio](https://www.rstudio.com/): R IDE
+* [sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor): Latex to image converter to embed them into markdown
 * [shiny](http://shiny.rstudio.com/): Interactive web development
 * [slides](https://slides.com/): GUI for revealjs
 
