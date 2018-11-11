@@ -19,12 +19,14 @@ This is a compendium of materials and activities designed to develop and improve
 3. [R/Python/Mathematica Primer](./Day01/programmingPrimer.md)
 4. [Types of plots](./Day01/plotTypes.md)
 5. [Colors](./Day01/colors.md): Color Palettes
-6. [Media Formats](./Day01/formats.md): Vector-based
+6. [Media Formats](./Day01/formats.md): Raster-based, Vector-based
 
 ### [Day 02 (8h)](./Day02/README.md)
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
+1. [ggplot]():
+2. [networkD3]():
 
 ### [Day 03 (8h)](./Day03/README.md)
 
