@@ -25,8 +25,9 @@ This is a compendium of materials and activities designed to develop and improve
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
-1. [ggplot]():
-2. [networkD3]():
+1. [plotly](https://plot.ly/):
+2. [ggplot]():
+3. [networkD3]():
 
 ### [Day 03 (8h)](./Day03/README.md)
 
@@ -36,7 +37,7 @@ This is a compendium of materials and activities designed to develop and improve
 3. [Remark](./Day03/remark.md):
 2. [gh-pages](./Day03/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
 4. [Revealjs](./Day03/revealjs.md): MathJax
-5. [ffmpeg](./Day03/ggmpeg.md): Stop-motion animations, Further video editing
+5. [ffmpeg](./Day03/ffmpeg.md): Stop-motion animations, Further video editing
 
 
 <hr>
