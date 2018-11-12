@@ -1,38 +1,29 @@
 # Plot Types by Function
 
+<hr>
 
-## Scatter
+## [Counts](./counts.md)
 
-**Input:** *{x,y}* or *{x,y,z}* coordinates
+<img src="./media/flow.jpg" width="100%">
 
-### Extensions and Gallery
+<hr>
 
-<img src="./media/F_mosy74_2858.png" width="50%"><img src="./media/F_mosy65_2770.png" width="50%">
+## [Scatter](./scatter.md)
 
+<hr>
 
-## Transitions Data
+## [Time Series](./timeSeries.md)
 
-**Input data:** Transition matrices/Edges lists
+<img src="./media/traces02.png" width="100%">
 
-### Heatmap
+<hr>
 
-### Network
+## [Transitions](./transitions.md)
 
-<img src="./media/network.png" width="50%">
+<img src="./media/network.png" width="50%"><img src="./media/chord_Baseline.png" width="50%">
 
-<a href="./media/uninterpretableChain.html">Chain</a>
+<hr>
 
-### Chord Diagram
+## [Multidimensional](./multidimensional)
 
-<img src="./media/chord_Baseline.png" width="50%"><img src="./media/chord_ATSB.png" width="50%">
-
-
-### Extensions and Gallery
-
-Showing the spread of SIR diseases in a network.
-
-<img src="./media/SPA.gif" width="50%">
-
-## Radial
-
-<img src="./media/radial.gif" width="50%">
+<img src="./media/responseBackground.png" width="100%">
