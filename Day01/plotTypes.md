@@ -26,4 +26,4 @@
 
 ## [Multidimensional](./multidimensional)
 
-<img src="./media/responseBackground.png" width="100%">
+<img src="./media/SpheresPlots_H.jpg" width="100%">

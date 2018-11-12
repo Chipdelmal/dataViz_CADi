@@ -2,13 +2,16 @@
 
 This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taugh at ["Tecnológico de Monterrey"](https://tec.mx/es) on December of 2018 at Campus Estado de México.
 
-<br><img src="./docs/media/traces01.png"  width="100%"><br>
+<br><img src="./docs/media/images/headerImage.jpg"  width="100%"><br>
 
 This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <hr>
 
 ## Contents
+
+
+<br><img src="./Day01/media/flow.jpg"  width="100%"><br>
 
 ### [Day 01 (8h)](./Day01/README.md)
 
