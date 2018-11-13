@@ -5,7 +5,6 @@ Plots types are as difficult to classify as the data they represent. There are c
 
 In the following module, we will show some of the most common ways to display information according to the underlying data they hold, and the use we want to give to it.
 
-<hr>
 
 ##  [Counts](./counts.md)
 
@@ -13,13 +12,13 @@ In the following module, we will show some of the most common ways to display in
 
 <img src="./media/flow.jpg" width="100%">
 
-<hr>
+
 
 ##  [Scatter](./scatter.md)
 
 * __Data type:__ *{x,y}* or *{x,y,z}* coordinates
 
-<hr>
+
 
 ##  [Time Series](./timeSeries.md)
 
@@ -27,7 +26,7 @@ In the following module, we will show some of the most common ways to display in
 
 <img src="./media/traces02.png" width="100%">
 
-<hr>
+
 
 ##  [Transitions](./transitions.md)
 
@@ -35,7 +34,7 @@ In the following module, we will show some of the most common ways to display in
 
 <img src="./media/network.png" width="50%"><img src="./media/chord_Baseline.png" width="50%">
 
-<hr>
+
 
 ##  [Multidimensional](./multidimensional.md)
 
