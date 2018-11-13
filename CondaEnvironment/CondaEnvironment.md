@@ -1,50 +1,51 @@
 
-## Installation Instructions
+# Python Installation Instructions
 
 
-### Installing Anaconda
-
-1. Install anaconda: https://conda.io/miniconda.html
-2.
+Install [Python 3.7](https://www.python.org/) and [anaconda](https://www.anaconda.com/download/#macos).
 
 
+To install the *conda* environment run the following command on the terminal (after moving to the project's path):
 
-
-To install the *conda* environment containing: _iGraph_, _NetworkX_, _PlotLy_  and _SciKit_; run the following command in terminal (requires _Anaconda_):
-
-```
-conda env create -f MoNeT.yml -n MoNeT
+```bash
+conda env create -f dataViz.yml -n dataViz
 ```
 
 To run the environment:
 
-```
-source activate MoNeT
+```bash
+source activate dataViz
 ```
 
 To close the environment:
 
-```
+```bash
 source deactivate
 ```
 
-## Other Notes
+## For easy use within Atom text editor
 
-To install *Miniconda*:
+To install ipykernel in hydrogen (to run notebooks in "Jupyter" style from atom):
 
+```bash
+python -m pip install ipykernel
+python -m ipykernel install --user
 ```
-sh Miniconda3.sh
+
+Adding the environment to Hydrogen (in atom):
+
+```bash
+source activate dataViz
+python -m ipykernel install --user --name dataViz
 ```
 
 To export environment to *YML* (after activating):
 
-```
-conda env export > MoNeT.yml
+```bash
+conda env export > dataViz.yml
 ```
 
-To load MoNeT as a kernel in jupyter:
+## Other useful Atom packages
 
-```
-source activate MoNeT
-python -m ipykernel install --user --name MoNeT --display-name "Python (MoNeT)"
-```
+* [hydrogen](https://atom.io/packages/Hydrogen): Run jupyter and R kernels from atom
+* [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)

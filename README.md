@@ -22,15 +22,16 @@ This is a compendium of materials and activities designed to develop and improve
 3. [R/Python/Mathematica Primer](./Day01/programmingPrimer.md)
 4. [Types of plots](./Day01/plotTypes.md)
 5. [Colors](./Day01/colors.md): Color Palettes
-6. [Media Formats](./Day01/formats.md): Raster-based, Vector-based
+
 
 ### [Day 02 (8h)](./Day02/README.md)
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
-1. [plotly](https://plot.ly/):
-2. [ggplot]():
-3. [networkD3]():
+1. [Media Formats](./Day02/formats.md): Raster-based, Vector-based
+2. [plotly](https://plot.ly/):
+3. [ggplot]():
+4. [networkD3]():
 
 ### [Day 03 (8h)](./Day03/README.md)
 
@@ -55,15 +56,16 @@ A compendium of available resources for data visualization activities.
 * [ffmpeg](https://www.ffmpeg.org/): Video Manipulation command line tool (can be used to create "stop-motion" animations)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf): Plotting in R
 * [github pages](https://pages.github.com/): Github pages
+* [irkernel](https://irkernel.github.io/installation/): R kernel for jupyter
 * [jekyll](https://jekyllrb.com/): Blog-like templates for github pages (Ruby)
 * [matplotlib](https://matplotlib.org/): Python plotting
 * [mathjax](https://www.mathjax.org/): Use latex in html documents through javascript
 * [networkD3](https://christophergandrud.github.io/networkD3/): R Network Plotting
 * [plotly](https://plot.ly/): Interactive plots (both in R, and Python)
 * [python](https://www.python.org/): General-purpose programming language
+* [R](https://www.r-project.org/): Statistical computing programming language
 * [remark](https://github.com/gnab/remark): Markdown presentations
 * [revealjs](https://revealjs.com/#/): Javascript presentations
-* [R](https://www.r-project.org/): Statistical computing programming language
 * [rStudio](https://www.rstudio.com/): R IDE
 * [sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor): Latex to image converter to embed them into markdown
 * [shiny](http://shiny.rstudio.com/): Interactive web development
@@ -73,6 +75,7 @@ A compendium of available resources for data visualization activities.
 
 * Data Wrapper: https://app.datawrapper.de/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* Markdown Specs: https://github.github.com/gfm/
 * Observable: https://beta.observablehq.com/collection/@observablehq/
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
