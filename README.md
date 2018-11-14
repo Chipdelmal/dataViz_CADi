@@ -12,11 +12,15 @@ This is a compendium of materials and activities designed to develop and improve
 
 Although not strictly required, having some knowledge on one of the following programming languages is suggested:
 
-* [Mathematica](http://www.wolfram.com/mathematica/): Most of the examples in this course were developed in this platform due to its flexibility.
+* [Mathematica](http://www.wolfram.com/mathematica/): Most of the examples in this course were developed in this platform due to its flexibility in terms of graphical capabilities.
 * [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
-* [R](https://www.r-project.org/)
+* [R](https://www.r-project.org/): A popular statistical framework with lots of community support.
 
-It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples.
+It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. Some useful packages for development in atom are:
+
+* [Markdown Preview Enhanced](https://atom.io/packages/markdown-preview-enhanced): Allows the live update of markdown documents previews.
+* [Hydrogen](https://atom.io/packages/hydrogen): Package that allows running Python code in [Jupyter](http://jupyter.org/)-style from within atom.
+* [Preview HTML](https://atom.io/packages/atom-html-preview): Allows us to view the results of our HTML within atom.
 
 <hr>
 
