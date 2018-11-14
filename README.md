@@ -33,10 +33,10 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Introduction/Background](./Day01/intro.md)
-2. [Data Visualization Primer](./Day01/dataVizPrimer.md)
-3. [Mathematica Primer](./Day01/programmingPrimer.md)
-4. [Types of plots](./Day01/plotTypes.md)
+1. [Introduction/Background](./Day01/intro.md):
+2. [Data Visualization Primer](./Day01/dataVizPrimer.md):
+3. [Mathematica Primer](./Day01/programmingPrimer.md):
+4. [Types of plots](./Day01/plotTypes.md):
 5. [Colors](./Day01/colors.md): Color Palettes
 
 
