@@ -45,3 +45,5 @@ In the following module, we will show some of the most common ways to display in
 ##  [Clustering](./clustering.md)
 
 * __Data type:__ Scatter, or networks data for clustering applications.
+
+##  [Factorial](./factorial.md)

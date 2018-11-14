@@ -2,11 +2,17 @@
 
 ## Line Plots
 
-<img src="./media/traces01.png" width="100%">
+<img src="./media/traces02.png" width="100%">
+
+
+# Demo
+
+
+<center><img src="./media/traces.png" width="50%"></center>
 
 # Extensions and Gallery
 
-<img src="./media/traces02.png" width="100%">
+
 
 Dissecting a mosquito life history:
 
