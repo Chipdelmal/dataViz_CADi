@@ -5,10 +5,19 @@
 <img src="./media/traces02.png" width="100%">
 
 
-# Demo
+# Exercise
 
+For this exercise, we will use the data from a stochastic simulation of three mosquito genotypes interactions in a spatial landscape. Starting from datasets containing 50 repetitions of a stochastic experiment, we will create the following plot that allows the visualization of hundreds of traces, along with their mean in an easy to read format.
 
-<center><img src="./media/traces.png" width="50%"></center>
+<br>
+<center>
+  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/TimeSeries">
+    <img src="./media/traces.png" width="50%"></center>
+  </a>
+</center>
+<br>
+
+Click on the image to follow the link to the folder with the code.
 
 # Extensions and Gallery
 
