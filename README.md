@@ -8,6 +8,18 @@ This is a compendium of materials and activities designed to develop and improve
 
 <hr>
 
+## Requirements
+
+Although not strictly required, having some knowledge on one of the following programming languages is suggested:
+
+* [Mathematica](http://www.wolfram.com/mathematica/): Most of the examples in this course were developed in this platform due to its flexibility.
+* [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
+* [R](https://www.r-project.org/)
+
+It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples.
+
+<hr>
+
 ## Contents
 
 
