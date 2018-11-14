@@ -13,18 +13,18 @@ This is a compendium of materials and activities designed to develop and improve
 
 <br><img src="./Day01/media/flow.jpg"  width="100%"><br>
 
-### [Day 01 (8h)](./Day01/README.md)
+### Day 01 (8h)
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
 1. [Introduction/Background](./Day01/intro.md)
 2. [Data Visualization Primer](./Day01/dataVizPrimer.md)
-3. [R/Python/Mathematica Primer](./Day01/programmingPrimer.md)
+3. [Mathematica Primer](./Day01/programmingPrimer.md)
 4. [Types of plots](./Day01/plotTypes.md)
 5. [Colors](./Day01/colors.md): Color Palettes
 
 
-### [Day 02 (8h)](./Day02/README.md)
+### Day 02 (8h)
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
@@ -33,7 +33,7 @@ This is a compendium of materials and activities designed to develop and improve
 3. [ggplot]():
 4. [networkD3]():
 
-### [Day 03 (8h)](./Day03/README.md)
+### Day 03 (8h)
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
