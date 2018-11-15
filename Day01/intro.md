@@ -14,7 +14,7 @@
 
 <img src="../docs/media/itesm.png" width="25%"><br>
 
-##¢# Postdoc Biostatistics/Epidemiology
+### Postdoc Biostatistics/Epidemiology
 
 <img src="../docs/media/berkeley.jpg" width="25%"><img src="../docs/media/ihme.png" width="23%"><br>
 
@@ -50,3 +50,8 @@
 
 <img src="../docs/media/images/graph.jpg" width="50%">
 <br><br><br>
+
+
+## More information
+
+Take a look at my [personal website](https://chipdelmal.github.io/), [ResearchGate](https://www.researchgate.net/profile/Hector_Sanchez_Castellanos), or [github](https://github.com/Chipdelmal) for more information about the projects I'm currently involved with!
