@@ -22,16 +22,16 @@ Uses the lossy [discrete cosine transform](https://www.youtube.com/watch?v=Q2aEz
   <br>
 </center>
 
-#### [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
+####  [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 
-#### [TIFF](https://en.wikipedia.org/wiki/TIFF)
+####  [TIFF](https://en.wikipedia.org/wiki/TIFF)
 
 Tagged Image File Format can be used as a container for [JPEG](https://en.wikipedia.org/wiki/JPEG)s or lossless raster information along with vector data about boundaries, and croppings. This format was created to provide a common ground for scanners in mid 80's but has been extended and is popular in photography, and publishing industry.
 
 One of the advantages of [TIFF](https://en.wikipedia.org/wiki/TIFF) over [JPEG](https://en.wikipedia.org/wiki/JPEG) is that it allows lossless compression algorithms such as: [PackBits](https://en.wikipedia.org/wiki/PackBits), [LZW](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch), [ZIP](https://en.wikipedia.org/wiki/Zip_(file_format)), amongst others.
 
 
-#### [GIF](https://en.wikipedia.org/wiki/GIF)
+####  [GIF](https://en.wikipedia.org/wiki/GIF)
 
 ### Vector-based
 
