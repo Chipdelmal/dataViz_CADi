@@ -32,4 +32,7 @@ Although it is less often though about, there are still some constraints in the 
 
 ## Telling a Story
 
+
+<img src="./media/flow3.png" width="100%">
+
 <img src="./media/poster.jpg" width="100%">

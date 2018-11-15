@@ -71,6 +71,7 @@ A compendium of available resources for data visualization activities.
 * [atom](https://atom.io/): Versatile IDE for R, Python, Markdown, Javascript, etcetera
 * [ffmpeg](https://www.ffmpeg.org/): Video Manipulation command line tool (can be used to create "stop-motion" animations)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf): Plotting in R
+* [gimp](https://www.gimp.org/): Free "photoshop" alternative
 * [github pages](https://pages.github.com/): Github pages
 * [irkernel](https://irkernel.github.io/installation/): R kernel for jupyter
 * [jekyll](https://jekyllrb.com/): Blog-like templates for github pages (Ruby)

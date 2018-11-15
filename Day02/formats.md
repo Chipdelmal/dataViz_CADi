@@ -12,12 +12,21 @@ JPEG/JFIF, JPEG 2000, Exif, TIFF, GIF, BMP, PNG, PPM/PGM/PBM/PNM, WebP, HDR, HEI
 
 #### [JPG, JPEG](https://en.wikipedia.org/wiki/JPEG)
 
-Uses the [discrete cosine transform](https://www.youtube.com/watch?v=Q2aEzeMDHMA) to achieve high compression rates.
+Uses the lossy [discrete cosine transform](https://www.youtube.com/watch?v=Q2aEzeMDHMA) to achieve high compression rates.
 
 * Good for: photographs
 * Bad for: sharp contrasts
 
-#### GIF
+#### [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
+
+#### [TIFF](https://en.wikipedia.org/wiki/TIFF)
+
+Tagged Image File Format can be used as a container for [JPEG](https://en.wikipedia.org/wiki/JPEG)s or lossless raster information along with vector data about boundaries, and croppings. This format was created to provide a common ground for scanners in mid 80's but has been extended and is popular in photography, and publishing industry.
+
+One of the advantages of [TIFF](https://en.wikipedia.org/wiki/TIFF) over [JPEG](https://en.wikipedia.org/wiki/JPEG) is that it allows lossless compression algorithms such as: [PackBits](https://en.wikipedia.org/wiki/PackBits) [LZW](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch), [ZIP](https://en.wikipedia.org/wiki/Zip_(file_format)), amongst others.
+
+
+#### [GIF](https://en.wikipedia.org/wiki/GIF)
 
 ### Vector-based
 
@@ -28,6 +37,14 @@ CGM, Gerber format, SVG
 ### Compound
 
 EPS, PDF, PS, PICT, WMF/EMF, SWF, XAML
+
+
+
+## More information
+
+For a more thorough comparison of various images formats look at this [link](https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats).
+
+<a href="https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats"><img src="./media/formatsComparison.png"  width="100%"></a>
 
 <hr>
 
