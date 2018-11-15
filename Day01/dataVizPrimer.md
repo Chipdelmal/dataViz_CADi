@@ -16,7 +16,7 @@
 
 ###  Utility VS Attractiveness
 
-Probably the most difficult one to balance.
+<img src="./media/aggregation02.png" width="100%">
 
 ###  Analysis VS Exploration
 
