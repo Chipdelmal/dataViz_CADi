@@ -1,49 +1,52 @@
-# My Background
+# Introduction
 
 <hr>
 
-## Studies
+## My Background
 
-###  BSc Mechatronics Engineering
+### Studies
 
-<img src="../docs/media/itesm.png" width="25%"><br>
-
-###  PhD Computer Science
+####  BSc Mechatronics Engineering
 
 <img src="../docs/media/itesm.png" width="25%"><br>
 
-### Postdoc Biostatistics/Epidemiology
+####  PhD Computer Science
+
+<img src="../docs/media/itesm.png" width="25%"><br>
+
+##¢# Postdoc Biostatistics/Epidemiology
 
 <img src="../docs/media/berkeley.jpg" width="25%"><img src="../docs/media/ihme.png" width="23%"><br>
 
 <hr>
 
-## Industry and Research
+### Industry and Research
 
-### Volvo: Trainee/Consultant
+#### Volvo: Trainee/Consultant
 
-### ININ: Research Internship
+#### ININ: Research Internship
 
-### Institute of Health Metrics Evaluation: External Consultant
+#### Institute of Health Metrics Evaluation: External Consultant
 
 <hr>
 
-##  Current Research
+###  Current Research
 
-### [MGDrivE](https://marshalllab.github.io/MGDrivE/)
+#### [MGDrivE](https://marshalllab.github.io/MGDrivE/)
 
 <a href="https://www.youtube.com/watch?v=xNpVog_X8aY&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&index=2">
 <img src="../docs/media/images/taleOfTwoCities.png" width="100%">
-</a>
+</a><br><br><br>
 
-### [MoNeT](https://chipdelmal.github.io/MoNeT/)
+#### [MoNeT](https://chipdelmal.github.io/MoNeT/)
 
 <img src="../docs/media/images/R001.png" width="100%">
 <img src="../docs/media/images/R002.png" width="100%">
 <img src="../docs/media/images/R003.png" width="100%">
+<br><br><br>
 
-####  Benji
 
-### [MBITES](https://smitdave.github.io/MASH-Development/)
+#### [MBITES](https://smitdave.github.io/MASH-Development/)
 
 <img src="../docs/media/images/graph.jpg" width="50%">
+<br><br><br>

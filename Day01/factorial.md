@@ -2,6 +2,8 @@
 
 **Input:** *{x,y: z}* coordinates
 
+<hr>
+
 # Exercise
 
 <center>
@@ -9,3 +11,5 @@
     <img src="./media/factorialDemo.png" width="100%">
   </a>
 </center>
+
+<hr>

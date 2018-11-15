@@ -2,6 +2,8 @@
 
 **Input data:** Transition matrices/Edges lists
 
+<hr>
+
 ### Heatmap
 
 ### Network
@@ -19,6 +21,8 @@ Frequently used in genetic analyses. Some common packages that are widely used t
 ### Sankey Diagram
 
 [networkD3 (R)](https://www.r-graph-gallery.com/sankey-diagram/)
+
+<hr>
 
 # Extensions and Gallery
 

@@ -1,9 +1,18 @@
 # Time Series
 
+<hr>
+
 ## Line Plots
 
 <img src="./media/traces02.png" width="100%">
 
+
+## Heatmap
+
+<img src="./media/flow3.png" width="100%">
+
+
+<hr>
 
 # Exercise
 
@@ -19,9 +28,9 @@ For this exercise, we will use the data from a stochastic simulation of three mo
 
 Click on the image to follow the link to the folder with the code.
 
+<hr>
+
 # Extensions and Gallery
-
-
 
 Dissecting a mosquito life history:
 
