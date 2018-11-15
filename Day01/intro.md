@@ -20,11 +20,11 @@
 
 ## Industry and Research
 
-### Volvo: Trainee and Consultant
+### Volvo: Trainee/Consultant
 
 ### ININ: Research Internship
 
-### Institute of Health Metrics Evaluation
+### Institute of Health Metrics Evaluation: External Consultant
 
 <hr>
 
@@ -32,7 +32,15 @@
 
 ### [MGDrivE](https://marshalllab.github.io/MGDrivE/)
 
+<a href="https://www.youtube.com/watch?v=xNpVog_X8aY&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&index=2">
+<img src="../docs/media/images/taleOfTwoCities.png" width="100%">
+</a>
+
 ### [MoNeT](https://chipdelmal.github.io/MoNeT/)
+
+<img src="../docs/media/images/R001.png" width="100%">
+<img src="../docs/media/images/R002.png" width="100%">
+<img src="../docs/media/images/R003.png" width="100%">
 
 ####  Benji
 
