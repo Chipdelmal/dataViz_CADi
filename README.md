@@ -27,7 +27,6 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 ## Contents
 
 
-<br><img src="./Day01/media/flow.jpg"  width="100%"><br>
 
 ### Day 01 (8h)
 
@@ -49,6 +48,8 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 3. [ggplot]():
 4. [networkD3]():
 
+<br><img src="./docs/media/images/aggregation.png" width="100%"><br>
+
 ### Day 03 (8h)
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
@@ -60,11 +61,14 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 5. [ffmpeg](./Day03/ffmpeg.md): Stop-motion animations, Further video editing
 
 
+<br><img src="./docs/media/images/crispr.jpg" width="100%"><br>
+
 <hr>
 
 ## Resources
 
 A compendium of available resources for data visualization activities.
+
 
 ### Tools
 
@@ -96,6 +100,7 @@ A compendium of available resources for data visualization activities.
 * Observable: https://beta.observablehq.com/collection/@observablehq/
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
+* The R Graph Gallery: https://www.r-graph-gallery.com
 * The Truthful Art: https://truth-and-beauty.net/
 
 
@@ -107,8 +112,11 @@ A compendium of available resources for data visualization activities.
 * [Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. ISBN-13: 978-1473912144](http://www.visualisingdata.com/book/)
 * [Adams, S., & Helfand, J. (2017). The designer’s dictionary of color. 9781419723919](https://www.amazon.com/Designers-Dictionary-Color-Sean-Adams/dp/141972391X/ref=sr_1_1?ie=UTF8&qid=1540755233&sr=8-1&keywords=the+designers+dictionary+of+color)
 
+
+<br><img src="./Day01/media/flow.jpg"  width="100%"><br>
+
 <hr>
 
-## [Ph.D. Héctor Manuel Sánchez Castellanos](./Day01/intro.md)
+## [Ph.D. Héctor Manuel Sánchez Castellanos](./Day01/cv.md)
 
 <img src="./docs/media/berkeley.jpg" width="200"><img src="./docs/media/itesm.png" width="200"><br>
