@@ -32,11 +32,12 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Data Visualization Primer](./Day01/dataVizPrimer.md):
-2. [Data Handling/Data Sources](./Day01/dataHandlingAndDataSources.md)
-2. [Mathematica/R Primer](./Day01/programmingPrimer.md):
-3. [Types of plots](./Day01/plotTypes.md):
-4. [Colors](./Day01/colors.md): Color Palettes
+1. [Introduction](./Day01/intro.md)
+2. [Data Visualization Primer](./Day01/dataVizPrimer.md):
+3. [Data Handling/Data Sources](./Day01/dataHandlingAndDataSources.md)
+4. [Mathematica/R Primer](./Day01/programmingPrimer.md):
+5. [Types of plots](./Day01/plotTypes.md):
+6. [Colors](./Day01/colors.md): Color Palettes
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 
@@ -95,14 +96,15 @@ A compendium of available resources for data visualization activities.
 
 ### Online
 
-* Data Wrapper: https://app.datawrapper.de/
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Markdown Specs: https://github.github.com/gfm/
-* Observable: https://beta.observablehq.com/collection/@observablehq/
-* Plots and Charts Galleries: https://datavizproject.com/
-* Plot Type Selector: http://chartmaker.visualisingdata.com/
-* The R Graph Gallery: https://www.r-graph-gallery.com
-* The Truthful Art: https://truth-and-beauty.net/
+* [Data Visualization Catalogue](https://datavizcatalogue.com/index.html)
+* [Data Wrapper](https://app.datawrapper.de/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Specs](https://github.github.com/gfm/)
+* [Observable](https://beta.observablehq.com/collection/@observablehq/)
+* [Plots and Charts Galleries](https://datavizproject.com/)
+* [Plot Type Selector](http://chartmaker.visualisingdata.com/)
+* [The R Graph Gallery](https://www.r-graph-gallery.com)
+* [The Truthful Art](https://truth-and-beauty.net/)
 
 
 ### Books
