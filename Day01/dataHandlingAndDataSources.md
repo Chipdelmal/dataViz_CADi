@@ -1,5 +1,7 @@
 # Data Handling and Data Sources
 
+Nearly every data visualization project starts with some combination of data gathering-cleaning-parsing. These combinations of activities are usually domain-specific, and sometimes even application-specific. As such, we can't cover this bread subject in a data-visualization course. We will focus on some of the main formats, and related activities. As well as provide as some tools/resources that could be useful for people in the future.
+
 <hr>
 
 ## Data Transmission Formats
