@@ -96,15 +96,15 @@ A compendium of available resources for data visualization activities.
 
 ### Online
 
-* [Data Visualization Catalogue](https://datavizcatalogue.com/index.html)
-* [Data Wrapper](https://app.datawrapper.de/)
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Markdown Specs](https://github.github.com/gfm/)
-* [Observable](https://beta.observablehq.com/collection/@observablehq/)
-* [Plots and Charts Galleries](https://datavizproject.com/)
-* [Plot Type Selector](http://chartmaker.visualisingdata.com/)
-* [The R Graph Gallery](https://www.r-graph-gallery.com)
-* [The Truthful Art](https://truth-and-beauty.net/)
+* Data Visualization Catalogue: https://datavizcatalogue.com/index.html
+* Data Wrapper: https://app.datawrapper.de/
+* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* Markdown Specs: https://github.github.com/gfm/
+* Observable: https://beta.observablehq.com/collection/@observablehq/
+* Plots and Charts Galleries: https://datavizproject.com/
+* Plot Type Selector: http://chartmaker.visualisingdata.com/
+* The R Graph Gallery: https://www.r-graph-gallery.com
+* The Truthful Art: https://truth-and-beauty.net/
 
 
 ### Books
