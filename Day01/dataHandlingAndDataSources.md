@@ -1,5 +1,6 @@
 # Data Handling and Data Sources
 
+<hr>
 
 ## Data Transmission Formats
 
@@ -112,12 +113,44 @@ Human-readable data transmission format based on "attribute-value" pairs and arr
 }]
 ```
 
+<hr>
 
-## Data Cleaning
+## Data Cleaning/Wrangling
 
-### Recommendation
+Tedious and unappreciated task of gathering the data we need to analyze, and processing it to make it consistent/usable.
+
+### Custom Scripts
+
+Most flexible way to do data wrangling, albeit time-consuming. Python is specially useful in these activities due to its easy to learn syntax, and thorough documentation, and [resources](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o1&hvnetw=g&hvrand=2146894602476699957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032076&hvtargid=pla-396828636441&psc=1).
+
+```python
+def compileFactorialCSVFromFiles(path, outFilename):
+    files = os.listdir(path)
+    filenames = [
+        path + name for name in files if fnmatch.fnmatch(name, 'E_*.csv')
+    ]
+    f = open(path+outFilename, 'wb')
+    for file in filenames:
+        fileData = np.genfromtxt(file, skip_header=1, delimiter=",")
+        np.savetxt(f, fileData, fmt='%2.5f', delimiter=",")
+    f.close()
+```
 
 
+### [OpenRefine](http://openrefine.org/)
+
+
+<a href="http://openrefine.org/">
+<img src="./media/openRefine.png" width="100%">
+</a>
+
+### [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/)
+
+<a href="https://shancarter.github.io/mr-data-converter/">
+<img src="./media/mrData.png" width="100%">
+</a>
+
+<hr>
 
 ##  Some Useful Data Sources
 

@@ -33,7 +33,7 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
 1. [Data Visualization Primer](./Day01/dataVizPrimer.md):
-2. [Data Handling/Data Sources](./Day01/DataHandlingAndDataSources.md)
+2. [Data Handling/Data Sources](./Day01/dataHandlingAndDataSources.md)
 2. [Mathematica/R Primer](./Day01/programmingPrimer.md):
 3. [Types of plots](./Day01/plotTypes.md):
 4. [Colors](./Day01/colors.md): Color Palettes
@@ -112,7 +112,7 @@ A compendium of available resources for data visualization activities.
 * [Cairo, Alberto (2016). The truthful art: data, charts, and maps for communication.  ISBN-13: 978-0321934079 ](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
 * [Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. ISBN-13: 978-1473912144](http://www.visualisingdata.com/book/)
 * [Adams, S., & Helfand, J. (2017). The designer’s dictionary of color. 9781419723919](https://www.amazon.com/Designers-Dictionary-Color-Sean-Adams/dp/141972391X/ref=sr_1_1?ie=UTF8&qid=1540755233&sr=8-1&keywords=the+designers+dictionary+of+color)
-
+* [McKinney, W. Python for Data Analysis - Data Wrangling with Pandas, Numpy and Python. (2018). ISBN-13: 1491957662](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o1&hvnetw=g&hvrand=2146894602476699957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032076&hvtargid=pla-396828636441&psc=1)
 
 <br><img src="./Day01/media/flow.jpg"  width="100%"><br>
 
