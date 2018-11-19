@@ -10,6 +10,5 @@
 * Dimensionality reduction techniques (PCA)
 * Artistic data visualization
 
-<img src="./media/verseCloud.jpg" width="100%">
 
-##
+## 
