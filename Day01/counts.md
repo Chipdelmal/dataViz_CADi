@@ -1,13 +1,31 @@
 
 # Counts
 
-**Input:** *{x,y}* or *{x,y,z}* coordinates
+**Input:** *{counts}* or *{time,counts}* coordinates
 
-## Stream Chart
+<hr>
+
+## Stream Chart (stacked area)
 
 <img src="./media/flow.jpg" width="100%">
 
+<hr>
 
+# Exercise
+
+For this exercise, we will use the aggregated data from a deterministic simulation of three mosquito genotypes interactions in a spatial landscape. We will generate the stacked area chart of the information in _plotly_ to create an interactive version of the
+
+<br>
+<center>
+  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/StackedArea">
+    <img src="./media/stackedExercise.png" width="100%"></center>
+  </a>
+</center>
+<br>
+
+Click on the image to follow the link to the folder with the code.
+
+<hr>
 
 # Extensions and Gallery
 

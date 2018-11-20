@@ -1,16 +1,16 @@
-import csv
+
 import numpy as np
 import plotly
 import plotly.graph_objs as go
-import plotly.offline as offline
 
+# Loading data
 inData = np.genfromtxt('deterministicData.csv', delimiter=',')
 labels = ["W", "H", "R"]
 colors = [
     "rgb(25,128,255)", "rgb(255,25,128)",
-     "rgb(128,0,255)", "rgb(255,0,255)"
+    "rgb(128,0,255)", "rgb(255,0,255)"
 ]
-range(0, len(inData))
+# Generating traces
 tracesList = []
 for i in range(0, len(labels)):
     trace = dict(
@@ -22,6 +22,7 @@ for i in range(0, len(labels)):
         name=labels[i]
     )
     tracesList.append(trace)
+# Setting up the layout
 layout = go.Layout(
     title='Genotypes Breakdown',
     xaxis=dict(
@@ -35,6 +36,7 @@ layout = go.Layout(
     width=1500,
     height=400
 )
+# Plotting
 fig = go.Figure(data=tracesList, layout=layout)
 # py.iplot(fig,filename='stacked-area-plot-hover',validate=False)
 plotly.offline.plot(fig, filename='alleleFrequencyPython.html')
