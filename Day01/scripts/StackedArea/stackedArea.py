@@ -17,6 +17,7 @@ for i in range(0, len(labels)):
         x=list(range(0, len(inData))),
         y=inData[:, i],
         stackgroup='one',
+        #groupnorm='fraction',
         mode='lines',
         line=dict(width=3, color=colors[i]),
         name=labels[i]
