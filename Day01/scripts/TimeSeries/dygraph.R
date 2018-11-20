@@ -9,3 +9,8 @@ tsDataC=ts(readData$V3, frequency = 4, start = c(1959, 2))
 tsData=cbind(tsDataA,tsDataB,tsDataC)
 dygraph(tsData, main = "New Haven Temperatures") %>% dyRangeSelector()
 
+
+# Source: https://rstudio.github.io/dygraphs/
+lungDeaths <- cbind(mdeaths, fdeaths)
+dygraph(lungDeaths)
+dygraph(lungDeaths) %>% dyRangeSelector()
