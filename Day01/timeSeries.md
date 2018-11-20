@@ -2,7 +2,7 @@
 
 <hr>
 
-## Line Plots
+## Line Plots (connected scatter plots)
 
 <img src="./media/traces02.png" width="100%">
 

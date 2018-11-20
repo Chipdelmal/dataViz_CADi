@@ -53,3 +53,6 @@
 ## More information
 
 Take a look at my [personal website](https://chipdelmal.github.io/), [ResearchGate](https://www.researchgate.net/profile/Hector_Sanchez_Castellanos), or [github](https://github.com/Chipdelmal) for more information about the projects I'm currently involved with!
+
+
+<img src="./media/verseCloud.jpg" width="100%">
