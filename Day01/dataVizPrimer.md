@@ -14,9 +14,24 @@
 
 ## How?
 
-<center>
-  <a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="./media/visualCues.png" width="35%"></a>
-</center>
+There are several visual cues that help viewers interpret data. The most common ones are:
+
+* Position
+* Length
+* Angle
+* Direction
+* Shape
+* Area
+* Volume
+* Color
+  * Saturation
+  * Hue
+  * Transparency
+
+
+<!--
+<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="./media/visualCues.png" width="35%"></a>
+-->
 
 <hr>
 
