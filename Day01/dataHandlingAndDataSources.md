@@ -4,7 +4,7 @@ Nearly every data visualization project starts with some combination of data gat
 
 <hr>
 
-## Data Transmission Formats
+## Data Sharing Formats
 
 Several data formats exist depending on the specific field of study, and applications we are working on. Geographic data, genetics, mathematics, each field has its own set of preferred data sources and formats. It is impossible to cover them all, but some of the most common ones across fields are: [CSV/TSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://en.wikipedia.org/wiki/XML), and [JSON](https://en.wikipedia.org/wiki/JSON).
 
