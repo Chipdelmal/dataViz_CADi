@@ -1,4 +1,5 @@
-# Markdown and HTML
+
+# [ffmpeg](https://www.ffmpeg.org/)
 
 * Exporting time-lapse videos in 8k
 
@@ -23,3 +24,5 @@ ffmpeg -i ffmpegSample8K.mp4 -vf scale=1920:1080 -r 60 -b:v 3M ffmpegSampleReduc
 ```bash
 ffmpeg -i ffmpegSample8K.mp4 -vf "pad=width=3840:height=2160:x=150:y=350:color=white"  ffmpegSample8K_Padded.mp4
 ```
+
+* [Generating GIFs](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
