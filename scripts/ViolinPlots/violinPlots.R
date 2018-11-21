@@ -37,3 +37,14 @@ data_summary <- function(x) {
    return(c(y=m,ymin=ymin,ymax=ymax))
 }
 p + stat_summary(fun.data=data_summary)
+
+
+dp <- ggplot(ToothGrowth, aes(x=dose, y=len, fill=dose)) +
+  geom_violin(trim=FALSE)+
+  geom_boxplot(width=0.1, fill="white")+
+  labs(title="Plot of length  by dose",x="Dose (mg)", y = "Length")
+dp = dp + scale_fill_brewer(palette="Blues") + theme_classic()
+
+pdf("violinChart.pdf", width = 4, height = 4)
+dp
+dev.off()
