@@ -44,7 +44,17 @@ Although it is often neglected in science and engineering, aesthetics are import
 
 ## Other Notes
 
+Besides those two main points, there is a couple more things that might be worth taking into account when picking a color palette, or designing to avoid al the information being dependent on color.
+
+### Projectors
+
+Although we can't plan on every type of possible projector failure, we do need to factor in that, if we are presenting our work live, there's always the chance that things might go wrong and if our color palette is not wide enough, differences between tones might be blurred.
+
 ### Colorblindness
+
+Designing for colorblindness is difficult. There are tools that can help us understand how differentiable our color palettes are, such as the one accessible through the link accessible by clicking the image:
+
+<a href="https://coolors.co/edffec-6320ee-61e786-70a0af-494368"><img src="./media/colorblind.png" width="100%"></a>
 
 <hr>
 

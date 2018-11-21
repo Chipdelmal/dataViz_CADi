@@ -102,6 +102,7 @@ A compendium of available resources for data visualization activities.
 
 ### Online
 
+* Coolors Color Palettes: https://coolors.co
 * Data Visualization Catalogue: https://datavizcatalogue.com/index.html
 * Data Wrapper: https://app.datawrapper.de/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
