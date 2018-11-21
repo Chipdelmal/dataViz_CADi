@@ -50,7 +50,7 @@ In the following module, we will show some of the most common ways to display in
 ###  [Factorial](./factorial.md)
 
 
-### [Geographic](./geographic.md)
+###   [Geographic](./geographic.md)
 
 ## Useful Resources
 
