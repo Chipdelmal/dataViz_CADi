@@ -11,7 +11,7 @@ In the following module, we will show some of the most common ways to display in
 
 * __Data type:__ frequencies or ratios
 
-<br><img src="../media/violin.png" width="50%">
+<br><img src="../media/violin.png" width="35%">
 
 <hr>
 
