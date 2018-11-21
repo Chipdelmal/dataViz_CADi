@@ -2,6 +2,7 @@
 
 #install.packages("ggplot2")
 library(ggplot2)
+options(repr.plot.width=4, repr.plot.height=3)
 
 # Loading and perparing the dataset
 ToothGrowth$dose <- as.factor(ToothGrowth$dose)
@@ -47,7 +48,18 @@ dp <- ggplot(ToothGrowth, aes(x=dose, y=len, fill=dose)) +
   geom_boxplot(width=0.1, fill="white")+
   labs(title="Plot of length  by dose",x="Dose (mg)", y = "Length")
 dp = dp + scale_fill_brewer(palette="Blues") + theme_classic()
+dp
 
 pdf("violinChart.pdf", width = 4, height = 4)
 dp
 dev.off()
+
+
+###############################################################################
+# Violin Chart from box-whisker example
+###############################################################################
+
+width=1
+dp=ggplot(diamonds, aes(carat, price)) +
+  geom_violin(aes(group = cut_width(carat, width), fill=cut_width(carat, width)))
+dp + theme(legend.position='none')

@@ -11,6 +11,8 @@
 
 ## Box Whisker Charts
 
+<br><img src="../media/boxWhisker.jpg" width="100%">
+
 <hr>
 
 ## Violin Plot
