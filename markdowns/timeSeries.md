@@ -76,7 +76,6 @@ This exercise shows how to create a "dygraph" for time series data with R.
 
 <hr><hr>
 
-
 # Extensions and Gallery
 
 ## Dissecting a mosquito life history
@@ -92,3 +91,8 @@ This exercise shows how to create a "dygraph" for time series data with R.
 ## Using Color Transparency to show spatio-temporal processes in a single plot
 
 <img src="../media/heatmapExt02.png" width="100%"><br><br><br>
+
+
+
+
+<iframe scrolling="no" src="https://plot.ly/~chipdelmal/0.embed?height=1000" width="100%""></iframe>
