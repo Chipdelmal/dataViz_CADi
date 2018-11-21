@@ -99,6 +99,7 @@ A compendium of available resources for data visualization activities.
 * [sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor): Latex to image converter to embed them into markdown
 * [shiny](http://shiny.rstudio.com/): Interactive web development
 * [slides](https://slides.com/): GUI for revealjs
+* [tydiverse](https://www.tidyverse.org/): Collection of R packages designed for data science.
 
 ### Online
 
