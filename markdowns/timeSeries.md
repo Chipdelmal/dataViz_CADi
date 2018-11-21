@@ -43,7 +43,7 @@ In this exercise, we will use the data from a stochastic simulation of three mos
 <br>
 <center>
   <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/TimeSeries">
-    <img src="./media/traces.png" width="100%"></center>
+    <img src="../media/traces.png" width="100%"></center>
   </a>
 </center>
 <br>
@@ -56,7 +56,7 @@ In this exercise, we will use the aggregated data from a deterministic simulatio
 <br>
 <center>
   <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/StackedArea">
-    <img src="./media/stackedExercise.png" width="100%"></center>
+    <img src="../media/stackedExercise.png" width="100%"></center>
   </a>
 </center>
 <br>
@@ -69,7 +69,7 @@ This exercise shows how to create a "dygraph" for time series data with R.
 <br>
 <center>
   <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/Dygraph">
-    <img src="./media/dygraph.png" width="100%"></center>
+    <img src="../media/dygraph.png" width="100%"></center>
   </a>
 </center>
 <br>
@@ -81,14 +81,16 @@ This exercise shows how to create a "dygraph" for time series data with R.
 
 ## Dissecting a mosquito life history
 
-<img src="./media/F_mosy74_2858.png" width="50%"><img src="./media/F_mosy65_2770.png" width="50%"><br><br><br>
+<img src="../media/F_mosy74_2858.png" width="50%"><img src="../media/F_mosy65_2770.png" width="50%"><br><br><br>
 
 
 
 ## Displaying spatio-temporal processes in a landscape
 
-<img src="./media/heatmapExt01.jpg" width="100%"><br><br><br>
+<img src="../media/heatmapExt01.jpg" width="100%"><br><br><br>
 
 ## Using Color Transparency to show spatio-temporal processes in a single plot
 
-<img src="./media/heatmapExt02.png" width="100%"><br><br><br>
+<img src="../media/heatmapExt02.png" width="100%"><br><br><br>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chipdelmal/12.embed"></iframe>
