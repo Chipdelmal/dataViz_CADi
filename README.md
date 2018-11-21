@@ -34,12 +34,12 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Introduction](./Day01/intro.md): Objectives, Scope, ...
-2. [Data Visualization Primer](./Day01/dataVizPrimer.md): Data visualization ideas and good practices
-3. [Mathematica/R/Python Primer](./Day01/programmingPrimer.md):
-4. [Data Handling/Data Sources](./Day01/dataHandlingAndDataSources.md)
-5. [Plot Types (first part)](./Day01/plotTypes.md):
-6. [Colors](./Day01/colors.md): Color Palettes
+1. [Introduction](./markdowns/intro.md): Objectives, Scope, ...
+2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization ideas and good practices
+3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md):
+4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md)
+5. [Plot Types (first part)](./markdowns/plotTypes.md):
+6. [Colors](./markdowns/colors.md): Color Palettes
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 
@@ -47,9 +47,9 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
-1. [Media Formats](./Day02/formats.md): Raster-based, Vector-based
+1. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
 2. [Plot Types (second part)](./Day01/plotTypes.md):
-3. [Good Practices](./Day02/goodPractices.md):
+3. [Good Practices](./markdowns/goodPractices.md):
 4. [plotly](https://plot.ly/):
 5. [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html):
 6. [networkD3](https://christophergandrud.github.io/networkD3/):
@@ -61,11 +61,11 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
-1. [Markdown](./Day03/markdown.md):
-2. [Remark](./Day03/remark.md):
-3. [gh-pages](./Day03/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
-4. [Revealjs](./Day03/revealjs.md): MathJax
-5. [ffmpeg](./Day03/ffmpeg.md): Stop-motion animations, Further video editing
+1. [Markdown](./markdowns/markdown.md):
+2. [Remark](./markdowns/remark.md):
+3. [gh-pages](./markdowns/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
+4. [Revealjs](./markdowns/revealjs.md): MathJax
+5. [ffmpeg](./markdowns/ffmpeg.md): Stop-motion animations, Further video editing
 
 
 <br><img src="./docs/media/images/crispr.jpg" width="100%"><br>
@@ -123,7 +123,7 @@ A compendium of available resources for data visualization activities.
 * [Yau, N. (2011). Visualize this : the FlowingData guide to design, visualization, and statistics. Wiley Pub. ISBN-13: 978-0470944882](https://flowingdata.com/books/)
 * [Yau, N. (2013). Data points: visualization that means something. ISBN-13: 978-1118462195](https://flowingdata.com/books/)
 
-<br><img src="./Day01/media/flow.jpg"  width="100%"><br>
+<br><img src="./media/flow.jpg"  width="100%"><br>
 
 <hr>
 
