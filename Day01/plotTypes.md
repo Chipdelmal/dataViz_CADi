@@ -5,52 +5,65 @@ Plots types are as difficult to classify as the data they represent. There are c
 
 In the following module, we will show some of the most common ways to display information according to the underlying data they hold, and the use we want to give to it.
 
+<hr><hr>
+
 ## Main Categories
+
+<hr>
 
 ###  [Counts](./counts.md)
 
 * __Data type:__
 
-<img src="./media/flow.jpg" width="100%">
 
 
+<hr>
 
 ###  [Scatter](./scatter.md)
 
 * __Data type:__ *{x,y}* or *{x,y,z}* coordinates
 
-
+<hr>
 
 ###  [Time Series](./timeSeries.md)
 
 * __Data type:__ Data counts varying over time.
 
-<img src="./media/traces02.png" width="100%">
+<img src="./media/traces02.png" width="70%">
 
-
+<hr>
 
 ###  [Transitions](./transitions.md)
 
 * __Data type:__ matrices that represent transitions between states.
 
-<img src="./media/network.png" width="50%"><img src="./media/chord_Baseline.png" width="50%">
+<img src="./media/network.png" width="35%"><img src="./media/chord_Baseline.png" width="35%">
 
-
+<hr>
 
 ###  [Multidimensional](./multidimensional.md)
 
 * __Data type:__ Data with high dimensionality (for classification, from factorial experiments).
 
-<img src="./media/SpheresPlots_H.jpg" width="100%">
+<img src="./media/SpheresPlots_H.jpg" width="70%">
+
+<hr>
 
 ###  [Clustering](./clustering.md)
 
 * __Data type:__ Scatter, or networks data for clustering applications.
 
+<hr>
+
 ###  [Factorial](./factorial.md)
 
 
-### [Geographic](./geographic.md)
+<hr>
+
+###   [Geographic](./geographic.md)
+
+
+<hr><hr>
 
 ## Useful Resources
 
