@@ -35,7 +35,7 @@ Categorical color palettes, as their name implies, are great for categorical dat
 
 ##  Aesthetics
 
-Although it is often neglected in...
+Although it is often neglected in scientific contexts, aesthetically pleasing representations of information tend to attract more attention.
 
 <hr>
 

@@ -29,7 +29,7 @@ In the following module, we will show some of the most common ways to display in
 
 * __Data type:__ Data counts varying over time.
 
-<img src="./media/traces02.png" width="100%">
+<img src="./media/traces02.png" width="70%">
 
 <hr>
 
@@ -37,7 +37,7 @@ In the following module, we will show some of the most common ways to display in
 
 * __Data type:__ matrices that represent transitions between states.
 
-<img src="./media/network.png" width="50%"><img src="./media/chord_Baseline.png" width="50%">
+<img src="./media/network.png" width="35%"><img src="./media/chord_Baseline.png" width="35%">
 
 <hr>
 
@@ -45,7 +45,7 @@ In the following module, we will show some of the most common ways to display in
 
 * __Data type:__ Data with high dimensionality (for classification, from factorial experiments).
 
-<img src="./media/SpheresPlots_H.jpg" width="100%">
+<img src="./media/SpheresPlots_H.jpg" width="70%">
 
 <hr>
 
