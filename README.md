@@ -36,9 +36,9 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 1. [Introduction](./Day01/intro.md): Objectives, Scope, ...
 2. [Data Visualization Primer](./Day01/dataVizPrimer.md): Data visualization ideas and good practices
-3. [Data Handling/Data Sources](./Day01/dataHandlingAndDataSources.md)
-4. [Mathematica/R/Python Primer](./Day01/programmingPrimer.md):
-5. [Types of plots (first part)](./Day01/plotTypes.md):
+3. [Mathematica/R/Python Primer](./Day01/programmingPrimer.md):
+4. [Data Handling/Data Sources](./Day01/dataHandlingAndDataSources.md)
+5. [Plot Types (first part)](./Day01/plotTypes.md):
 6. [Colors](./Day01/colors.md): Color Palettes
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
@@ -48,7 +48,7 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
 1. [Media Formats](./Day02/formats.md): Raster-based, Vector-based
-2. [Types of plots (second part)](./Day01/plotTypes.md):
+2. [Plot Types (second part)](./Day01/plotTypes.md):
 3. [plotly](https://plot.ly/):
 4. [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html):
 5. [networkD3](https://christophergandrud.github.io/networkD3/):
