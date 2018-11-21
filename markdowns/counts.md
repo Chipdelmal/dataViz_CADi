@@ -15,7 +15,7 @@
 
 ## Violin Plot
 
-<br><img src="../media/violin.png" width="35%"><br>
+<br><img src="../media/violinChart.jpg" width="35%"><img src="../media/violin.png" width="35%"><br>
 
 <hr><hr>
 

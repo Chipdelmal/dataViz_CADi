@@ -37,6 +37,9 @@ data_summary <- function(x) {
    return(c(y=m,ymin=ymin,ymax=ymax))
 }
 p + stat_summary(fun.data=data_summary)
+pdf("violinChart.pdf", width = 4, height = 4)
+p
+dev.off()
 
 
 dp <- ggplot(ToothGrowth, aes(x=dose, y=len, fill=dose)) +
