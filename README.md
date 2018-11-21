@@ -16,7 +16,7 @@ Although not strictly required, having some knowledge on one of the following pr
 * [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
 * [R](https://www.r-project.org/): A popular statistical framework with lots of community support.
 
-There's examples developed in each of the platforms according to the specific application and availability of frameworks for specific applications.
+There's examples developed in each of the platforms according to the specific application and availability of frameworks for specific applications. For a useful guide on how to install R and Python kernels in Atom follow this [link](https://jstaf.github.io/2018/03/25/atom-ide.html).
 
 It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. Some useful packages for development in atom are:
 
@@ -112,7 +112,6 @@ A compendium of available resources for data visualization activities.
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
 * The R Graph Gallery: https://www.r-graph-gallery.com
 * The Truthful Art: https://truth-and-beauty.net/
-
 
 ### Books
 

@@ -5,67 +5,65 @@ Plots types are as difficult to classify as the data they represent. There are c
 
 In the following module, we will show some of the most common ways to display information according to the underlying data they hold, and the use we want to give to it.
 
-<hr><hr>
+<hr>
 
-## Main Categories
+##  [Counts](./counts.md)
+
+* __Data type:__ frequencies or ratios
+
+<br><img src="../media/violin.png" width="50%">
 
 <hr>
 
-###  [Counts](./counts.md)
-
-* __Data type:__
-
-
-
-<hr>
-
-###  [Scatter](./scatter.md)
+##  [Scatter](./scatter.md)
 
 * __Data type:__ *{x,y}* or *{x,y,z}* coordinates
 
 <hr>
 
-###  [Time Series](./timeSeries.md)
+##  [Time Series](./timeSeries.md)
 
-* __Data type:__ Data counts varying over time.
+* __Data type:__ data counts varying over time.
 
-<img src="./media/traces02.png" width="70%">
+<br><img src="../media/traces02.png" width="70%">
 
 <hr>
 
-###  [Transitions](./transitions.md)
+##  [Transitions](./transitions.md)
 
 * __Data type:__ matrices that represent transitions between states.
 
-<img src="./media/network.png" width="35%"><img src="./media/chord_Baseline.png" width="35%">
+<br><img src="../media/network.png" width="35%"><img src="../media/chord_Baseline.png" width="35%">
 
 <hr>
 
-###  [Multidimensional](./multidimensional.md)
+##  [Multidimensional](./multidimensional.md)
 
-* __Data type:__ Data with high dimensionality (for classification, from factorial experiments).
+* __Data type:__ data with high dimensionality (for classification, from factorial experiments).
 
-<img src="./media/SpheresPlots_H.jpg" width="70%">
-
-<hr>
-
-###  [Clustering](./clustering.md)
-
-* __Data type:__ Scatter, or networks data for clustering applications.
+<br><img src="../media/SpheresPlots_H.jpg" width="70%">
 
 <hr>
 
-###  [Factorial](./factorial.md)
+##  [Clustering](./clustering.md)
+
+* __Data type:__ scatter, or networks data for clustering applications.
+
+<hr>
+
+##  [Factorial](./factorial.md)
 
 
 <hr>
 
-###   [Geographic](./geographic.md)
+##   [Geographic](./geographic.md)
 
 
-<hr><hr>
+<hr>
 
 ## Useful Resources
+
+
 
 ### Framework Selector
 
