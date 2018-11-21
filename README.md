@@ -49,10 +49,11 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 1. [Media Formats](./Day02/formats.md): Raster-based, Vector-based
 2. [Plot Types (second part)](./Day01/plotTypes.md):
-3. [plotly](https://plot.ly/):
-4. [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html):
-5. [networkD3](https://christophergandrud.github.io/networkD3/):
-6. [D3js](https://d3js.org/):
+3. [Good Practices](./Day02/goodPractices.md):
+4. [plotly](https://plot.ly/):
+5. [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html):
+6. [networkD3](https://christophergandrud.github.io/networkD3/):
+7. [D3js](https://d3js.org/):
 
 <br><img src="./docs/media/images/aggregation.png" width="100%"><br>
 

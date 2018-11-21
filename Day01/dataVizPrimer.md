@@ -24,9 +24,8 @@ There are several visual cues that help viewers interpret data. The most common 
 * Area
 * Volume
 * Color
-  * Saturation
+  * Saturation/Transparency
   * Hue
-  * Transparency
 
 
 <!--
@@ -51,13 +50,13 @@ There's always tradeoffs we have to take into account when generating graphics f
 
 Increasing the level of abstraction usually tends to improve the aesthetics of visualization. This can be achieved by removing labels, and elements that might interfere with the graphics, but it comes at the cost of information.
 
-<img src="./media/aggregation02.png" width="100%">
+<img src="./media/aggregation02.png" width="50%">
 
 ###  Exploration VS Communication
 
 Whilst it is often a good practice to make our visualizations as clean, and  "publication-ready" as possible.
 
-<img src="./media/exploration.png" width="100%">
+<img src="./media/exploration.png" width="50%">
 
 ### Exploration VS Analysis
 
@@ -67,7 +66,7 @@ Whilst it is often a good practice to make our visualizations as clean, and  "pu
 
 Although it is less often though about, there are still some constraints in the print media that make it
 
-<img src="./media/flow3.png" width="100%">
+<img src="./media/flow3.png" width="50%">
 
 ### File Size VS Quality
 
