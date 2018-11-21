@@ -10,14 +10,14 @@ Time series data is extremely common amongst different fields.
 The baseline to which all other plots are compared to. This kind of graphic has the advantage of being easily interpretable by most audiences, and requires little explanation. By using thicknesses, and color palettes, we can differentiate traces and emphasize the most relevant information. In [exercise 1](#exercise01) we will see how changing these variables can help us transmit large amounts of information in a meaningful way.
 
 <br>
-<img src="./media/traces02.png" width="100%">
+<img src="../media/traces02.png" width="100%">
 
 <hr>
 
 
 ##  Stream Chart (stacked area)
 
-<img src="./media/flow.jpg" width="100%">
+<img src="../media/flow.jpg" width="100%">
 
 <hr>
 
@@ -29,7 +29,7 @@ The baseline to which all other plots are compared to. This kind of graphic has 
 
 ##  Heatmap
 
-<img src="./media/flow3.png" width="100%">
+<img src="../media/flow3.png" width="100%">
 
 
 <hr>
@@ -92,5 +92,3 @@ This exercise shows how to create a "dygraph" for time series data with R.
 ## Using Color Transparency to show spatio-temporal processes in a single plot
 
 <img src="../media/heatmapExt02.png" width="100%"><br><br><br>
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chipdelmal/12.embed"></iframe>
