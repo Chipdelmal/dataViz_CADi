@@ -5,7 +5,7 @@ Time series data is extremely common amongst different fields.
 <hr><hr>
 
 
-## Line Plots (connected scatter plots)
+##  Line Plots (connected scatter plots)
 
 The baseline to which all other plots are compared to. This kind of graphic has the advantage of being easily interpretable by most audiences, and requires little explanation. By using thicknesses, and color palettes, we can differentiate traces and emphasize the most relevant information. In [exercise 1](#exercise01) we will see how changing these variables can help us transmit large amounts of information in a meaningful way.
 
@@ -15,18 +15,19 @@ The baseline to which all other plots are compared to. This kind of graphic has 
 <hr>
 
 
-## Stream Chart (stacked area)
+##  Stream Chart (stacked area)
 
 <img src="./media/flow.jpg" width="100%">
 
 <hr>
 
-## Dygraph
+
+##  Dygraph
 
 <hr>
 
 
-## Heatmap
+##  Heatmap
 
 <img src="./media/flow3.png" width="100%">
 
@@ -48,7 +49,7 @@ In this exercise, we will use the data from a stochastic simulation of three mos
 <br>
 
 
-## [2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/StackedArea)
+##  [2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/StackedArea)
 
 In this exercise, we will use the aggregated data from a deterministic simulation of three mosquito genotypes interactions in a spatial landscape. We will generate the stacked area chart of the information in _plotly_ to create an interactive version of the dataset.
 
@@ -61,7 +62,7 @@ In this exercise, we will use the aggregated data from a deterministic simulatio
 <br>
 
 
-## [3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/Dygraph)
+##  [3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/Dygraph)
 
 This exercise shows how to create a "dygraph" for time series data with R.
 

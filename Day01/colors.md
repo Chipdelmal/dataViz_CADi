@@ -35,7 +35,7 @@ Categorical color palettes, as their name implies, are great for categorical dat
 
 ##  Aesthetics
 
-Although it is often neglected in
+Although it is often neglected in...
 
 <hr>
 
@@ -43,3 +43,4 @@ Although it is often neglected in
 
 * <a href="https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html">Sci-Fi Color Palettes</a>
 * <a href="http://colorbrewer2.org/#type=sequential&scheme=Blues&n=7">Color Brewer for Maps</a>
+* <a href="https://www.rdocumentation.org/packages/RColorBrewer/versions/1.1-2/topics/RColorBrewer">RColorBrewer Package</a>

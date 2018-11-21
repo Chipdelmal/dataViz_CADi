@@ -74,3 +74,9 @@ Although it is less often though about, there are still some constraints in the 
 This will become more apparent when we look into image formats
 
 ### Time
+
+<hr>
+
+## Steps
+
+### 1) Explore the data
