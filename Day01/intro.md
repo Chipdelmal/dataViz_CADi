@@ -9,6 +9,7 @@
 * "Print-ready" images editors (photoshop, gimp)
 * Dimensionality reduction techniques (PCA)
 * Artistic data visualization
+* Infographics
 
 
-## 
+##

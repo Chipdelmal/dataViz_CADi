@@ -32,14 +32,25 @@ Categorical color palettes, as their name implies, are great for categorical dat
 
 <a href="https://betterfigures.org/2015/06/23/picking-a-colour-scale-for-scientific-graphics/"><img src="./media/categorical.png" width="100%"></a>
 
+<hr>
 
 ##  Aesthetics
 
-Although it is often neglected in
+Although it is often neglected in science and engineering, aesthetics are important. Most of the default color palettes use some variation of the "complementary" (leftmost panel) or "triads" (rightmost panel) principle. This is a good way to make sure the colors are as differentiable as possible but, unfortunately, it does result in poor color combinations more often than not. A good compromise is to manually select colors that are "far apart enough", but that still match well with each other.
+
+<a href="https://www.aje.com/dist/docs/Using_Color_In_Your_Manuscript_Figures.pdf"><img src="./media/triads.png" width="100%"></a>
+
+<hr>
+
+## Other Notes
+
+### Colorblindness
 
 <hr>
 
 ##  Resources
 
+* <a href="https://coolors.co/">Coolors</a>
 * <a href="https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html">Sci-Fi Color Palettes</a>
 * <a href="http://colorbrewer2.org/#type=sequential&scheme=Blues&n=7">Color Brewer for Maps</a>
+* <a href="http://colorpalettes.net/">Artistic Color Palettes</a>
