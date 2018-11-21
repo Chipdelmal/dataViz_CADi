@@ -10,20 +10,23 @@ In the following module, we will show some of the most common ways to display in
 ##  [Counts](./counts.md)
 
 * __Data type:__ frequencies or ratios
+* __Some alternatives:__ histogram, smooth histogram, box-whisker chart, violin plot
 
-<br><img src="../media/violin.png" width="35%">
+<br><img src="../media/violin.png" width="35%"><img src="../media/hitsPaloAlto.jpg" width="35%">
 
 <hr>
 
 ##  [Scatter](./scatter.md)
 
 * __Data type:__ *{x,y}* or *{x,y,z}* coordinates
+* __Some alternatives:__
 
 <hr>
 
 ##  [Time Series](./timeSeries.md)
 
 * __Data type:__ data counts varying over time.
+* __Some alternatives:__
 
 <br><img src="../media/traces02.png" width="70%">
 
@@ -32,6 +35,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Transitions](./transitions.md)
 
 * __Data type:__ matrices that represent transitions between states.
+* __Some alternatives:__
 
 <br><img src="../media/network.png" width="35%"><img src="../media/chord_Baseline.png" width="35%">
 
@@ -40,6 +44,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Multidimensional](./multidimensional.md)
 
 * __Data type:__ data with high dimensionality (for classification, from factorial experiments).
+* __Some alternatives:__
 
 <br><img src="../media/SpheresPlots_H.jpg" width="70%">
 
@@ -47,16 +52,23 @@ In the following module, we will show some of the most common ways to display in
 
 ##  [Clustering](./clustering.md)
 
-* __Data type:__ scatter, or networks data for clustering applications.
+* __Data type:__ 
+* __Some alternatives:__
 
 <hr>
 
 ##  [Factorial](./factorial.md)
 
+* __Data type:__
+* __Some alternatives:__
+
 
 <hr>
 
 ##   [Geographic](./geographic.md)
+
+* __Data type:__
+* __Some alternatives:__
 
 
 <hr>
@@ -67,4 +79,4 @@ In the following module, we will show some of the most common ways to display in
 
 ### Framework Selector
 
-<a href="http://chartmaker.visualisingdata.com/"><img src="./media/chartTypes.png" width="100%"></a>
+<a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="100%"></a>
