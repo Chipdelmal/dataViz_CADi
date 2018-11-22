@@ -106,6 +106,7 @@ A compendium of available resources for data visualization activities.
 * Coolors Color Palettes: https://coolors.co
 * Data Visualization Catalogue: https://datavizcatalogue.com/index.html
 * Data Wrapper: https://app.datawrapper.de/
+* Google Charts: https://developers.google.com/chart/interactive/docs/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Markdown Specs: https://github.github.com/gfm/
 * Observable: https://beta.observablehq.com/collection/@observablehq/

@@ -5,7 +5,7 @@ Plots types are as difficult to classify as the data they represent. There are c
 
 In the following module, we will show some of the most common ways to display information according to the underlying data they hold, and the use we want to give to it.
 
-<hr>
+<hr><hr>
 
 ##  [Counts](./counts.md)
 
@@ -19,9 +19,9 @@ In the following module, we will show some of the most common ways to display in
 ##  [Scatter](./scatter.md)
 
 * __Data type:__ *{x,y}* or *{x,y,z}* coordinates
-* __Some alternatives:__ scatter with histogram, bubble
+* __Some alternatives:__ scatter with histogram, bubble chart
 
-<br><img src="../media/scatterHistogram.png" width="35%">
+<br><img src="../media/scatterHistogram.png" width="35%"><img src="../media/bubble.png" width="65%">
 
 <hr>
 
@@ -73,11 +73,13 @@ In the following module, we will show some of the most common ways to display in
 * __Some alternatives:__
 
 
-<hr>
+<hr><hr>
 
 ## Useful Resources
 
+### Datavizcatalogue
 
+<a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="100%"></a>
 
 ### Framework Selector
 

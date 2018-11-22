@@ -36,39 +36,39 @@ The baseline to which all other plots are compared to. This kind of graphic has 
 
 # Exercises
 
-##  <a name="exercise01">[1) Stochastic Traces (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/TimeSeries)</a>
+##  <a name="exercise01">[1) Stochastic Traces (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries)</a>
 
 In this exercise, we will use the data from a stochastic simulation of three mosquito genotypes interactions in a spatial landscape. Starting from datasets containing 50 repetitions of a stochastic experiment, we will create the following plot that allows the visualization of hundreds of traces, along with their mean in an easy to read format.
 
 <br>
 <center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/TimeSeries">
+  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries">
     <img src="../media/traces.png" width="100%"></center>
   </a>
 </center>
 <br>
 
 
-##  [2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/StackedArea)
+##  [2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)
 
 In this exercise, we will use the aggregated data from a deterministic simulation of three mosquito genotypes interactions in a spatial landscape. We will generate the stacked area chart of the information in _plotly_ to create an interactive version of the dataset.
 
 <br>
 <center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/StackedArea">
+  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea">
     <img src="../media/stackedExercise.png" width="100%"></center>
   </a>
 </center>
 <br>
 
 
-##  [3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/Dygraph)
+##  [3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)
 
 This exercise shows how to create a "dygraph" for time series data with R.
 
 <br>
 <center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/Dygraph">
+  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph">
     <img src="../media/dygraph.png" width="100%"></center>
   </a>
 </center>
