@@ -19,4 +19,4 @@ fig = ff.create_2d_density(
 )
 
 plotly.offline.iplot(fig, filename='histogram_subplots')
-plotly.offline.plot(fig, filename='density2D.html')
+plotly.offline.plot(fig, filename='scatterHistogram.html')

@@ -7,8 +7,11 @@ Plotly is an extremely versatile graphing framework for _Python_, _R_, _Javascri
 
 Some of the features that make Plotly stand out from other alternatives are:
 
-* Portability
-*  Aesthetics
+* Portability: R, Python, Matlab, Javascript
+* Aesthetics
+* Chartstudio
+
+<a href="https://plot.ly/online-chart-maker/"><img src="../media/plotlyWorkspace.png"  width="100%"></a>
 
 
 ## Use Examples
