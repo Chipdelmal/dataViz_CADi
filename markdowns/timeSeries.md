@@ -17,12 +17,16 @@ The baseline to which all other plots are compared to. This kind of graphic has 
 
 ##  Stream Chart (stacked area)
 
+In [exercise 2](#exercise02) we will see how to create these plots both in _R_ and _Python_.
+
 <img src="../media/flow.jpg" width="100%">
 
 <hr>
 
 
 ##  Dygraph
+
+Often used in economics, this plot shows us counts ofer time, along with the time information (on the bottom) as an interactive selector of the ranges to inspect. [Exercise 3](#exercise03) will show us how to create a dygraph in _R_.
 
 <hr>
 
@@ -49,7 +53,7 @@ In this exercise, we will use the data from a stochastic simulation of three mos
 <br>
 
 
-##  [2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)
+##  <a name="exercise02">[2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)</a>
 
 In this exercise, we will use the aggregated data from a deterministic simulation of three mosquito genotypes interactions in a spatial landscape. We will generate the stacked area chart of the information in _plotly_ to create an interactive version of the dataset.
 
@@ -62,7 +66,7 @@ In this exercise, we will use the aggregated data from a deterministic simulatio
 <br>
 
 
-##  [3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)
+##  <a name="exercise03">[3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)</a>
 
 This exercise shows how to create a "dygraph" for time series data with R.
 
