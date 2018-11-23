@@ -28,7 +28,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Time Series](./timeSeries.md)
 
 * __Data type:__ data counts varying over time.
-* __Some alternatives:__
+* __Some alternatives:__ Joined scatter plots, stream chart (stacked area), dygraph
 
 <br><img src="../media/traces02.png" width="70%">
 

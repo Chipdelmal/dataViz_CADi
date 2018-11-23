@@ -48,7 +48,7 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
 1. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
-2. [Plot Types (second part)](./Day01/plotTypes.md):
+2. [Plot Types (second part)](./plotTypes.md):
 3. [Good Practices](./markdowns/goodPractices.md):
 4. [plotly](https://plot.ly/):
 5. [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html):
