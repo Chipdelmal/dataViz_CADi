@@ -21,6 +21,15 @@
 
 <hr><hr>
 
+# Exercises
+
+##  <a name="exercise01">[1) Box-Whisker Chart (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/BoxWhiskerChart)</a>
+
+
+##  <a name="exercise01">[2) Violin Plots (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ViolinPlots)
+
+<hr><hr>
+
 # Extensions and Gallery
 
 ## Displaying the minimum distances between households

@@ -28,15 +28,16 @@ In [exercise 2](#exercise02) we will see how to create these plots both in _R_ a
 
 Often used in economics, this plot shows us counts ofer time, along with the time information (on the bottom) as an interactive selector of the ranges to inspect. [Exercise 3](#exercise03) will show us how to create a dygraph in _R_.
 
+<br>
+<img src="../media/dygraph.png" width="100%">
 <hr>
-
 
 ##  Heatmap
 
 <img src="../media/flow3.png" width="100%">
 
 
-<hr>
+<hr><hr>
 
 # Exercises
 

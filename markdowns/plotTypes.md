@@ -10,7 +10,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Counts](./counts.md)
 
 * __Data type:__ frequencies or ratios
-* __Some alternatives:__ histogram, smooth histogram, box-whisker chart, violin plot
+* __Some options:__ histogram, smooth histogram, box-whisker chart, violin plot
 
 <br><img src="../media/violin.png" width="35%"><img src="../media/hitsPaloAlto.jpg" width="35%">
 
@@ -19,7 +19,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Scatter](./scatter.md)
 
 * __Data type:__ *{x,y}* or *{x,y,z}* coordinates
-* __Some alternatives:__ scatter with histogram, bubble chart
+* __Some options:__ scatter with histogram, bubble chart
 
 <br><img src="../media/scatterHistogram.png" width="35%"><img src="../media/bubble.png" width="65%">
 
@@ -28,7 +28,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Time Series](./timeSeries.md)
 
 * __Data type:__ data counts varying over time.
-* __Some alternatives:__ Joined scatter plots, stream chart (stacked area), dygraph
+* __Some options:__ Joined scatter plots, stream chart (stacked area), dygraph
 
 <br><img src="../media/traces02.png" width="70%">
 
@@ -37,7 +37,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Transitions](./transitions.md)
 
 * __Data type:__ matrices that represent transitions between states.
-* __Some alternatives:__
+* __Some options:__
 
 <br><img src="../media/network.png" width="35%"><img src="../media/chord_Baseline.png" width="35%">
 
@@ -46,7 +46,7 @@ In the following module, we will show some of the most common ways to display in
 ##  [Multidimensional](./multidimensional.md)
 
 * __Data type:__ data with high dimensionality (for classification, from factorial experiments).
-* __Some alternatives:__ 4d contour plots
+* __Some options:__ 4d contour plots
 
 <br><img src="../media/SpheresPlots_H.jpg" width="70%">
 
@@ -55,14 +55,14 @@ In the following module, we will show some of the most common ways to display in
 ##  [Clustering](./clustering.md)
 
 * __Data type:__
-* __Some alternatives:__
+* __Some options:__
 
 <hr>
 
 ##  [Factorial](./factorial.md)
 
 * __Data type:__
-* __Some alternatives:__
+* __Some options:__
 
 
 <hr>
@@ -70,7 +70,7 @@ In the following module, we will show some of the most common ways to display in
 ##   [Geographic](./geographic.md)
 
 * __Data type:__
-* __Some alternatives:__
+* __Some options:__
 
 
 <hr><hr>

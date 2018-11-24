@@ -152,7 +152,6 @@ def compileFactorialCSVFromFiles(path, outFilename):
 <img src="../media/mrData.png" width="100%">
 </a>
 
-<hr>
 
 ### [Tidyverse](https://www.tidyverse.org/)
 

@@ -4,19 +4,35 @@
 
 ## My Background
 
+
+<hr><hr>
+
 ### Studies
 
-####  BSc Mechatronics Engineering
+#### BSc Mechatronics Engineering
 
-<img src="../docs/media/itesm.png" width="25%"><br>
+<img src="../docs/media/itesm.png" height="30px"><br>
 
-####  PhD Computer Science
+<hr>
 
-<img src="../docs/media/itesm.png" width="25%"><br>
+#### PhD Computer Science <br>
+
+<img src="../docs/media/itesm.png" height="30px"><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/trpYAquSXLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
 
 ### Postdoc Biostatistics/Epidemiology
 
-<img src="../docs/media/berkeley.jpg" width="25%"><img src="../docs/media/ihme.png" width="23%"><br>
+<img src="../docs/media/berkeley.jpg" height="30px">
+<img src="../docs/media/ihme.png" height="30px">
+<img src="../docs/media/itesm.png" height="30px">
+
+<br><br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNpVog_X8aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
@@ -34,8 +50,24 @@
 
 #### [MGDrivE](https://marshalllab.github.io/MGDrivE/)
 
+<img src="../media/berkeley.jpg" height="25px">
+<img src="../media/UCD.jpg" height="25px">
+<img src="../media/uci-stacked.png" height="25px">
+<img src="../media/UCLA.jpg" height="25px">
+<img src="../media/UCR.jpg" height="25px">
+<img src="../media/UCSD.jpg" height="25px">
+<img src="../media/JPL.jpg" height="25px">
+<img src="../media/DARPA.jpg" height="25px">
+<img src="../media/IGI.png" height="25px">
+<img src="../media/itesm.png" height="25px">
+
+<br><br>
+
 <a href="https://www.youtube.com/watch?v=xNpVog_X8aY&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&index=2">
 <img src="../docs/media/images/taleOfTwoCities.png" width="100%">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WUFyyF5xc4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </a><br><br><br>
 
 #### [MoNeT](https://chipdelmal.github.io/MoNeT/)

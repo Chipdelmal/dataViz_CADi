@@ -16,21 +16,20 @@
 
 There are several visual cues that help viewers interpret data. The most common ones are:
 
-* Position
-* Length
-* Angle
-* Direction
-* Shape
-* Area
-* Volume
-* Color
-  * Saturation/Transparency
-  * Hue
+* __Position:__ The coordinates of data points are usually related to the independent variables shown in the plots axes.
+* __Length:__ One of the easiest cues to decode, length is usually interpreted as _magnitude_.
+* __Direction:__ When used in time series,
+* __Angle:__ Generally mapped to rate of change in vector representations.
+* __Shape:__ Can be effectively used to differentiate between categorical datasets, or to emphasize data points.
+* __Area:__ Used to encode magnitde, this variable can be an effective, albeit tricky, method to show an extra dimension of our data in a two-dimensional setting.
+* __Volume:__ Although it is hard to use effectively, it can be used in analogous ways to area.
+* __Color:__
+  * __Hue:__ When used correctly in a [color palette](./colors.md), it can be a very effective way to transmit either magnitude, or difference between datasets.
+  * __Saturation/Transparency:__ The density of the color can be mapped to the magnitude of the dependent variable.
 
-
-<!--
-<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="./media/visualCues.png" width="35%"></a>
--->
+<br>
+<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="../media/visualCues.png" width="35%"></a>
+<br>
 
 <hr>
 
