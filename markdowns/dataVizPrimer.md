@@ -12,6 +12,16 @@
 
 <hr>
 
+## Telling a Story
+
+Data visualization is, ultimately, a tool to aid our narratives. Wether it is a scientific paper, a lecture, a talk, or an internal report; there is always an audience we want to convince, and a story we want to tell.
+
+<br>
+<img src="../media/poster.jpg" width="100%">
+
+<hr>
+
+
 ## How?
 
 There are several visual cues that help viewers interpret data. The most common ones are:
@@ -33,17 +43,12 @@ There are several visual cues that help viewers interpret data. The most common 
 
 <hr>
 
-## Telling a Story
-
-Data visualization is, ultimately, a tool to aid our narratives. Wether it is a scientific paper, a lecture, a talk, or an internal report; there is always an audience we want to convince, and a story we want to tell.
-
-<img src="../media/poster.jpg" width="100%">
-
-<hr>
-
 ## Constraints
 
 There's always tradeoffs we have to take into account when generating graphics for scientific/engineering contexts, and depending on our application we should be able to weight which elements are more important for our specific purposes.
+
+### Time
+
 
 ###  Utility VS Attractiveness
 
@@ -53,28 +58,39 @@ Increasing the level of abstraction usually tends to improve the aesthetics of v
 
 ###  Exploration VS Communication
 
-Whilst it is often a good practice to make our visualizations as clean, and  "publication-ready" as possible.
+Whilst it is often a good practice to make our visualizations as clean, and  "publication-ready" as possible, preparing a good graphic is time consuming. If we are interested in exploration, we might not need to devote so much time into labeling axes correctly, or using the appropriate font-size unless it is making the exploration easier.
 
 <img src="../media/exploration.png" width="50%">
 
 ### Exploration VS Analysis
 
+This constraint is a bit less obvious than the exploration versus communication one, but it's still important to make the disctintion between plots made for the purpose of detecting large trends in a dataset (in an inital state of experimentation), and plots that are specifically designed for analysis of a clear phenomenon.
+
 ###  Static VS Dynamic
+
+Dynamic contents have the advantage of being manipulable and interactive, which often results in better exploratory understanding of a concept. This, however, comes at the cost of media compatibility, and sometimes in a reduction of graphics quality.
 
 ###  Print VS Digital
 
-Although it is less often though about, there are still some constraints in the print media that make it
+Although it is less often though about, there are still some constraints in the print media that are worth considering. There is still a sector of the population that prefers to read papers in a printed format, so the font-sizes, colors, and shapes should ideally be readable even in lower resolutions.
 
 <img src="../media/flow3.png" width="50%">
 
 ### File Size VS Quality
 
-This will become more apparent when we look into image formats
-
-### Time
+This will become more apparent when we look into image formats that
 
 <hr>
 
 ## Steps
 
-### 1) Explore the data
+1) Explore the data
+2) Draft some ideas
+3) Select plot type
+4) Generate initial draft
+5) Improve aesthetics and communicability
+6) Iterate as necessary
+7) Work on the "presentation-ready" plot
+8) Work on the "print-ready" version
+
+<img src="../media/drafts01.jpg" width="50%"><img src="../media/drafts02.jpg" width="22.40%">

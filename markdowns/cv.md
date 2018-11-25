@@ -29,10 +29,14 @@
 <img src="../docs/media/ihme.png" height="30px">
 <img src="../docs/media/itesm.png" height="30px">
 
-<br><br>
-
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNpVog_X8aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+[MGDrivE: Mathematical Description](https://github.com/Chipdelmal/MGDrivE_Presentations/blob/gh-pages/MGDrivE_Manual.pdf)
+
 
 <hr>
 
