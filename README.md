@@ -82,6 +82,7 @@ A compendium of available resources for data visualization activities.
 * [github pages](https://pages.github.com/): Github pages
 * [irkernel](https://irkernel.github.io/installation/): R kernel for jupyter
 * [jekyll](https://jekyllrb.com/): Blog-like templates for github pages (Ruby)
+* [leaflet](https://leafletjs.com/): Open-source JavaScript library for interactive maps
 * [matplotlib](https://matplotlib.org/): Python plotting
 * [mathjax](https://www.mathjax.org/): Use latex in html documents through javascript
 * [networkD3](https://christophergandrud.github.io/networkD3/): R Network Plotting

@@ -82,20 +82,20 @@ htmlwidgets::saveWidget(globeMeteors, "globeMeteors.html")
 data(flights)
 head(flights)
 # Approximate locations as factors
-dest   <- factor(sprintf("%.2f:%.2f",flights[,3], flights[,4]))
+dest = factor(sprintf("%.2f:%.2f",flights[,3], flights[,4]))
 # A table of destination frequencies
-freq <- sort(table(dest), decreasing=TRUE)
+freq = sort(table(dest), decreasing=TRUE)
 # The most frequent destinations in these data, possibly hub airports?
-frequent_destinations <- names(freq)[1:10]
+frequent_destinations = names(freq)[1:10]
 # Subset the flight data by destination frequency
-idx <- dest %in% frequent_destinations
-frequent_flights <- flights[idx, ]
+idx = dest %in% frequent_destinations
+frequent_flights = flights[idx, ]
 # Lat/long and counts of frequent flights
-ll <- unique(frequent_flights[,3:4])
+ll = unique(frequent_flights[,3:4])
 # Plot frequent destinations as bars, and the flights to and from
 # them as arcs. Adjust arc width and color by frequency.
 globeFlights=globejs(img=earth,lat=ll[,1], long=ll[,2], arcs=frequent_flights, bodycolor="#aaaaff",
         arcsHeight=0.3, arcsLwd=2, arcsColor="#ffff00", arcsOpacity=0.15,
-        atmosphere=TRUE, color="#00aaff", pointsize=0.5)
+        atmosphere=TRUE, color="#00aaff", pointsize=0.5, bg="white")
 globeFlights
 htmlwidgets::saveWidget(globeFlights, "globeFlights.html")
