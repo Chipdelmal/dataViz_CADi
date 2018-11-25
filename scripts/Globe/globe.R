@@ -1,34 +1,54 @@
-# Source: https://www.displayr.com/interactive-globe-r/
+##############################################################################
+# Globe Examples
+# ---------------------------------------------------------------------------
+# Sources:
+# https://www.displayr.com/interactive-globe-r/
+# https://bwlewis.github.io/rthreejs/globejs.html
+# https://www.rdocumentation.org/packages/threejs/versions/0.3.1/topics/globejs
+##############################################################################
 
-# require(devtools)
-# install.packages(c("threejs"))
-# install_github("Displayr/flipChartBasics")
-# install_github("Displayr/flipAPI")
-devtools::install_github("bwlewis/rthreejs")
-install.packages(c("maptools","maps"))
+# Installing the required libraries
+#install.packages("devtools")
+#install.packages(c("threejs"))
+#devtools::install_github("Displayr/flipChartBasics")
+#devtools::install_github("Displayr/flipAPI")
+#devtools::install_github("bwlewis/rthreejs")
+#install.packages("maptools")
+#install.packages("maps")
+#install.packages("htmlwidgets")
 
-
+# Loading the libraries
 library(threejs)
 library(flipChartBasics)
 library(flipAPI)
 library(maps)
 library(maptools)
+setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/scripts/Globe")
 
-earth <- "http://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x5400x2700.jpg"
-globejs(img=earth, bg="white")
+##############################################################################
+# Basic globe with rastered map
+##############################################################################
+earth = "http://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x5400x2700.jpg"
+globejs(img=earth, bg="black")
 
-
+#############################################################################
+# Rendering a globe with 2000 most populated cities
+#############################################################################
 data(world.cities, package="maps")
-cities <- world.cities[order(world.cities$pop,decreasing=TRUE)[1:1000],]
-value  <- 100 * cities$pop / max(cities$pop)
+cities = world.cities[order(world.cities$pop,decreasing=TRUE)[1:2000],]
+value  = 100 * cities$pop / max(cities$pop)
 
-globejs(bg="black", lat=cities$lat,     long=cities$long, value=value, 
-        rotationlat=-0.34,     rotationlong=-0.38, fov=30)
+head(cities)
 
+globejs(bg="black", lat=cities$lat, long=cities$long, value=value, rotationlat=0.34, rotationlong=0, fov=30)
+??globejs
+globeCities=globejs(img=earth,bg="black", lat=cities$lat, long=cities$long, value=value, rotationlat=0.34, rotationlong=0, fov=30)
+globeCities
+htmlwidgets::saveWidget(globeCities, "globeCities.html")
 
-
-
-
+##############################################################################
+# Meteorite impacts
+##############################################################################
 # Read the data and calculate age in years
 x = read.csv("https://data.nasa.gov/api/views/gh4g-9sfh/rows.csv")
 current = as.numeric(format(Sys.Date(), "%Y"))
@@ -42,44 +62,40 @@ colnames(x) = c("long","lat","value", "age")
 colors = as.numeric(cut(x$age,
 breaks = quantile(x$age, probs = seq(0, 1, 0.1),
                   include.lowest = TRUE, na.rm = TRUE)))
-palette = ChartColors(10, "Reds", reverse = TRUE)
+palette = ChartColors(10, reverse = TRUE)
 colors = palette[colors]
 
 # Plot the data on the globe
-globejs(lat = x$lat,
+globeMeteors=globejs(img=earth,
+        lat = x$lat,
         long = x$long,
         val = 2 * log(x$value),
         color = colors,
         pointsize = 0.5,
         atmosphere = TRUE)
+globeMeteors
+htmlwidgets::saveWidget(globeMeteors, "globeMeteors.html")
 
-
-
-
-# Make a data.frame of the required information
-url <- "https://esa.un.org/unpd/wup/cd-rom/WUP2014_XLS_CD_FILES/WUP2014-F13-Capital_Cities.xls"
-x = DownloadXLSX(url, skip = 15)
-x = x[, c("Longitude", "Latitude", "Population (thousands)", "Capital City")]
-names(x) = c("long","lat", "population", "city")
-
-# Convert population to numeric
-x$population = as.character(x$population)
-x$population[x$population == "\u2026"] = 0 # remove ellipsis
-x$population = as.numeric(x$population)
-
-# Set colors according to first letter of the city name
-first.letters = sapply(substring(x$city, 1, 1),
-                       utf8ToInt) - utf8ToInt("A") + 1
-palette = ChartColors(26, "Blues")
-colors = palette[first.letters]
-
-# Plot the data on the globe
-earth = "http://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x5400x2700.jpg"
-globejs(img = earth,
-        lat = x$lat,
-        long = x$long,
-        val = 10 * log(x$population),
-        color = colors,
-        pointsize = 5,
-        atmosphere = FALSE,
-        bg = "white")
+##############################################################################
+# Flights
+##############################################################################
+data(flights)
+head(flights)
+# Approximate locations as factors
+dest   <- factor(sprintf("%.2f:%.2f",flights[,3], flights[,4]))
+# A table of destination frequencies
+freq <- sort(table(dest), decreasing=TRUE)
+# The most frequent destinations in these data, possibly hub airports?
+frequent_destinations <- names(freq)[1:10]
+# Subset the flight data by destination frequency
+idx <- dest %in% frequent_destinations
+frequent_flights <- flights[idx, ]
+# Lat/long and counts of frequent flights
+ll <- unique(frequent_flights[,3:4])
+# Plot frequent destinations as bars, and the flights to and from
+# them as arcs. Adjust arc width and color by frequency.
+globeFlights=globejs(img=earth,lat=ll[,1], long=ll[,2], arcs=frequent_flights, bodycolor="#aaaaff",
+        arcsHeight=0.3, arcsLwd=2, arcsColor="#ffff00", arcsOpacity=0.15,
+        atmosphere=TRUE, color="#00aaff", pointsize=0.5)
+globeFlights
+htmlwidgets::saveWidget(globeFlights, "globeFlights.html")
