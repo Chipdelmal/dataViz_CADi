@@ -41,14 +41,6 @@ In the following module, we will show some of the most common ways to display in
 
 <br><img src="../media/network.png" width="35%"><img src="../media/chord_Baseline.png" width="35%">
 
-<hr>
-
-##  [Multidimensional](./multidimensional.md)
-
-* __Data type:__ data with high dimensionality (for classification, from factorial experiments).
-* __Some options:__ 4d contour plots
-
-<br><img src="../media/SpheresPlots_H.jpg" width="70%">
 
 <hr>
 
@@ -64,6 +56,14 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__
 * __Some options:__
 
+<hr>
+
+##  [Multidimensional](./multidimensional.md)
+
+* __Data type:__ data with high dimensionality (for classification, from factorial experiments).
+* __Some options:__ 4d contour plots
+
+<br><img src="../media/SpheresPlots_H.jpg" width="70%">
 
 <hr>
 

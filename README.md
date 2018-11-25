@@ -14,11 +14,13 @@ Although not strictly required, having some knowledge on one of the following pr
 
 * [Mathematica](http://www.wolfram.com/mathematica/): Most of the graphics developed in this website were developed in this platform due to its flexibility in terms of graphical capabilities.
 * [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
-* [R](https://www.r-project.org/): A popular statistical framework with lots of community support.
+* [R+RStudio](https://www.r-project.org/): A popular statistical framework with lots of community support with its most popular IDE.
 
-There's examples developed in each of the platforms according to the specific application and availability of frameworks for specific applications. For a useful guide on how to install R and Python kernels in Atom follow this [link](https://jstaf.github.io/2018/03/25/atom-ide.html).
+There's examples developed in each of the platforms according to the application and availability of frameworks for specific tasks.
 
-It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. Some useful packages for development in atom are:
+It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. For a useful guide on how to install R and Python kernels in Atom follow this [link](https://jstaf.github.io/2018/03/25/atom-ide.html).
+
+Some other useful packages for development in atom are:
 
 * [Markdown Preview Enhanced](https://atom.io/packages/markdown-preview-enhanced): Allows the live update of markdown documents previews.
 * [Hydrogen](https://atom.io/packages/hydrogen): Package that allows running Python code in [Jupyter](http://jupyter.org/)-style from within atom.
@@ -28,18 +30,16 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 ## Contents
 
-
-
 ### Day 01 (8h)
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Introduction](./markdowns/intro.md): Objectives, Scope, ...
-2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization ideas and good practices
-3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md):
-4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md)
-5. [Plot Types (first part)](./markdowns/plotTypes.md):
-6. [Colors](./markdowns/colors.md): Color Palettes
+1. [Introduction](./markdowns/intro.md): My background, Objectives, Scope
+2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
+3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
+4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md):
+5. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
+6. [Colors](./markdowns/colors.md): Color Palettes, and how to use them effectively
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 
@@ -48,12 +48,9 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
 1. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
-2. [Plot Types (second part)](./plotTypes.md):
-3. [Good Practices](./markdowns/goodPractices.md):
-4. [plotly](https://plot.ly/):
-5. [ggplot](https://ggplot2.tidyverse.org/reference/ggplot.html):
-6. [networkD3](https://christophergandrud.github.io/networkD3/):
-7. [D3js](https://d3js.org/):
+2. [Plot Types (second part)](./markdowns/plotTypes.md): Clustering, Factorial, Multidimensional data, Geographic
+3. [Good Practices](./markdowns/goodPractices.md): Suggestions to make data visualization clearer
+4. [Some Visualizaiton Frameworks](./markdowns/frameworks.md): ggplot, plotly, networkD3, D3js
 
 <br><img src="./docs/media/images/aggregation.png" width="100%"><br>
 
@@ -61,12 +58,11 @@ It is also suggested to have the [atom](https://atom.io/) text editor for the ma
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
-1. [Markdown](./markdowns/markdown.md):
-2. [Remark](./markdowns/remark.md):
-3. [gh-pages](./markdowns/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
-4. [Revealjs](./markdowns/revealjs.md): MathJax
+1. [Markdown + HTML Primer](./markdowns/markdown.md): Introduction to MD and HTML for presentations
+2. [gh-pages](./markdowns/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
+3. [Remark](./markdowns/remark.md): One of the frameworks to create simple markdown presentations
+4. [Revealjs](./markdowns/revealjs.md): MathJax-supported javascript HTML presentations framework
 5. [ffmpeg](./markdowns/ffmpeg.md): Stop-motion animations, Further video editing
-
 
 <br><img src="./docs/media/images/crispr.jpg" width="100%"><br>
 
