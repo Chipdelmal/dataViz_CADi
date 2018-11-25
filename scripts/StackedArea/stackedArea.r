@@ -1,3 +1,7 @@
+##############################################################################
+# Stacked Area
+##############################################################################
+
 library(plotly)
 # Read Data
 setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/Day01/scripts/StackedArea")

@@ -1,4 +1,8 @@
+##############################################################################
+# Box-Whisker Chart
+# ---------------------------------------------------------------------------
 # Source: http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization
+##############################################################################
 
 # install.packages("ggplot2")
 library(ggplot2)
@@ -8,20 +12,15 @@ p <- ggplot(diamonds, aes(carat, price))
 p = p + geom_boxplot(aes(group = cut_width(carat, 0.25)))
 p
 
-
 p = p + coord_flip()
 p
-
-
 
 p <- ggplot(mpg, aes(class, hwy), outlier.alpha = 0.1)
 p = p + geom_boxplot()
 p
 
-
 p = p + coord_flip()
 p
-
 
 
 # Adjust the transparency of outliers using outlier.alpha

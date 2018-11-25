@@ -31,6 +31,10 @@
 
 <br><img src="../media/globe.png" width="30%">
 
-##  <a name="exercise01">[4) Fancy Map (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
+##  <a name="exercise01">[5) Bubble Map (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
+
+<br><img src="../media/bubbleMap.png" width="30%">
+
+##  <a name="exercise01">[6) Fancy Map (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
 
 <br><img src="../media/fancyMapGermany.png" width="30%">

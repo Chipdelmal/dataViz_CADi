@@ -1,5 +1,10 @@
-# Source: https://plot.ly/python/density-plots/
-# Source: https://plot.ly/python/2d-density-plots/
+##############################################################################
+# Scatter Histogram
+# ---------------------------------------------------------------------------
+# Source:
+#   https://plot.ly/python/density-plots/
+#   https://plot.ly/python/2d-density-plots/
+##############################################################################
 
 import numpy as np
 import plotly
@@ -10,7 +15,7 @@ t = np.linspace(-1, 1.2, 2000)
 x = (t**3) + (0.3 * np.random.randn(2000))
 y = (t**6) + (0.3 * np.random.randn(2000))
 
-colorscale = ['#426d9f', (1,1,1)]
+colorscale = ['#426d9f', (1, 1, 1)]
 
 fig = ff.create_2d_density(
     x, y, colorscale=colorscale, ncontours=20,

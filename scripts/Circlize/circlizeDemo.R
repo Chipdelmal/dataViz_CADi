@@ -1,5 +1,8 @@
-# Circlize library demo
+##############################################################################
+# Circlize
+# ---------------------------------------------------------------------------
 # Source: https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html
+##############################################################################
 
 # Load the circlize library
 library(circlize)

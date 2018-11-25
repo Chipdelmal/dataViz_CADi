@@ -1,4 +1,9 @@
+##############################################################################
+# Networks
+# ---------------------------------------------------------------------------
 # Source: http://www.htmlwidgets.org/showcase_networkD3.html
+##############################################################################
+
 library(networkD3)
 setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/Day01/scripts/Networks")
 data(MisLinks, MisNodes)
