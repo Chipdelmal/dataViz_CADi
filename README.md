@@ -10,11 +10,11 @@ This is a compendium of materials and activities designed to develop and improve
 
 ## Requirements
 
-Although not strictly required, having some knowledge on one of the following programming languages is suggested:
+Although not strictly required, having some knowledge on one of the following programming languages is suggested (as we'll be using them throughout the course):
 
-* [Mathematica](http://www.wolfram.com/mathematica/): Most of the graphics developed in this website were developed in this platform due to its flexibility in terms of graphical capabilities.
+* [Mathematica](http://www.wolfram.com/mathematica/): Most of the graphics showcased in the website were developed in this platform due to its flexibility in terms of graphical capabilities.
 * [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
-* [R+RStudio](https://www.r-project.org/): A popular statistical framework with lots of community support with its most popular IDE.
+* [R + RStudio](https://www.r-project.org/): A popular statistical framework with lots of community support with its most popular IDE.
 
 There's examples developed in each of the platforms according to the application and availability of frameworks for specific tasks.
 
@@ -37,7 +37,7 @@ Some other useful packages for development in atom are:
 1. [Introduction](./markdowns/intro.md): My background, Objectives, Scope
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
-4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md):
+4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Some frameworks to make our lives easier
 5. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
 6. [Colors](./markdowns/colors.md): Color Palettes, and how to use them effectively
 
