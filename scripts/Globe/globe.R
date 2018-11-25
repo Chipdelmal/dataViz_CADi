@@ -1,20 +1,33 @@
 # Source: https://www.displayr.com/interactive-globe-r/
-# Source: https://bwlewis.github.io/rthreejs/globejs.html
 
-# install.packages(c("threejs"))
 # require(devtools)
+# install.packages(c("threejs"))
 # install_github("Displayr/flipChartBasics")
 # install_github("Displayr/flipAPI")
 devtools::install_github("bwlewis/rthreejs")
+install.packages(c("maptools","maps"))
+
 
 library(threejs)
 library(flipChartBasics)
 library(flipAPI)
-
-
+library(maps)
+library(maptools)
 
 earth <- "http://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x5400x2700.jpg"
 globejs(img=earth, bg="white")
+
+
+data(world.cities, package="maps")
+cities <- world.cities[order(world.cities$pop,decreasing=TRUE)[1:1000],]
+value  <- 100 * cities$pop / max(cities$pop)
+
+globejs(bg="black", lat=cities$lat,     long=cities$long, value=value, 
+        rotationlat=-0.34,     rotationlong=-0.38, fov=30)
+
+
+
+
 
 # Read the data and calculate age in years
 x = read.csv("https://data.nasa.gov/api/views/gh4g-9sfh/rows.csv")
