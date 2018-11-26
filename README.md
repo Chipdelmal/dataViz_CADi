@@ -34,7 +34,7 @@ Some other useful packages for development in atom are:
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Introduction](./markdowns/intro.md): My background, Objectives, Scope
+1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
 4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Some frameworks to make our lives easier
