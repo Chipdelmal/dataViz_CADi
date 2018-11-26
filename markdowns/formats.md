@@ -9,6 +9,9 @@
 
 JPEG/JFIF, JPEG 2000, Exif, TIFF, GIF, BMP, PNG, PPM/PGM/PBM/PNM, WebP, HDR, HEIF, BAT, BPG
 
+####  [GIF](https://en.wikipedia.org/wiki/GIF)
+
+This format is popular because of it's portability and low file size. It allows an 8bit palette per image (frame in animations), and uses the LZW losless compressing technique to reduce file-size (patented at the time). This format is well suited for sharp and low-colored images (such as logos), but not suited for images that need to display more than 256 colors at the same time (even for images/videos with lower than 256 colors this might not be a good option unless the color palette is optimized as described in this [link](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)).
 
 #### [JPG, JPEG](https://en.wikipedia.org/wiki/JPEG)
 
@@ -24,14 +27,14 @@ Uses the lossy [discrete cosine transform](https://www.youtube.com/watch?v=Q2aEz
 
 ####  [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 
+Portable network graphics was created as a replacement for GIF images without a patent. This format allows only RGB spaces and is designed for easy transferring of lossless non-professional images on the internet. It uses a two stage compression method (filtering and compression).
+
 ####  [TIFF](https://en.wikipedia.org/wiki/TIFF)
 
 Tagged Image File Format can be used as a container for [JPEG](https://en.wikipedia.org/wiki/JPEG)s or lossless raster information along with vector data about boundaries, and croppings. This format was created to provide a common ground for scanners in mid 80's but has been extended and is popular in photography, and publishing industry.
 
 One of the advantages of [TIFF](https://en.wikipedia.org/wiki/TIFF) over [JPEG](https://en.wikipedia.org/wiki/JPEG) is that it allows lossless compression algorithms such as: [PackBits](https://en.wikipedia.org/wiki/PackBits), [LZW](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch), [ZIP](https://en.wikipedia.org/wiki/Zip_(file_format)), amongst others.
 
-
-####  [GIF](https://en.wikipedia.org/wiki/GIF)
 
 ### Vector-based
 
