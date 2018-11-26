@@ -84,13 +84,68 @@ This will become more apparent when we look into image formats that
 
 ## Steps
 
-1) Explore the data
-2) Draft some ideas
-3) Select plot type
-4) Generate initial draft
-5) Improve aesthetics and communicability
-6) Iterate as necessary
-7) Work on the "presentation-ready" plot
-8) Work on the "print-ready" version
+To go through an example of the usual steps taken to generate an effective visualization, we will follow an example inspired by the this [post](https://deadspin.com/chart-the-height-and-weight-of-every-nfl-player-by-po-1445608274), in which the NFL players' height and weight are plotted to make a comparison of their sizes across positions.
 
-<img src="../media/drafts01.jpg" width="50%"><img src="../media/drafts02.jpg" width="22.40%">
+Note: _The code to do these plots is available in this [exercise](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)._
+
+### 1) Explore the data
+
+The [NFL Players Dataset](https://www.kaggle.com/kendallgillies/nflstatistics) can be downloaded in CSV format. After a quick inspection we can see that it does contain the information we need to create the visualization.
+
+```
+Age,Birth Place,Birthday,College,Current Status,Current Team,Experience,Height (inches),High School,High School Location,Name,Number,Player Id,Position,Weight (lbs),Years Played
+,"Grand Rapids , MI",5/23/1921,Notre Dame,Retired,,3 Seasons,71,,,"Evans, Fred",,fredevans/2513736,,185,1946 - 1948
+,"Dayton , OH",12/21/1930,Dayton,Retired,,1 Season,70,,,"Raiff, Jim",,jimraiff/2523700,,235,1954 - 1954
+56,"Temple , TX",9/11/1960,Louisiana Tech,Retired,,1 Season,74,,,"Fowler, Bobby",,bobbyfowler/2514295,,230,1985 - 1985
+30,"New Orleans , LA",9/30/1986,LSU,Retired,,5 Seasons,73,,,"Johnson, Quinn",,quinnjohnson/79593,,255,2009 - 2013
+```
+
+We must take into account, though, that  some of the player's positions are missing (denoted by an empty space in their position field).
+
+```Mathematica
+SetDirectory[NotebookDirectory[]];
+rawData = Import["NFL.csv"];
+{header, data} = {rawData[[1]], rawData[[2 ;; All]]};
+positionsID = ((data[[All, position]] // DeleteDuplicates) // Sort)
+
+out={"","C","CB","DB","DE","DL","DT","FB","FS","G","ILB","K","LB","LS","MLB","NT","OG","OL","OLB","OT","P","QB","RB",
+"SAF","SS","T","TE","WR"}
+```
+
+### 2) Draft some ideas
+
+After doing so, we can generate an initial draft of our plot.
+
+<img src="../media/nflD01.png" width="30%">
+
+### 3) Select plot type
+
+Even though it's not the prettiest representation of our data, this scatter plot might be a useful way to present the results if we work on it.
+
+<img src="../media/nflD02.png" width="30%">
+
+### 4) Generate initial draft
+
+In this case, highlighting the position of some players might make it easier to read due to the high level of overlapping between clusters.
+
+<img src="../media/nflD04.png" width="30%">
+
+### 5) Improve aesthetics and communicability
+
+We can improve the aesthetics a bit by changing the color palette, and increasing the dot size.
+
+<img src="../media/nflD05.png" width="30%">
+
+### 6) Iterate as necessary
+
+After doing so, we add the color swatch, and iterate through previous steps if we need to.
+
+<img src="../media/NFL03.png" width="30%">
+
+### 7) Work on the "presentation-ready" and "print-ready" versions
+
+Finally, we can compile our plots and put them together in a way that favors readability of the data.
+
+<img src="../media/NFL.png" width="100%">
+
+<!--<img src="../media/drafts01.jpg" width="50%"><img src="../media/drafts02.jpg" width="22.40%">-->
