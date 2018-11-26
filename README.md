@@ -75,7 +75,7 @@ A compendium of available resources for data visualization activities.
 
 ### Tools
 
-* [atom](https://atom.io/): Versatile IDE for R, Python, Markdown, Javascript, etcetera
+* [atom](https://atom.io/): Versatile IDE for R, Python, Markdown, Javascript, amongst others
 * [ffmpeg](https://www.ffmpeg.org/): Video Manipulation command line tool (can be used to create "stop-motion" animations)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf): Plotting in R
 * [gimp](https://www.gimp.org/): Free "photoshop" alternative
@@ -94,7 +94,7 @@ A compendium of available resources for data visualization activities.
 * [revealjs](https://revealjs.com/#/): Javascript presentations
 * [rStudio](https://www.rstudio.com/): R IDE
 * [sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor): Latex to image converter to embed them into markdown
-* [shiny](http://shiny.rstudio.com/): Interactive web development
+* [shiny](http://shiny.rstudio.com/): Interactive web development though R
 * [slides](https://slides.com/): GUI for revealjs
 * [tydiverse](https://www.tidyverse.org/): Collection of R packages designed for data science.
 
