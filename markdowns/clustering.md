@@ -2,6 +2,8 @@
 
 <hr>
 
+## Treemap
+
 ## Network
 
 ## Dendrogram

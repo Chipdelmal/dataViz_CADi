@@ -1,6 +1,8 @@
 # Good Practices
 
-#### Provide additional reference elements
+As in any other discipline, data visualization has its own set of rules to follow in our attempts to transmit information. Some of these "good practices" follow.
+
+#### Provide additional reference elements when possible
 
 #### Scale areas proportional to the variable
 
