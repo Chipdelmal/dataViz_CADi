@@ -7,6 +7,15 @@ In the following module, we will show some of the most common ways to display in
 
 <hr><hr>
 
+##  [Time Series](./timeSeries.md)
+
+* __Data type:__ data counts varying over time.
+* __Some options:__ joined scatter plots, stream chart (stacked area), dygraph
+
+<br><img src="../media/traces02.png" width="70%">
+
+<hr>
+
 ##  [Counts](./counts.md)
 
 * __Data type:__ frequencies or ratios
@@ -25,19 +34,10 @@ In the following module, we will show some of the most common ways to display in
 
 <hr>
 
-##  [Time Series](./timeSeries.md)
-
-* __Data type:__ data counts varying over time.
-* __Some options:__ Joined scatter plots, stream chart (stacked area), dygraph
-
-<br><img src="../media/traces02.png" width="70%">
-
-<hr>
-
 ##  [Transitions](./transitions.md)
 
 * __Data type:__ matrices that represent transitions between states.
-* __Some options:__
+* __Some options:__ networks, chord diagrams, heatmaps
 
 <br><img src="../media/network.png" width="35%"><img src="../media/chord_Baseline.png" width="35%">
 
@@ -53,15 +53,17 @@ In the following module, we will show some of the most common ways to display in
 
 ##  [Factorial](./factorial.md)
 
-* __Data type:__
-* __Some options:__
+* __Data type:__ two or more independent variables, and two or more dependent variables
+* __Some options:__ contour plot, density plot
+
+<img src="../media/0250.png"  width="75%">
 
 <hr>
 
 ##  [Multidimensional](./multidimensional.md)
 
 * __Data type:__ data with high dimensionality (for classification, from factorial experiments).
-* __Some options:__ 4d contour plots
+* __Some options:__ 4d contour plots, parallel line plots
 
 <br><img src="../media/SpheresPlots_H.jpg" width="70%">
 
@@ -80,8 +82,8 @@ In the following module, we will show some of the most common ways to display in
 
 ### Datavizcatalogue
 
-<a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="100%"></a>
+<a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="30%"></a>
 
 ### Framework Selector
 
-<a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="100%"></a>
+<a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="30%"></a>

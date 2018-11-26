@@ -1,8 +1,15 @@
 # Geographic
 
+**Input:** _GeoData (points, polygons)_
+
+
+Geographic data is usually one of the most difficult to work with. This is because it requires high precision, and involves taking into account information such as political boundaries and reference systems. For that reason, it is highly suggested to try to gather data in a consistent framework and develop frameworks that are as streamlined as possible.
+
 <hr><hr>
 
 ## Map
+
+The most traditional way to show geographic information is on a 2D map. This usually easy enough for viewers to decode, given the appropriate cues.
 
 <br><img src="../media/fancyMapAustria.png" width="30%">
 
@@ -10,8 +17,17 @@
 
 ## Globe
 
+A more interactive way to show data without having to worry about projections.
+
 <br><img src="../media/globe02.png" width="30%">
 
+<hr>
+
+## Composite
+
+Variations such as: network, heatmap, or bubble chart; over a traditional map are often effective to add dimensions to the visualization.
+
+<br><img src="../media/mapComposite.png" width="30%">
 
 <hr><hr>
 
