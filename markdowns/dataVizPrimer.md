@@ -116,25 +116,25 @@ out={"","C","CB","DB","DE","DL","DT","FB","FS","G","ILB","K","LB","LS","MLB","NT
 
 After doing so, we can generate an initial draft of our plot.
 
-<img src="../media/nflD01.png" width="30%">
+<img src="../media/nfld01.png" width="30%">
 
 ### 3) Select plot type
 
 Even though it's not the prettiest representation of our data, this scatter plot might be a useful way to present the results if we work on it.
 
-<img src="../media/nflD02.png" width="30%">
+<img src="../media/nfld02.png" width="30%">
 
 ### 4) Generate initial draft
 
 In this case, highlighting the position of some players might make it easier to read due to the high level of overlapping between clusters.
 
-<img src="../media/nflD04.png" width="30%">
+<img src="../media/nfld04.png" width="30%">
 
 ### 5) Improve aesthetics and communicability
 
 We can improve the aesthetics a bit by changing the color palette, and increasing the dot size.
 
-<img src="../media/nflD05.png" width="30%">
+<img src="../media/nfld05.png" width="30%">
 
 ### 6) Iterate as necessary
 
