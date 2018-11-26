@@ -44,13 +44,6 @@ In the following module, we will show some of the most common ways to display in
 
 <hr>
 
-##  [Clustering](./clustering.md)
-
-* __Data type:__
-* __Some options:__
-
-<hr>
-
 ##  [Factorial](./factorial.md)
 
 * __Data type:__ two or more independent variables, and two or more dependent variables
@@ -75,6 +68,15 @@ In the following module, we will show some of the most common ways to display in
 * __Some options:__ map, globe
 
 <br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="35%"></a><img src="../media/map.png" width="38.6%">
+
+<hr>
+
+##  [Clustered](./clustering.md)
+
+* __Data type:__ hierarchical
+* __Some options:__ treemap, networks, dendrogram
+
+<br><img src="../media/treemap.jpg" width="35%"></a><img src="../media/cluster.png" width="38.6%">
 
 <hr><hr>
 
