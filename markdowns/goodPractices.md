@@ -12,6 +12,8 @@ As in any other discipline, data visualization has its own set of rules to follo
 
 #### Use the widest color scale possible
 
+#### Map variables to their most natural representation
+
 #### Explore alternatives
 
 #### Be flexible in learning tools

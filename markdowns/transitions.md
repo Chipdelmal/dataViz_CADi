@@ -8,6 +8,8 @@ Information about transitions is easily represented in different formats. In ter
 
 ## Heatmap
 
+<img src="../media/heatmap.jpg" width="100%">
+
 ## Network
 
 Some of the most commonly used packages are: [D3](https://beta.observablehq.com/@mbostock/disjoint-force-directed-graph)

@@ -11,6 +11,8 @@ Counts of categorical data are common in statistical and clinical studies. Visua
 
 Histograms are the most natural way to show a distribution of data. These two alternatives will feel familiar to any viewer, and are usually worth including whenever they are appropriate.
 
+<br><img src="../media/smooth.jpg" width="100%">
+
 <hr>
 
 ## Box Whisker Charts
@@ -33,7 +35,7 @@ Violin plots, like box-whisker charts, show the distribution of frequencies of c
 
 1. <a name="exercise01">[Box-Whisker Chart (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/BoxWhiskerChart)</a>
 2. <a name="exercise03">[Violin Plots (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ViolinPlots)
-3. <a name="exercise03">[Histogram and Smooth Histogram (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ViolinPlots)
+3. <a name="exercise02">[Histogram and Smooth Histogram (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ViolinPlots)
 
 <hr><hr>
 

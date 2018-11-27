@@ -1,6 +1,6 @@
 # Time Series
 
-__Data type:__ data counts varying over time.
+__Data type:__ counts varying over time.
 
 Time series data is extremely common amongst different fields, as such, almost every audience knows how to interpret it at a glance. This might make us think that there's not much innovation or many options to make our plots stand out, but in this section we will see how to make some effective uses of color space and plot types to do so.
 
@@ -43,43 +43,9 @@ Often used in economics, this plot shows us counts ofer time, along with the tim
 
 # Exercises
 
-##  <a name="exercise01">[1) Stochastic Traces (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries)</a>
-
-In this exercise, we will use the data from a stochastic simulation of three mosquito genotypes interactions in a spatial landscape. Starting from datasets containing 50 repetitions of a stochastic experiment, we will create the following plot that allows the visualization of hundreds of traces, along with their mean in an easy to read format.
-
-<br>
-<center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries">
-    <img src="../media/traces.png" width="100%"></center>
-  </a>
-</center>
-<br>
-
-
-##  <a name="exercise02">[2) Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)</a>
-
-In this exercise, we will use the aggregated data from a deterministic simulation of three mosquito genotypes interactions in a spatial landscape. We will generate the stacked area chart of the information in _plotly_ to create an interactive version of the dataset.
-
-<br>
-<center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea">
-    <img src="../media/stackedExercise.png" width="100%"></center>
-  </a>
-</center>
-<br>
-
-
-##  <a name="exercise03">[3) Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)</a>
-
-This exercise shows how to create a "dygraph" for time series data with R.
-
-<br>
-<center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph">
-    <img src="../media/dygraph.png" width="100%"></center>
-  </a>
-</center>
-<br>
+1. <a name="exercise01">[Stochastic Traces (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries)</a>
+2. <a name="exercise02">[Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)</a>
+3. <a name="exercise03">[Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)</a>
 
 <hr><hr>
 
