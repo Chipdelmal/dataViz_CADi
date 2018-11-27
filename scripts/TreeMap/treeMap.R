@@ -5,7 +5,7 @@ library(treemap)
 setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/scripts/TreeMap")
 letter.frequency <- function(filename)
 {
-  file <- paste(readLines(filename), collapse = '')
+  file <- paste(tolower(readLines(filename)), collapse = '')
   chars <- strsplit(file, NULL)[[1]]
   summary(factor(chars))
 }
@@ -16,6 +16,6 @@ dat=data.frame(characters=rownames(data),frequency=data[,1],color=runif(length(c
 treemap(dat, index="characters", vSize="frequency", vColor="color", type="value", palette="RdYlBu")
 
 
-# pdf("treeMap.pdf", width = 4, height = 4)
-# treemap(dat, index="characters", vSize="frequency", vColor="color", type="value", palette="RdYlBu")
-# dev.off()
+pdf("treeMap.pdf", width = 4, height = 4)
+treemap(dat, index="characters", vSize="frequency", vColor="color", type="value", palette="RdYlBu")
+dev.off()

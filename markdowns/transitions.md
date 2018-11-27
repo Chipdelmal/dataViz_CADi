@@ -38,7 +38,10 @@ Frequently used in genetic analyses. Some common packages that are widely used t
 
 # Gallery
 
-## Showing the spread of SIR diseases in a network:
+## Spread of SIR diseases in a network
 
-<br>
-<img src="../media/SPA.gif" width="50%"><img src="../media/WS.gif" width="50%">
+<br><img src="../media/SPA.gif" width="50%"><img src="../media/WS.gif" width="50%">
+
+## Spread of SIR diseases in a network
+
+<img src="../media/network.jpg" width="100%">
