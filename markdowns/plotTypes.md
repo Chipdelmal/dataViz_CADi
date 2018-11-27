@@ -67,7 +67,7 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__ geodata
 * __Some options:__ map, globe
 
-<br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="35%"></a><img src="../media/map.png" width="38.6%">
+<br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="35%"></a><img src="../media/maps2.jpg" width="55%">
 
 <hr>
 
