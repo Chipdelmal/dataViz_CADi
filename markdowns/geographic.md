@@ -54,3 +54,9 @@ Variations such as: network, heatmap, or bubble chart; over a traditional map ar
 ##  <a name="exercise01">[6) Fancy Map (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
 
 <br><img src="../media/fancyMapGermany.png" width="30%">
+
+<hr><hr>
+
+# Gallery
+
+<img src="../media/maps2.jpg" width="100%">

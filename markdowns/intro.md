@@ -29,4 +29,4 @@
 ## My background
 
 <a href="./cv.md">
-<img src="../docs/media/images/taleOfTwoCities.png" width="100%"></a>
+<img src="../media/MarkovGrid.jpg" width="100%"></a>
