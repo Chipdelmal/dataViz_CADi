@@ -49,6 +49,10 @@ There's always tradeoffs we have to take into account when generating graphics f
 
 ### Time
 
+Obvious to anyone who has ever worked with a deadline. The more time we spend working on a graphic, the better it will look. However, not always do we have the luxury to spend a week making one plot as aesthetically pleasing as possible. This is why practicing data visualization is generally a good idea. Through failure and experimenting, we iteratively find better ways to be time-efficient.
+
+
+<br><img src="../media/Animation.gif" width="30%">
 
 ###  Utility VS Attractiveness
 
@@ -64,7 +68,7 @@ Whilst it is often a good practice to make our visualizations as clean, and  "pu
 
 ### Exploration VS Analysis
 
-This constraint is a bit less obvious than the exploration versus communication one, but it's still important to make the disctintion between plots made for the purpose of detecting large trends in a dataset (in an inital state of experimentation), and plots that are specifically designed for analysis of a clear phenomenon.
+This constraint is a bit less obvious than the exploration versus communication one, but it's still important to make the distinction between plots made for the purpose of detecting large trends in a dataset (in an inital state of experimentation), and plots that are specifically designed for analysis of a clear phenomenon.
 
 ###  Static VS Dynamic
 
@@ -149,3 +153,11 @@ Finally, we can compile our plots and put them together in a way that favors rea
 <img src="../media/NFL.png" width="100%">
 
 <!--<img src="../media/drafts01.jpg" width="50%"><img src="../media/drafts02.jpg" width="22.40%">-->
+
+<hr><hr>
+
+## Useful Resources
+
+### Datavizcatalogue and Framework Selector
+
+<a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="27.5%"></a><a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="50%"></a>

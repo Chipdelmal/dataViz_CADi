@@ -78,14 +78,4 @@ In the following module, we will show some of the most common ways to display in
 
 <br><img src="../media/treemap.jpg" width="35%"></a><img src="../media/cluster.png" width="38.6%">
 
-<hr><hr>
-
-## Useful Resources
-
-### Datavizcatalogue
-
-<a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="30%"></a>
-
-### Framework Selector
-
-<a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="30%"></a>
+<hr>
