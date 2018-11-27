@@ -1,7 +1,7 @@
 
 # Counts
 
-**Input:** *{counts}* or *{time,counts}* coordinates
+**Input:** *{categorical counts}* coordinates
 
 Counts of categorical data are common in statistical and clinical studies. Visualizing these data in an informative way is usually a good first step towards understanding the underlying processes that might be causing or disrupting patterns. For this reason, special care has to be taken when creating these plots, as it might affect our own perception of the phenomena under study.
 
@@ -9,7 +9,7 @@ Counts of categorical data are common in statistical and clinical studies. Visua
 
 ## Histograms and Smooth Histograms
 
-Histograms are the most natural way to show a distribution of data.
+Histograms are the most natural way to show a distribution of data. These two alternatives will feel familiar to any viewer, and are usually worth including whenever they are appropriate.
 
 <hr>
 
