@@ -3,6 +3,8 @@
 
 **Input:** *{x,y}* or *{x,y,z}* coordinates
 
+Scatter data is common because its use in time series and correlation plots. This might make it seem like there are not a lot of options to make these plots interesting, but there are a couple of ways to make them stand out through the use of colors, size (bubble charts), and adding other elements like histograms.
+
 <hr><hr>
 
 ## Scatter Plot
@@ -31,16 +33,14 @@ An extension to a traditional scatter plot is the addition of histograms on the 
 
 # Exercises
 
-##  <a name="exercise01">[1) Bubble Chart (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/BubbleChart)</a>
+1.  <a name="exercise01">[Bubble Chart (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/BubbleChart)</a>
+2.  <a name="exercise02">[Scatter Plot (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
+3.  <a name="exercise02">[Scatter Plot with Histograms (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
 
-In this exercise we create a bubble chart with information about a countries, their life expectancy and their fertility rates.
+<hr><hr>
 
-##  <a name="exercise02">[2) Scatter Plot (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
+# Gallery
 
-This exercise shows how making slight changes in coloring and styling can help transmit large amounts of information in a single plot.
+## NFL players heights VS weights by position
 
 <img src="../media/NFL.png" width="50%">
-
-##  <a name="exercise02">[3) Scatter Plot with Histograms (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
-
-This plotly example showcases how to plot an interactive scatter with histograms information on the sides.

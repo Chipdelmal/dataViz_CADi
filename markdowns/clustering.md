@@ -17,4 +17,4 @@
 
 <hr>
 
-# Extensions and Gallery
+# Gallery

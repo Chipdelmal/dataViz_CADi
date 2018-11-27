@@ -1,8 +1,8 @@
 # Time Series
 
-Time series data is extremely common amongst different fields, as such, almost every audience knows how to interpret it at a glance. This might make us think that there's not much innovation or many options to make our plots stand out, but in this section we will see how to make some effective uses of color space and plot types to do so.
-
 __Data type:__ data counts varying over time.
+
+Time series data is extremely common amongst different fields, as such, almost every audience knows how to interpret it at a glance. This might make us think that there's not much innovation or many options to make our plots stand out, but in this section we will see how to make some effective uses of color space and plot types to do so.
 
 <hr><hr>
 

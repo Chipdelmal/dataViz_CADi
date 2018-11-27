@@ -37,7 +37,7 @@ Violin plots, like box-whisker charts, show the distribution of frequencies of c
 
 <hr><hr>
 
-# Extensions and Gallery
+# Gallery
 
 ## Displaying the minimum distances between households
 

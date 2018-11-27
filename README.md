@@ -26,6 +26,8 @@ Some other useful packages for development in atom are:
 * [Hydrogen](https://atom.io/packages/hydrogen): Package that allows running Python code in [Jupyter](http://jupyter.org/)-style from within atom.
 * [Preview HTML](https://atom.io/packages/atom-html-preview): Allows us to view the results of our HTML within atom.
 
+<br><img src="./media/flow.jpg"  width="100%"><br>
+
 <hr>
 
 ## Contents
@@ -70,7 +72,7 @@ Some other useful packages for development in atom are:
 
 ## Resources
 
-A compendium of available resources for data visualization activities.
+<img src="./media/shades.png" width="100%">
 
 
 ### Tools
@@ -121,7 +123,6 @@ A compendium of available resources for data visualization activities.
 * [Yau, N. (2011). Visualize this : the FlowingData guide to design, visualization, and statistics. Wiley Pub. ISBN-13: 978-0470944882](https://flowingdata.com/books/)
 * [Yau, N. (2013). Data points: visualization that means something. ISBN-13: 978-1118462195](https://flowingdata.com/books/)
 
-<br><img src="./media/flow.jpg"  width="100%"><br>
 
 <hr>
 

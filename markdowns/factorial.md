@@ -2,9 +2,11 @@
 
 **Input:** *{x,y: z}* coordinates
 
+In this case, we are strictly speaking of factorial data in the "two independent - one dependent" variable sense. There is a page dedicated to plotting [multi-dimensional](./multidimensional.md) data spaces. In this specific case, it is hard to top the representation of the data in density, contour plots or heatmaps.
+
 <hr><hr>
 
-## Density/Contour Plot
+## Density/Contour Plot (2D and 3D)
 
 <img src="../media/0250.png"  width="75%">
 
@@ -12,17 +14,11 @@
 
 # Exercise
 
-# <a name="exercise01">[1) Factorial Experiment Density Plot (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/FactorialPlot)</a>
-
-<center>
-  <a href="https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day01/scripts/FactorialPlot">
-    <img src="../media/factorialDemo.png" width="100%">
-  </a>
-</center>
+1. <a name="exercise01">[Factorial Experiment Density Plot (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/FactorialPlot)</a>
 
 <hr><hr>
 
-# Extensions and Gallery
+# Gallery
 
 ## Genotypes ratios in a log-factorial search space
 
