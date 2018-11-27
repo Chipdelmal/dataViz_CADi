@@ -12,7 +12,7 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__ data counts varying over time.
 * __Some options:__ joined scatter plots, stream chart (stacked area), dygraph
 
-<br><img src="../media/traces02.png" width="70%">
+<br><img src="../media/traces02.png" width="100%">
 
 <hr>
 
@@ -21,7 +21,7 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__ frequencies or ratios
 * __Some options:__ histogram, smooth histogram, box-whisker chart, violin plot
 
-<br><img src="../media/violin.png" width="35%"><img src="../media/hitsPaloAlto.jpg" width="35%">
+<br><img src="../media/boxWhisker.jpg" width="100%">
 
 <hr>
 
