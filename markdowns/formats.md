@@ -7,7 +7,7 @@
 ### Raster-based
 
 
-JPEG/JFIF, JPEG 2000, Exif, TIFF, GIF, BMP, PNG, PPM/PGM/PBM/PNM, WebP, HDR, HEIF, BAT, BPG
+_JPEG/JFIF, JPEG 2000, Exif, TIFF, GIF, BMP, PNG, PPM/PGM/PBM/PNM, WebP, HDR, HEIF, BAT, BPG_
 
 ####  [GIF](https://en.wikipedia.org/wiki/GIF)
 
