@@ -37,9 +37,9 @@ Some other useful packages for development in atom are:
 1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
-4. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Some frameworks to make our lives easier
-5. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
-6. [Colors](./markdowns/colors.md): Color Palettes, and how to use them effectively
+4. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
+5. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Data Formats, Data Handling Frameworks
+6. [Colors](./markdowns/colors.md): Color Palettes
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 

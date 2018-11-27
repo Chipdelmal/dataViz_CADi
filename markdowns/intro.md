@@ -1,8 +1,12 @@
 # Data Visualization
 
+<hr>
+
+## Introduction
+
 <img src="../media/shades.png" width="100%">
 
-## Objectives
+### Objectives
 
 * To show some [good practices](./goodPractices.md) in data visualization
 * To showcase some of the newer frameworks used to visualize data
@@ -19,3 +23,10 @@
 * Dimensionality reduction techniques (PCA)
 * Artistic data visualization
 * Infographics
+
+<hr>
+
+## My background
+
+<a href="./cv.md">
+<img src="../docs/media/images/taleOfTwoCities.png" width="100%"></a>
