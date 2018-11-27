@@ -6,8 +6,8 @@
 
 ## Why?
 
+* To understand data/experiments
 * To raise interest
-* To understand data
 * To communicate
 
 <hr>
@@ -158,6 +158,6 @@ Finally, we can compile our plots and put them together in a way that favors rea
 
 ## Useful Resources
 
-### Datavizcatalogue and Framework Selector
+### Data Visualization Catalogue & Chartmaker Directory
 
 <a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="27.5%"></a><a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="50%"></a>

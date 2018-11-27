@@ -77,5 +77,3 @@ In the following module, we will show some of the most common ways to display in
 * __Some options:__ treemap, networks, dendrogram
 
 <br><img src="../media/treemap.jpg" width="35%"></a><img src="../media/cluster.png" width="38.6%">
-
-<hr>

@@ -1,16 +1,29 @@
+# Programming Primer
 
+<hr>
 
-# Importing Data
+## Loading Data
+
+### Mathematica
 
 ```Mathematica
 SetDirectory[NotebookDirectory[]]
-rawData=Import[]
+rawData=Import["filename.csv"]
 ```
+
+### Python
 
 ```Python
-path=
+# Through numpy
+path = "/DIRECTORY/"
+rawData = np.genfromtxt(path + 'filename.csv', delimiter=',')
 ```
+### R
 
 ```R
-setwd()
+path = "/DIRECTORY/"
+setwd(path)
+readData = read.csv2(paste0(path,"deterministicData.csv"),sep=",",header=FALSE,dec=".")
 ```
+
+<hr>
