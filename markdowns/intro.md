@@ -28,5 +28,5 @@
 
 ## My background
 
-<a href="./cv.md">
+<a href="https://chipdelmal.github.io/">
 <img src="../media/MarkovGrid.jpg" width="100%"></a>
