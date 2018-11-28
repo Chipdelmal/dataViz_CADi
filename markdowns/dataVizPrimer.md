@@ -8,13 +8,15 @@ The importance of good data visualization is often neglected when thinking about
 
 ## Why is it important?
 
-Scientific visualization is all about the data. As such, it is relevant in terms of the following lines:
+<!--Scientific visualization is all about the data. As such, it is relevant in terms of the following lines:-->
 
-* To **understand** experiments
+* To **explore/understand** experiments
 * To **validate** results
 * To raise **interest**
-* To **communicate**
+* To **communicate** concepts
 * To get **funding**
+
+<br><img src="../media/mgdrive.png" width="40%"><a href="https://www.youtube.com/watch?v=PPvzeV_Gylk&index=9&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&t=0s"><img src="../media/Madagascar.png" width="30%">
 
 <hr>
 
@@ -30,11 +32,11 @@ Data visualization is, ultimately, a tool to aid our narratives. Wether it is a 
 
 ## How?
 
-There are several visual cues that help viewers interpret data. The most common ones are:
+There are several visual cues that help viewers interpret plots. The most common ones are:
 
-* __Position:__ The coordinates of data points are usually related to the independent variables shown in the plots axes.
+* __Position:__ The coordinates of points are usually related to the independent variables shown in the plots axes.
 * __Length:__ One of the easiest cues to decode, length is usually interpreted as _magnitude_.
-* __Direction:__ When used in time series,
+* __Direction:__ When used in time series, it relates to increases/decreases of quantities.
 * __Angle:__ Generally mapped to rate of change in vector representations.
 * __Shape:__ Can be effectively used to differentiate between categorical datasets, or to emphasize data points.
 * __Area:__ Used to encode magnitde, this variable can be an effective, albeit tricky, method to show an extra dimension of our data in a two-dimensional setting.
@@ -79,6 +81,8 @@ This constraint is a bit less obvious than the exploration versus communication 
 ###  Static VS Dynamic
 
 Dynamic contents have the advantage of being manipulable and interactive, which often results in better exploratory understanding of a concept. This, however, comes at the cost of media compatibility, and sometimes in a reduction of graphics quality.
+
+<br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="35%"></a><img src="../media/maps2.jpg" width="55%">
 
 ###  Print VS Digital
 

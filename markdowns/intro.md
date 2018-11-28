@@ -1,6 +1,6 @@
 # Data Visualization
 
-
+This course is designed as a 3 day intensive rundown of data visualization principles, techniques, common frameworks
 
 <hr>
 
@@ -17,9 +17,9 @@
 * To show how our visualizations can be embedded into presentations and shown online using markdown and HTML
 * To get some exposure on alternatives to make data visualization more attractive/innovative
 
-## Out of Scope
 
 
+### Out of Scope
 
 * Data acquisition (scraping)
 * Data wrangling
