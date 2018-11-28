@@ -2,20 +2,43 @@ name: dataViz
 channels:
   - defaults
 dependencies:
+  - basemap=1.2.0=py37h0acbc05_0
+  - blas=1.0=mkl
   - ca-certificates=2018.03.07=0
   - certifi=2018.10.15=py37_0
+  - cycler=0.10.0=py37_0
+  - freetype=2.9.1=hb4e5f40_0
+  - geos=3.6.2=h5470d99_2
+  - intel-openmp=2019.1=144
+  - kiwisolver=1.0.1=py37h0a44026_0
   - libcxx=4.0.1=hcfea43d_1
   - libcxxabi=4.0.1=hcfea43d_1
   - libedit=3.1.20170329=hb402a30_2
   - libffi=3.2.1=h475c297_4
+  - libgfortran=3.0.1=h93005f0_2
+  - libpng=1.6.35=ha441bb4_0
+  - matplotlib=3.0.1=py37h54f8f79_0
+  - mkl=2018.0.3=1
+  - mkl_fft=1.0.6=py37hb8a8100_0
+  - mkl_random=1.0.1=py37h5d10147_1
   - ncurses=6.1=h0a44026_0
+  - numpy=1.15.4=py37h6a91979_0
+  - numpy-base=1.15.4=py37h8a80b8c_0
   - openssl=1.1.1=h1de35cc_0
   - pip=18.1=py37_0
+  - proj4=5.0.1=h1de35cc_0
+  - pyparsing=2.3.0=py37_0
+  - pyproj=1.9.5.1=py37h833a5d7_1
+  - pyshp=1.2.12=py37_0
   - python=3.7.1=haf84260_3
+  - python-dateutil=2.7.5=py37_0
+  - pytz=2018.7=py37_0
   - readline=7.0=h1de35cc_5
   - setuptools=40.5.0=py37_0
+  - six=1.11.0=py37_1
   - sqlite=3.25.2=ha441bb4_0
   - tk=8.6.8=ha441bb4_0
+  - tornado=5.1.1=py37h1de35cc_0
   - wheel=0.32.2=py37_0
   - xz=5.2.4=h1de35cc_4
   - zlib=1.2.11=hf3cbc9b_2
