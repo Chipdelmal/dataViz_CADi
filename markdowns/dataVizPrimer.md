@@ -1,14 +1,20 @@
 # Data Visualization Primer
 
-<center><i>Good data visualization is time consuming.</i></center>
+The importance of good data visualization is often neglected when thinking about experiments and timelines. This, however, is often a costly oversight as it is what tends to attract more attention when presenting our results. Unfortunately, <b>good data visualization is time consuming</b>. Unless there is a hired data analyst/graphics designer (which is often not the case), we'll have to deal with doing or data visualization ourselves. This might come off as a somewhat daunting endeavor given that the guidelines that make a "good" scientific graphic are fuzzy or close to nonexistent. Things like color palettes, font faces, distribution of elements, thicknesses, opacities, all affect the overall perception of our work. This is on top of selecting the right plot-type, and the correct framework to work in. As such, it is a good idea to review and practice some of the most current trends and technologies in the subject.
+
+
 
 <hr>
 
-## Why?
+## Why is it important?
 
-* To understand data/experiments
-* To raise interest
-* To communicate
+Scientific visualization is all about the data. As such, it is relevant in terms of the following lines:
+
+* To **understand** experiments
+* To **validate** results
+* To raise **interest**
+* To **communicate**
+* To get **funding**
 
 <hr>
 
@@ -58,13 +64,13 @@ Obvious to anyone who has ever worked with a deadline. The more time we spend wo
 
 Increasing the level of abstraction usually tends to improve the aesthetics of visualization. This can be achieved by removing labels, and elements that might interfere with the graphics, but it comes at the cost of information.
 
-<img src="../media/aggregation02.png" width="50%">
+<img src="../media/aggregation02.png" width="100%">
 
 ###  Exploration VS Communication
 
 Whilst it is often a good practice to make our visualizations as clean, and  "publication-ready" as possible, preparing a good graphic is time consuming. If we are interested in exploration, we might not need to devote so much time into labeling axes correctly, or using the appropriate font-size unless it is making the exploration easier.
 
-<img src="../media/exploration.png" width="50%">
+<img src="../media/exploration.png" width="100%">
 
 ### Exploration VS Analysis
 
@@ -78,7 +84,7 @@ Dynamic contents have the advantage of being manipulable and interactive, which 
 
 Although it is less often though about, there are still some constraints in the print media that are worth considering. There is still a sector of the population that prefers to read papers in a printed format, so the font-sizes, colors, and shapes should ideally be readable even in lower resolutions.
 
-<img src="../media/flow3.png" width="50%">
+<img src="../media/flow3.png" width="100%">
 
 ### File Size VS Quality
 
