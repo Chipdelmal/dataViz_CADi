@@ -2,7 +2,7 @@
 
 This course is designed as a 3 day intensive rundown of data visualization principles, techniques, common frameworks, and how to put together some of the material developed throughout the course in a [gh-pages website](./ghPages.md)/[html-based](./revealjs.md) presentation using [markdown](./markdown.md).
 
-
+<img src="../media/shades.png" width="100%">
 
 <hr>
 
@@ -11,13 +11,23 @@ This course is designed as a 3 day intensive rundown of data visualization princ
 Exercises/Demonstrations:
 
 1. [Box Whisker (R)](../scripts/BoxWhiskerChart/)
-2.
-3.
-4.
-5.
-6.
+2. [Bubble Chart (Python)](../scripts/BubbleChart/)
+3. [Chord Diagram (R)](../scripts/Circlize/)
+4. [Dygraph (R)](../scripts/Dygraph/)
+5. [Factorial (Mathematica)](../scripts/Factorial/)
+6. [FFmpeg (Bash)](../scripts/FFmpeg/)
+7. [Globe (R)](../scripts/Globe/)
+8. [Maps (R/Python)](../scripts/Maps/)
+9. [Network (R)](../scripts/Network/)
+10. [Parallel Plot (Python)](../scripts/ParallelPlot/)
+11. [Scatter Plot with Histograms (Python)](../scripts/Python/)
+12. [Scatter Plot (Mathematica)](../scripts/ScatterPlot/)
+13. [Stacked Area Plot (R/Python)](../scripts/StackedArea/)
+14. [Streamgraph (R)](../scripts/Streamgraph/)
+15. [Time Series (R/Mathematica)](../scripts/TimeSeries/)
+16. [Tree Map (R)](../scripts/TreeMap/)
+17. [Violin Plots (R)](../scripts/ViolinPlots/)
 
-<img src="../media/shades.png" width="100%">
 
 ### Objectives
 
@@ -38,7 +48,7 @@ Exercises/Demonstrations:
 * Dimensionality reduction techniques (PCA)
 * Artistic data visualization
 * Infographics
-* Psychological iterpretations
+* Psychological interpretations
 
 <hr>
 
