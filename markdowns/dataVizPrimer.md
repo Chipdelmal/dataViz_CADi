@@ -16,7 +16,7 @@ The importance of good data visualization is often neglected when thinking about
 * To **communicate** concepts
 * To get **funding**
 
-<br><img src="../media/mgdrive.png" width="40%"><a href="https://www.youtube.com/watch?v=PPvzeV_Gylk&index=9&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&t=0s"><img src="../media/Madagascar.png" width="30%"></a>
+<br><img src="../media/mgdrive.png" width="45%"><a href="https://www.youtube.com/watch?v=PPvzeV_Gylk&index=9&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&t=0s"><img src="../media/Madagascar.png" width="32.5%"></a>
 
 <hr>
 
@@ -82,7 +82,8 @@ This constraint is a bit less obvious than the exploration versus communication 
 
 Dynamic contents have the advantage of being manipulable and interactive, which often results in better exploratory understanding of a concept. This, however, comes at the cost of media compatibility, and sometimes in a reduction of graphics quality.
 
-<br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="38.9%"></a><img src="../media/maps2.jpg" width="61.1%">
+<a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="35%"></a><img src="../media/maps2.jpg" width="55%">
+
 
 ###  Print VS Digital
 

@@ -1,10 +1,21 @@
 # Data Visualization
 
-This course is designed as a 3 day intensive rundown of data visualization principles, techniques, common frameworks
+This course is designed as a 3 day intensive rundown of data visualization principles, techniques, common frameworks, and how to put together some of the material developed throughout the course in a [gh-pages website](./ghPages.md)/[html-based](./revealjs.md) presentation using [markdown](./markdown.md).
+
+
 
 <hr>
 
 ## Introduction
+
+Exercises/Demonstrations:
+
+1. [Box Whisker (R)](../scripts/BoxWhiskerChart/)
+2.
+3.
+4.
+5.
+6.
 
 <img src="../media/shades.png" width="100%">
 
