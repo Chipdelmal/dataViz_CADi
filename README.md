@@ -16,6 +16,8 @@ Although not strictly required, having some knowledge on one of the following pr
 * [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
 * [R + RStudio](https://www.r-project.org/): A popular statistical framework with lots of community support with its most popular IDE.
 
+<br><img src="./media/logoM.png" height="50px"><img src="./media/logoP.png" height="50px"><img src="./media/logoR.png" height="50px"><br>
+
 There's examples developed in each of the platforms according to the application and availability of frameworks for specific tasks.
 
 It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. For a useful guide on how to install R and Python kernels in Atom follow this [link](https://jstaf.github.io/2018/03/25/atom-ide.html).
