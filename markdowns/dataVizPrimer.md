@@ -78,6 +78,8 @@ Whilst it is often a good practice to make our visualizations as clean, and  "pu
 
 This constraint is a bit less obvious than the exploration versus communication one, but it's still important to make the distinction between plots made for the purpose of detecting large trends in a dataset (in an inital state of experimentation), and plots that are specifically designed for analysis of a clear phenomenon.
 
+<img src="../media/crispr.png" width="100%">
+
 ###  Static VS Dynamic
 
 Dynamic contents have the advantage of being manipulable and interactive, which often results in better exploratory understanding of a concept. This, however, comes at the cost of media compatibility, and sometimes in a reduction of graphics quality.
