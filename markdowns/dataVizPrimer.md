@@ -16,7 +16,7 @@ The importance of good data visualization is often neglected when thinking about
 * To **communicate** concepts
 * To get **funding**
 
-<br><img src="../media/mgdrive.png" width="40%"><a href="https://www.youtube.com/watch?v=PPvzeV_Gylk&index=9&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&t=0s"><img src="../media/Madagascar.png" width="30%">
+<br><img src="../media/mgdrive.png" width="40%"><a href="https://www.youtube.com/watch?v=PPvzeV_Gylk&index=9&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&t=0s"><img src="../media/Madagascar.png" width="30%"></a>
 
 <hr>
 
@@ -82,7 +82,7 @@ This constraint is a bit less obvious than the exploration versus communication 
 
 Dynamic contents have the advantage of being manipulable and interactive, which often results in better exploratory understanding of a concept. This, however, comes at the cost of media compatibility, and sometimes in a reduction of graphics quality.
 
-<br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="35%"></a><img src="../media/maps2.jpg" width="55%">
+<br><a href="https://chipdelmal.github.io/dataViz_CADi/globeFlights.html"><img src="../media/globe.png" width="38.9%"></a><img src="../media/maps2.jpg" width="61.1%">
 
 ###  Print VS Digital
 
@@ -92,7 +92,9 @@ Although it is less often though about, there are still some constraints in the 
 
 ### File Size VS Quality
 
-This will become more apparent when we look into image formats that
+This will become more apparent when we look into image formats, but the amount of information we put into our graphics is related to their filesize (this is particularly important in raster-based filetypes). As such, we have to take into account publishers and computational limitations for the rendering of our graphics.
+
+<img src="../media/network.jpg" width="100%">
 
 <hr>
 
