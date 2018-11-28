@@ -19,9 +19,10 @@ The baseline to which all other plots are compared to. This kind of graphic has 
 
 ##  Stream Chart (stacked area)
 
-In [exercise 2](#exercise02) we will see how to create these plots both in _R_ and _Python_.
+In [exercises 2](#exercise02) and [4](#exercise04) we will see how to create these plots both in _R_ and _Python_.
 
-<img src="../media/flow.jpg" width="100%">
+<!--<img src="../media/flow.jpg" width="100%">-->
+<img src="../media/streamgraph.png" width="100%">
 
 <hr>
 
@@ -46,6 +47,7 @@ Often used in economics, this plot shows us counts ofer time, along with the tim
 1. <a name="exercise01">[Stochastic Traces (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries)</a>
 2. <a name="exercise02">[Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)</a>
 3. <a name="exercise03">[Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)</a>
+4. <a name="exercise04">[Streamchart (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Streamgraph)
 
 <hr><hr>
 

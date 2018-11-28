@@ -105,3 +105,6 @@ venv.bak/
 
 # Datasets
 /Day03/Datasets/ffmpeg/factorialFrames/
+*.DS_Store
+.DS_Store
+docs/.DS_Store
