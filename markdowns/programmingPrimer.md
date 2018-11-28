@@ -14,60 +14,14 @@ To have the [version 10](http://www.wolfram.com/mathematica/) or above installed
 
 Installing [Python version 3.7](https://www.python.org/) with [anaconda](https://www.anaconda.com/download/), and [R 3.5.1](https://www.r-project.org/) (with [RStudio](https://www.rstudio.com/)). Additionally, most of the examples and exercises will be shown running in [atom](https://atom.io/) (follow [this guide](https://jstaf.github.io/2018/03/25/atom-ide.html) to setup the [Hydrogen](https://atom.io/packages/hydrogen) kernels to run the packages from within the IDE).
 
-
-<hr>
-
-## Loading Data
-
-### Mathematica
-
-```Mathematica
-SetDirectory[NotebookDirectory[]]
-rawData=Import["filename.csv"]
-```
-
-### Python
-
-```Python
-# Through numpy
-path = "/DIRECTORY/"
-rawData = np.genfromtxt(path + 'filename.csv', delimiter=',')
-```
-### R
-
-```R
-path = "/DIRECTORY/"
-setwd(path)
-readData = read.csv2(paste0(path,"deterministicData.csv"), sep=",", header=FALSE, dec=".")
-```
-
-<hr>
-
-## Extracting Rows and Columns from a Data Structure
-
-###  Mathematica
-
-```Mathematica
-```
-
-### Python
-
-```Python
-```
-
-### R
-
-```R
-```
-
 <hr>
 
 ## Installing Libraries
 
-###  Mathematica
+### Mathematica
 
 ```Mathematica
-# Moving the library.m file to the folder: /Users/User/Library/Mathematica/Applications/
+(* Moving the library.m file to the folder: /Users/User/Library/Mathematica/Applications/ *)
 ```
 
 ### Python
@@ -91,7 +45,7 @@ install.packages(libraryName)
 
 ## Loading Libraries
 
-###  Mathematica
+### Mathematica
 
 ```Mathematica
 <<LibraryName`
@@ -110,30 +64,78 @@ import LibraryName as Shorthand
 library("LibraryName")
 ```
 
+
 <hr>
 
-## Saving Data
+## Loading Data
 
-###  Mathematica
+### Mathematica
 
 ```Mathematica
+SetDirectory[NotebookDirectory[]]
+rawData=Import["filename.csv"]
 ```
 
 ### Python
 
 ```Python
+import numpy as np
+# Through numpy
+path = "/DIRECTORY/"
+rawData = np.genfromtxt(path + 'filename.csv', delimiter=',')
+```
+### R
+
+```R
+path = "/DIRECTORY/"
+setwd(path)
+readData = read.csv2(paste0(path,"deterministicData.csv"), sep=",", header=FALSE, dec=".")
+```
+
+<hr>
+
+## Extracting Rows and Columns from a Data Structure
+
+###  Mathematica
+
+This [quick reference](https://reference.wolfram.com/language/howto/GetPartsOfAMatrix.html) shows the ways to access elements in a matrix form.
+
+### Python
+
+Please follow this [guide](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html) for a quick rundown on the most common ways to access elements in arrays.
+
+### R
+
+For dataframe manipulation please refer to this [guide](https://www.datamentor.io/r-programming/data-frame/). In the case of vectors, please follow this [rundown](https://www.datamentor.io/r-programming/vector/).
+
+<hr>
+
+## Saving Data
+
+### Mathematica
+
+```Mathematica
+Export["filename.csv",data]
+```
+
+### Python
+
+```Python
+# Through Numpy
+np.savetxt("foo.csv", a, delimiter=",")
 ```
 
 ### R
 
 ```R
+write.csv(data, file = "filename.csv",row.names=FALSE)
 ```
 
 <hr>
 
-## Saving Media
+##  Saving Media
 
-###  Mathematica
+### Mathematica
 
 ```Mathematica
 Export["filename.extension", plotVariableName, ImageResolution->resolution, ImageSize->size]
