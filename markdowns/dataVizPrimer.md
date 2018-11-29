@@ -45,7 +45,7 @@ There are several visual cues that help viewers interpret plots. The most common
   * __Saturation/Transparency:__ The density of the color can be mapped to the magnitude of the dependent variable.
 
 <br>
-<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="../media/visualCues.png" width="35%"></a>
+<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="../media/visualCues.png" width="100%"></a>
 <br>
 
 <hr>
