@@ -35,7 +35,6 @@ Violin plots, like box-whisker charts, show the distribution of frequencies of c
 
 1. <a name="exercise01">[Box-Whisker Chart (R)](./scripts/BoxWhiskerChart)</a>
 2. <a name="exercise03">[Violin Plots (R)](./scripts/ViolinPlots)
-<!--3. <a name="exercise02">[Histogram and Smooth Histogram (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ViolinPlots)-->
 
 <hr><hr>
 

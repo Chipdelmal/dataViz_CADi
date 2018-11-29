@@ -20,6 +20,7 @@ Throughout these 3 days, we will look at a number of exercises. Most of these de
 1. [Maps (R/Python)](../scripts/Maps/)
 1. [Network (R)](../scripts/Network/)
 1. [Parallel Plot (Python)](../scripts/ParallelPlot/)
+1. [Random Networks (Mathematica)](../scripts/NetworksRandom/)
 1. [Remark (Markdown/HTML)](../script/Remark/)
 1. [Revealjs (HTML)](../scripts/revealjs/)
 1. [Scatter Plot with Histograms (Python)](../scripts/Python/)
