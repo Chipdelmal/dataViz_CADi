@@ -1,6 +1,6 @@
 # [Reveal.JS](https://revealjs.com/#/)
 
-This is a javascript framework to create presentations in HTML. It is extremely flexible, and it can be used through its HTML interface, or its [online editor](https://slides.com/?ref=github). Knowledge of [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) is highly recommended to use the code version directly, although it does not need to be very advanced to produce acceptable results (several [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) templates are provided by the authors).
+This is a javascript framework to create presentations in HTML. It is extremely flexible, and it can be used through its HTML interface, or its [online editor](https://slides.com/?ref=github). Knowledge of [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) is highly recommended to use the code version directly, although it does not need to be very advanced to produce acceptable results (several [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) templates are provided by the authors). The framework also provides several [examples of use](https://github.com/hakimel/reveal.js/wiki/Example-Presentations) available online.
 
 <hr>
 

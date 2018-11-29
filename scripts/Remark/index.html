@@ -1,11 +1,6 @@
-# [Remark](https://github.com/gnab/remark)
-
-Remark is a lightweight and easy to use [markdown](https://en.wikipedia.org/wiki/Markdown) to [HTML](https://en.wikipedia.org/wiki/HTML). It allows the easy editing and creation of slides that can be displayed online in most web-browsers. Additional features include the easy incorporation of [Mathjax](https://www.mathjax.org/) for the rendering of equations written in [LaTeX](https://www.latex-project.org/) format.
-
-<hr>
-```HTML
 <!DOCTYPE html>
 <html>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
   <head>
     <title>My Awesome Presentation</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -27,7 +22,7 @@ Remark is a lightweight and easy to use [markdown](https://en.wikipedia.org/wiki
 
 class: center, middle
 
-# My Awesome Presentation
+# dataViz Demo
 
 ???
 
@@ -46,6 +41,20 @@ Notes for the _first_ slide!
 
 # Introduction
 
+  $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+---
+
+# Deep-dive
+
+<iframe  width="100%" height="500" src="./images/forceNetwork.html"></iframe>
+
+---
+
+# Third Slide
+
+<img src="./images/SpheresPlots.jpg" width="100%">
+
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
     </script>
@@ -54,11 +63,3 @@ Notes for the _first_ slide!
     </script>
   </body>
 </html>
-
-```
-
-<hr>
-
-# Example
-
-For an example/exercise of how to use the framework follow this [link](../scripts/Remark/).

@@ -20,6 +20,7 @@ Exercises/Demonstrations:
 8. [Maps (R/Python)](../scripts/Maps/)
 9. [Network (R)](../scripts/Network/)
 10. [Parallel Plot (Python)](../scripts/ParallelPlot/)
+11. [Revealjs (HTML)](../scripts/revealjs/)
 11. [Scatter Plot with Histograms (Python)](../scripts/Python/)
 12. [Scatter Plot (Mathematica)](../scripts/ScatterPlot/)
 13. [Stacked Area Plot (R/Python)](../scripts/StackedArea/)
