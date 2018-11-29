@@ -190,3 +190,9 @@ To be able to include equations in [LaTeX](https://www.latex-project.org/) forma
 ```
 
 To see this rendered correctly follow the: [mathjax example](./Examples/mathjax.html)
+
+<hr>
+
+# Example
+
+For an example/exercise of how to use the framework follow this [link](../scripts/revealjs/).
