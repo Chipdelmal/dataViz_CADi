@@ -14,7 +14,7 @@ A tree map is a good representation of hierarchical data when we want to make co
 
 ## Clustered Network
 
-
+A good alternative for situations in which we are interested in both the clustering, and the transitions between elements.
 
 <img src="../media/cluster.png" width="50%">
 
@@ -28,7 +28,8 @@ Traditionally used in genetic analyses, these plots are useful in hierarchical c
 
 # Exercises
 
-1. <a name="exercise01">[Tree Map (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TreeMap)</a>
+1. <a name="exercise01">[Tree Map (R)](./scripts/TreeMap)</a>
+1. <a name="exercise02">[Random Networks (Mathematica)](./scripts/NetworksRandom)</a>
 
 <hr><hr>
 
