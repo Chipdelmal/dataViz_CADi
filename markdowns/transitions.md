@@ -23,15 +23,16 @@ Frequently used in genetic analyses. Some common packages that are widely used t
 <img src="../media/chord_Baseline.png" width="50%"><img src="../media/chord_ATSB.png" width="50%">
 
 
-## Sankey Diagram
+<!--## Sankey Diagram
 
-[networkD3 (R)](https://www.r-graph-gallery.com/sankey-diagram/)
+[networkD3 (R)](https://www.r-graph-gallery.com/sankey-diagram/)-->
 
 <hr><hr>
 
 # Exercises
 
-1. <a name="exercise01">[Circlize](https://github.com/Chipdelmal/dataViz_CADi/tree/master/Day02/scripts/Circlize)</a>
+1. <a name="exercise01">[Circlize](./scripts/Circlize)</a>
+1. <a name="exercise02">[Heatmap](./scripts/Transitions)</a>
 
 
 <hr><hr>
