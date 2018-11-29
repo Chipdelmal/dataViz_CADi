@@ -1,10 +1,11 @@
-# [Remark](https://github.com/gnab/remark)
+# [Remark](https://github.com/gnab/remark)
 
 Remark is a lightweight and easy to use [markdown](https://en.wikipedia.org/wiki/Markdown) to [HTML](https://en.wikipedia.org/wiki/HTML). It allows the easy editing and creation of slides that can be displayed online in most web-browsers. Additional features include the easy incorporation of [Mathjax](https://www.mathjax.org/) for the rendering of equations written in [LaTeX](https://www.latex-project.org/) format.
 
 <hr>
+
 ```HTML
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>My Awesome Presentation</title>
