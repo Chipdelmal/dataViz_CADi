@@ -3,7 +3,6 @@
 The importance of good data visualization is often neglected when thinking about experiments and timelines. This, however, is often a costly oversight as it is what tends to attract more attention when presenting our results. Unfortunately, <b>good data visualization is time consuming</b>. Unless there is a hired data analyst/graphics designer (which is often not the case), we'll have to deal with doing or data visualization ourselves. This might come off as a somewhat daunting endeavor given that the guidelines that make a "good" scientific graphic are fuzzy or close to nonexistent. Things like color palettes, font faces, distribution of elements, thicknesses, opacities, all affect the overall perception of our work. This is on top of selecting the right plot-type, and the correct framework to work in. As such, it is a good idea to review and practice some of the most current trends and technologies in the subject.
 
 
-
 <hr>
 
 ## Why is it important?
