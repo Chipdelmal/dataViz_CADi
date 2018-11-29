@@ -130,4 +130,4 @@ Some other useful packages for development in atom are:
 
 ## [Ph.D. Héctor Manuel Sánchez Castellanos](./Day01/cv.md)
 
-<img src="./docs/media/berkeley.jpg" width="200"><img src="./docs/media/itesm.png" width="200"><br>
+<img src="./docs/media/berkeley.jpg" height="50"><img src="./docs/media/ihme.png" height="50"><img src="./docs/media/itesm.png" height="55"><br>
