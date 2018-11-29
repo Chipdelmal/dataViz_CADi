@@ -26,6 +26,7 @@ Throughout these 3 days, we will look at a number of exercises. Most of these de
 1. [Scatter Plot (Mathematica)](../scripts/ScatterPlot/)
 1. [Stacked Area Plot (R/Python)](../scripts/StackedArea/)
 1. [Streamgraph (R)](../scripts/Streamgraph/)
+1. [Transitions (Mathematica)](../scripts/Transitions)
 1. [Time Series (R/Mathematica)](../scripts/TimeSeries/)
 1. [Tree Map (R)](../scripts/TreeMap/)
 1. [Violin Plots (R)](../scripts/ViolinPlots/)

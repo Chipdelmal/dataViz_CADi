@@ -39,7 +39,7 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__ matrices that represent transitions between states.
 * __Some options:__ networks, chord diagrams, heatmaps
 
-<br><img src="../media/network.png" width="35%"><img src="../media/chord_Baseline.png" width="35%">
+<br><img src="../media/network.png" width="30%"><img src="../media/chord_Baseline.png" width="30%"><img src="../media/transitions.jpg" width="27.5%">
 
 
 <hr>
