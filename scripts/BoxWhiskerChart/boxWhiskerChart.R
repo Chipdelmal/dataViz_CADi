@@ -8,14 +8,16 @@
 library(ggplot2)
 options(repr.plot.width=4, repr.plot.height=3)
 
-p <- ggplot(diamonds, aes(carat, price))
+# Initial draft
+p = ggplot(diamonds, aes(carat, price))
 p = p + geom_boxplot(aes(group = cut_width(carat, 0.25)))
 p
 
+# Flipping axes
 p = p + coord_flip()
 p
 
-p <- ggplot(mpg, aes(class, hwy), outlier.alpha = 0.1)
+p = ggplot(mpg, aes(class, hwy), outlier.alpha = 0.1)
 p = p + geom_boxplot()
 p
 
