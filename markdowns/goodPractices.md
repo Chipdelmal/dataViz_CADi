@@ -20,6 +20,8 @@ As in any other discipline, data visualization has its own set of rules to follo
 
 ####  Map variables to their most natural representation
 
+#### Do not change the aspect ratio __post hoc__
+
 #### Explore alternatives
 
 <a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="../media/alternatives.png" width="100%"></a>

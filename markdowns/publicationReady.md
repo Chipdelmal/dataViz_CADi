@@ -1,5 +1,8 @@
 # Publication-Ready
 
+<img src="../media/SD_ecology.jpg" width="100%">
+
+<hr>
 
 ## Journal Requirements
 
