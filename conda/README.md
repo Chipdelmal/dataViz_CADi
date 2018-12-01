@@ -39,6 +39,8 @@ source activate dataViz
 python -m ipykernel install --user --name dataViz
 ```
 
+## Other commands
+
 To export environment to *YML* (after activating):
 
 ```bash

@@ -1,6 +1,24 @@
 # Publication-Ready
 
-<img src="../media/SD_ecology.jpg" width="100%">
+Getting the figures to a "print-ready" state is the most frustrating and time consuming part of the "design" process. This involves the iterative process of refining details, exporting, and verifying it meets the functionality, format and aesthetic requirements for its use in a scientific document.
+
+<br><img src="../media/SD_ecology.jpg" width="100%">
+
+<hr>
+
+## Software
+
+When thinking about editing images, [Photoshop](https://www.adobe.com/products/photoshop.html?sdid=KKQIN&mv=search&ef_id=EAIaIQobChMIqpmrrsL93gIVIRh9Ch2bcwxtEAAYASAAEgLfifD_BwE:G:s&s_kwcid=AL!3085!3!301413807965!e!!g!!photoshop) is probably the first software to come to mind. [GIMP](https://www.gimp.org/) is a free alternative to Photoshop, which incorporates most of the same features. However, for arranging figures in grids, and making slight adjustments to labels, we can usually get away with using [Powerpoint](https://office.live.com/start/PowerPoint.aspx), [Keynote](https://www.apple.com/keynote/) or even [Google Slides](https://www.google.com/slides/about/) to make our lives easier.
+
+<hr>
+
+## Tips and Tricks
+
+* Use the software you're the most comfortable with
+* Try to work with vector-based formats for as long as possible
+* Delay exporting frame labels until the end (possibly add them in "detailing" phases)
+* Do not modify plot elements
+* Try to use fonts and colors in a consistent way
 
 <hr>
 

@@ -47,6 +47,6 @@ layout = go.Layout(
 )
 
 fig = go.Figure(data=data, layout=layout)
-py.plot(fig, filename='jupyter-parametric_plot')
+#py.plot(fig, filename='jupyter-parametric_plot')
 plotly.offline.iplot(fig, filename='jupyter-parametric_plot')
 plotly.offline.plot(fig, filename='jupyter-parametric_plot.html')
