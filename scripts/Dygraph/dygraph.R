@@ -1,9 +1,22 @@
 ##############################################################################
 # Dygraph
+# ---------------------------------------------------------------------------
+# Source: https://rstudio.github.io/dygraphs/
 ##############################################################################
 
+# install.packages("dygraphs")
+# install.packages("plotly")
+# install.packages("htmlwidgets")
+
+
+##############################################################################
+# Mosquito example
+
+# Loading libraries and dataset
 library(dygraphs)
-setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/Day01/scripts/Dygraph")
+library(plotly)
+library(htmlwidgets)
+setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/scripts/Dygraph")
 readData=read.csv2("deterministicData.csv",sep=",",header=FALSE,dec=".")
 
 
@@ -40,7 +53,11 @@ dyGraph=dygraph(tsData, main = "Genotypes Breakdowns") %>%
 dyGraph
 htmlwidgets::saveWidget(as_widget(dyGraph), "dygraph.html")
 
-# Source: https://rstudio.github.io/dygraphs/
+
+##############################################################################
+# Lungs example
+mdeaths
+fdeaths
 lungDeaths <- cbind(mdeaths, fdeaths)
 dygraph(lungDeaths)
 dygraph(lungDeaths) %>% dyRangeSelector()

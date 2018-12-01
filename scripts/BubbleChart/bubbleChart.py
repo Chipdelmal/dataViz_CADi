@@ -8,6 +8,7 @@ import math
 import plotly
 import plotly.graph_objs as go
 
+# Original dataset
 # [
 #         ['ID', 'Life Expectancy', 'Fertility Rate', 'Region',     'Population'],
 #         ['CAN',    80.66,              1.67,      'North America',  33739900],
@@ -22,12 +23,14 @@ import plotly.graph_objs as go
 #         ['USA',    78.09,              2.05,      'North America',  307007000]
 # ]
 
+# Parsing the dataset by hand
 lifeExpectancy = [80.66, 79.84, 78.6, 72.73, 80.05, 72.49, 68.09, 81.55, 68.6, 78.09]
 population = [33739900, 81902307, 5523095, 79716203, 61801570, 73137148, 73137148, 7485600, 141850000, 307007000]
 fertilityRate = [1.67, 1.36, 1.84, 2.78, 2, 1.7, 4.77, 2.96, 1.54, 2.05]
 id = ["CAN", "DEU", "DNK", "EGY", "GBR", "IRN", "IRQ", "ISR", "RUS", "USA"]
 sizes = [5 * math.sqrt(x / 1000000) for x in population]
 
+## Generating our data dictionary
 data = [
     {
         'x': lifeExpectancy,
@@ -41,6 +44,8 @@ data = [
         }
     }
 ]
+
+# Setting up the layout of the plot
 layout = go.Layout(
     title='Life Expectancy VS Fertility Rate',
     xaxis=dict(
@@ -62,6 +67,8 @@ layout = go.Layout(
     paper_bgcolor='rgb(255, 255, 255)',
     plot_bgcolor='rgb(255, 255, 255)',
 )
+
+# Generating figure
 fig = go.Figure(data=data, layout=layout)
 plotly.offline.iplot(fig, filename='scatter-colorscale')
 plotly.offline.plot(fig, filename='scatterHistogram.html')

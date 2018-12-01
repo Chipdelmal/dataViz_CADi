@@ -6,7 +6,7 @@
 
 # Load the circlize library
 library(circlize)
-setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/Day01/scripts/Circlize")
+setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/scripts/Circlize")
 
 # Generate a random matrix of transitions
 set.seed(999)
@@ -19,14 +19,14 @@ chordDiagram(mat)
 
 # Improve the style
 grid.col = c(
-  S1 = "red", S2 = "green", S3 = "blue",
+  S1 = "#f58f29", S2 = "green", S3 = "blue",
   E1 = "grey", E2 = "grey", E3 = "grey", E4 = "grey", E5 = "grey", E6 = "grey"
 )
 chordDiagram(mat, grid.col=grid.col)
 chordDiagram(mat, grid.col=grid.col, transparency=0.8, link.border="black")
 chordDiagram(mat, grid.col=grid.col, transparency=0.5, link.border = "black", link.lwd=2)
 
-
+# Export PDF to drive
 pdf("Plot3.pdf", width = 4, height = 4)
 chordDiagram(mat, grid.col=grid.col, transparency=0.5, link.border = "black", link.lwd=2)
 dev.off()
