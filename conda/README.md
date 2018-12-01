@@ -39,6 +39,12 @@ source activate dataViz
 python -m ipykernel install --user --name dataViz
 ```
 
+To export environment to *YML* (after activating):
+
+```bash
+conda env export > dataViz.yml
+```
+
 
 ## Other useful Atom packages and Resources
 

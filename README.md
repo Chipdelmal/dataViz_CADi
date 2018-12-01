@@ -100,6 +100,7 @@ Some other useful packages for development in atom are:
 * [sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor): Latex to image converter to embed them into markdown
 * [shiny](http://shiny.rstudio.com/): Interactive web development though R
 * [slides](https://slides.com/): GUI for revealjs
+* [spyder](https://www.spyder-ide.org/): "RStudio"-like IDE for Python
 * [tydiverse](https://www.tidyverse.org/): Collection of R packages designed for data science.
 
 ### Online
