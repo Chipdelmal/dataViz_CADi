@@ -1,13 +1,14 @@
 ##############################################################################
 # Dygraph
 # ---------------------------------------------------------------------------
-# Source: https://rstudio.github.io/dygraphs/
+# Source:
+#   https://rstudio.github.io/dygraphs/
+#   https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/UKLungDeaths.html
 ##############################################################################
 
-# install.packages("dygraphs")
-# install.packages("plotly")
-# install.packages("htmlwidgets")
-
+#install.packages("dygraphs")
+#install.packages("plotly")
+#install.packages("htmlwidgets")
 
 ##############################################################################
 # Mosquito example
@@ -61,3 +62,12 @@ fdeaths
 lungDeaths <- cbind(mdeaths, fdeaths)
 dygraph(lungDeaths)
 dygraph(lungDeaths) %>% dyRangeSelector()
+
+# Bad plotting example
+# require(stats)
+# require(graphics)
+# plot(ldeaths)
+# plot(mdeaths, fdeaths)
+# yr <- floor(tt <- time(mdeaths))
+# plot(mdeaths, fdeaths,
+#      xy.labels = paste(month.abb[12*(tt - yr)], yr-1900, sep = "'"))

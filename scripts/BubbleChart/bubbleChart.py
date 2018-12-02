@@ -1,7 +1,9 @@
 ##############################################################################
 # Bubble Chart
 # ---------------------------------------------------------------------------
-# Source: https://plot.ly/python/bubble-charts/
+# Source:
+#   https://plot.ly/python/bubble-charts/
+#   https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv
 ##############################################################################
 
 import math

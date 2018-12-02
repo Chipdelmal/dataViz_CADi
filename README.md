@@ -106,11 +106,12 @@ This is a list of complementary sources and tools that are useful in data visual
 
 * Coolors Color Palettes: https://coolors.co
 * Data Visualization Catalogue: https://datavizcatalogue.com/index.html
-* Data Wrapper: https://app.datawrapper.de/
+* Data Visualization Ted Talks: https://www.ted.com/playlists/201/art_from_data
 * Google Charts: https://developers.google.com/chart/interactive/docs/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Markdown Specs: https://github.github.com/gfm/
-* Observable: https://beta.observablehq.com/collection/@observablehq/
+* Observable: https://beta.observablehq.com/
+* OpenVis Conf 2018 Keynote: https://www.youtube.com/watch?time_continue=298&v=yeC9v-iHJu0
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
 * The R Graph Gallery: https://www.r-graph-gallery.com
@@ -122,6 +123,7 @@ This is a list of complementary sources and tools that are useful in data visual
 * [Cairo, Alberto (2016). The truthful art: data, charts, and maps for communication.  ISBN-13: 978-0321934079 ](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
 * [Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. ISBN-13: 978-1473912144](http://www.visualisingdata.com/book/)
 * [McKinney, W. Python for Data Analysis - Data Wrangling with Pandas, Numpy and Python. (2018). ISBN-13: 1491957662](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o1&hvnetw=g&hvrand=2146894602476699957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032076&hvtargid=pla-396828636441&psc=1)
+* [Wellin, Paul (2016). Essentials of Programming in Mathematica. ISBN-13: 978-1107116665 ](https://www.amazon.com/Essentials-Programming-Mathematica%C2%AE-Paul-Wellin/dp/110711666X)
 * [Yau, N. (2011). Visualize this : the FlowingData guide to design, visualization, and statistics. Wiley Pub. ISBN-13: 978-0470944882](https://flowingdata.com/books/)
 * [Yau, N. (2013). Data points: visualization that means something. ISBN-13: 978-1118462195](https://flowingdata.com/books/)
 

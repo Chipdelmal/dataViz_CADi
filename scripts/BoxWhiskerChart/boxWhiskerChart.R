@@ -1,7 +1,10 @@
 ##############################################################################
 # Box-Whisker Chart
 # ---------------------------------------------------------------------------
-# Source: http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization
+# Sources:
+#   http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization
+#   https://ggplot2.tidyverse.org/reference/diamonds.html
+#   https://ggplot2.tidyverse.org/reference/mpg.html
 ##############################################################################
 
 # install.packages("ggplot2")
@@ -29,7 +32,6 @@ p
 # Flip axes
 p = p + coord_flip()
 p
-
 
 # Adjust the transparency of outliers using outlier.alpha, and add style
 width=.75

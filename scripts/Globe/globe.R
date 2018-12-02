@@ -2,20 +2,22 @@
 # Globe Examples
 # ---------------------------------------------------------------------------
 # Sources:
-# https://www.displayr.com/interactive-globe-r/
-# https://bwlewis.github.io/rthreejs/globejs.html
-# https://www.rdocumentation.org/packages/threejs/versions/0.3.1/topics/globejs
+#   https://www.displayr.com/interactive-globe-r/
+#   https://bwlewis.github.io/rthreejs/globejs.html
+#   https://www.rdocumentation.org/packages/threejs/versions/0.3.1/topics/globejs
+#   https://www.rdocumentation.org/packages/maps/versions/3.3.0/topics/world.cities
+#   https://data.nasa.gov/api/views/gh4g-9sfh/
 ##############################################################################
 
 # Installing the required libraries
-#install.packages("devtools")
-#install.packages(c("threejs"))
-#devtools::install_github("Displayr/flipChartBasics")
-#devtools::install_github("Displayr/flipAPI")
-#devtools::install_github("bwlewis/rthreejs")
-#install.packages("maptools")
-#install.packages("maps")
-#install.packages("htmlwidgets")
+# install.packages("devtools")
+# install.packages(c("threejs"))
+# devtools::install_github("Displayr/flipChartBasics")
+# devtools::install_github("Displayr/flipAPI")
+# devtools::install_github("bwlewis/rthreejs")
+# install.packages("maptools")
+# install.packages("maps")
+# install.packages("htmlwidgets")
 
 # Loading the libraries
 library(threejs)
@@ -96,6 +98,6 @@ ll = unique(frequent_flights[,3:4])
 # them as arcs. Adjust arc width and color by frequency.
 globeFlights=globejs(img=earth,lat=ll[,1], long=ll[,2], arcs=frequent_flights, bodycolor="#aaaaff",
         arcsHeight=0.3, arcsLwd=2, arcsColor="#ffff00", arcsOpacity=0.15,
-        atmosphere=TRUE, color="#00aaff", pointsize=0.5, bg="white")
+        atmosphere=TRUE, color="#00aaff", pointsize=0.5, bg="black")
 globeFlights
 htmlwidgets::saveWidget(globeFlights, "globeFlights.html")

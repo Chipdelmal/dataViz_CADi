@@ -2,7 +2,7 @@
 
 Nearly every data visualization project starts with some combination of data gathering-cleaning-parsing. These combinations of activities are usually domain-specific, and sometimes even application-specific. As such, we can't cover this bread subject in a data-visualization course. We will focus on some of the main formats, and related activities. As well as provide as some tools/resources that could be useful for people in the future.
 
-<hr><hr>
+<hr>
 
 ## Data Sharing Formats
 
@@ -115,7 +115,7 @@ Human-readable data transmission format based on "attribute-value" pairs and arr
 }]
 ```
 
-<hr><hr>
+<hr>
 
 ## Data Cleaning/Wrangling
 
@@ -153,13 +153,13 @@ def compileFactorialCSVFromFiles(path, outFilename):
 </a>
 
 
-### [Tidyverse](https://www.tidyverse.org/)
+###	[Tidyverse](https://www.tidyverse.org/)
 
 <a href="https://www.tidyverse.org/">
 <img src="../media/tidyverse.png" width="100%">
 </a>
 
-<hr><hr>
+<hr>
 
 ##  Some Useful Data Sources
 
@@ -175,8 +175,10 @@ def compileFactorialCSVFromFiles(path, outFilename):
 <img src="../media/googleDataset.png" width="100%">
 </a>
 
+<!--
 ### [CICESE](https://www.cicese.edu.mx/)
 
 <a href="https://www.cicese.edu.mx/">
 <img src="../media/cicese.png" width="100%">
 </a>
+-->
