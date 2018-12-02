@@ -13,23 +13,30 @@ Creating a website for our projects is good not only for exposure, but it can he
 
 ### 1. "Docs" folder approach
 
-As mentioned before, the easiest way to create a website for our coding projects is to create a folder named **docs** within own main branch, and point the repository to parse the [markdown](./markdown) into a website. This can be done easily by going to the settings of the repository and selecting the option _____.
+As mentioned before, the easiest way to create a website for our coding projects is to create a folder named **docs** within own main branch, and point the repository to parse the [markdown](./markdown) into a website. This can be done easily by going to the settings of the repository and selecting the appropriate option in the "GitHub Pages" section.
 
 ##### Github Templates
+
+It is also worth noting that github also has pre-built templates to streamline the process to generate appealing websites.
+
+<img src="../media/docsFolder.png" width="100%">
 
 
 ## 2. "gh-pages" branch approach
 
-A second, much more versatile option, is to create a totally independent branch of our repository called **gh-pages**. In this branch, we will create a website
+A second, much more versatile option, is to create a totally independent branch of our repository called **gh-pages**. In this branch, we will create a website for the project. A good guide to follow can be found in this [link](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/).
 
 ##### Jekyll Templates
 
-[Jekyll]() offers a variety of ruby-based templates that we can use to make the creation of good-looking websites easier. A gallery of freely available templates can be accessed from this [link](). [Github](https://github.com/) incorporates the necessary mechanisms to do the translation of the jekyll templates into HTML so that it is displayed correctly without any further intermediate steps. It must be noted, however, that some experience with HTML, javascript, and CSS is desirable to be able to make modifications that are specific to scientific projects.
+[Jekyll](https://jekyllrb.com/) offers a variety of ruby-based templates that we can use to make the creation of good-looking websites easier. A gallery of freely available templates can be accessed from this [link](http://jekyllthemes.org/). [Github](https://github.com/) incorporates the necessary mechanisms to do the translation of the jekyll templates into HTML so that it is displayed correctly without any further intermediate steps. It must be noted, however, that some experience with HTML, javascript, and CSS is desirable to be able to make modifications that are specific to scientific projects.
+
+<img src="../media/ghPages.png" width="100%">
 
 <hr>
 
 ## Github Personal Website
 
-We can also create our personal website with free hosting on the github servers.
+We can also create our personal website with free hosting on the github servers. Although this is outside of the scope of the course, it is usually a good idea to have a site in which we can showcase some of our work. A guide on how to setup these websites can be read on this [link](https://pages.github.com/).
 
-This personal website will be accessible in the following URL: **http://_githubUsername_.github.io/**
+
+<a href="https://pages.github.com/"><img src="../media/ghPages.png" width="100%"></a>

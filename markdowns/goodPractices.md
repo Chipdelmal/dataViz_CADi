@@ -12,6 +12,7 @@ Adding grid lines, highlighting important regions, shading areas, are all ways w
 
 When mapping a variable to an area, make sure to scale the aforementioned variable to the area of the representation, not it's radius/side-length.
 
+<a href="https://www.youtube.com/watch?v=VJf9EuNS2e8&t=0s&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&index=5"><img src="../media/taleOfTwoCities.png" width="99%"></a>
 
 #### If possible, use length instead of area as a visual cue
 
