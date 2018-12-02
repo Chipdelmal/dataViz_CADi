@@ -39,17 +39,26 @@ source activate dataViz
 python -m ipykernel install --user --name dataViz
 ```
 
-## Other commands
+## Alternatively, it can be used with [Spyder](https://www.spyder-ide.org/)
 
-To export environment to *YML* (after activating):
+The easiest way to run the environment and the code in an RStudio-like fashion, is through the [Spyder IDE](https://www.spyder-ide.org/):
 
 ```bash
-conda env export > dataViz.yml
+source activate dataViz
+spyder
 ```
 
+<hr>
 
 ## Other useful Atom packages and Resources
 
 * [hydrogen](https://atom.io/packages/Hydrogen): Run jupyter and R kernels from atom
 * [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal): Launching the terminal from atom
 * [R and Python from Hydrogen](https://jstaf.github.io/2018/03/25/atom-ide.html): A guide to setup _R_ and _Python_ kernels in Hydrogen to launch from Atom.
+
+
+To export environment to *YML* (after activating):
+
+```bash
+conda env export > dataViz.yml
+```

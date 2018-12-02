@@ -56,7 +56,7 @@ Some of the examples were developed from scratch, whilst some others were coded 
 * Infographics
 * Psychological interpretations
 
-<br><img src="../media/artMunch.gif" width="50%">
+<br><img src="../media/artMunch.gif" width="30%">
 
 <hr>
 
@@ -77,8 +77,19 @@ This course was designed to try to accommodate the widest set of audiences in en
 
 ### Setting up Mathematica
 
+Installing Mathematica is as simple as following the instructions on the wizard after [downloading it from the institute's server](../media/mathematicaDownload.pdf).
+
+<img src="../media/screenMathematica.png" width="50%">
+
 ### Setting up R and RStudio
+
+Install R by downloading its [executable packages](https://www.r-project.org/), and do the same for [RStudio](https://www.rstudio.com/).
+
+<img src="../media/screenR.png" width="100%">
 
 ### Setting up Python, Anaconda and the Required Libraries
 
-The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by following the next steps:
+The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by installing [anaconda](https://conda.io/docs/user-guide/install/index.html), and then following the instructions detailed in the [dataViz conda environment README](../conda/README.md).
+
+
+<img src="../media/screenPython.png" width="100%">
