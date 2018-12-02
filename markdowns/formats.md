@@ -55,13 +55,21 @@ The most common vector-based formats are: _CGM, Gerber format, SVG_
 
 ## [Compound](https://en.wikipedia.org/wiki/Image_file_formats#Compound_formats)
 
-Common compound formats are: _EPS, PDF, PS, PICT, WMF/EMF, SWF, XAML_
+These formats can contain both raster and vector elements within their structure.
 
-###  EPS
+Some common compound formats are: _EPS, PDF, PS, PICT, WMF/EMF, SWF, XAML_
 
 ###  PDF
 
+The most commonly used compound format. It was originally developed by Adobe, but since 2008 it has become open for development. In portable document format files images can be stored both as rasters or vectors (through the use of Bézier curves).
+
 ###  PS
+
+Created by Adobe, this format was developed as a vector-based alternative for printing documents and was used as the basis to develop PDF standards.
+
+###  EPS
+
+The encapsulated postscript is a document which contains vector information of the image to be stored (in postscript form), along with a bitmap representation for on-screen preview.
 
 <hr>
 
