@@ -24,17 +24,17 @@ Traditionally used in genetic analyses, these plots are useful in hierarchical c
 
 <img src="../media/dendrogram01.png" width="25%"><img src="../media/dendrogram02.png" width="25%">
 
-<hr><hr>
+<hr>
 
 # Exercises
 
 1. <a name="exercise01">[Tree Map (R)](./scripts/TreeMap)</a>
 1. <a name="exercise02">[Random Networks (Mathematica)](./scripts/NetworksRandom)</a>
 
-<hr><hr>
+<hr>
 
 # Gallery
 
-## Mosquito to Human Bites Clustered Network
+#### Mosquito to Human Bites Clustered Network
 
 <img src="../media/clusteredMASH.png" width="100%">

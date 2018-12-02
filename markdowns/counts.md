@@ -5,7 +5,7 @@
 
 Counts of categorical data are common in statistical and clinical studies. Visualizing these data in an informative way is usually a good first step towards understanding the underlying processes that might be causing or disrupting patterns. For this reason, special care has to be taken when creating these plots, as it might affect our own perception of the phenomena under study.
 
-<hr><hr>
+<hr>
 
 ## Histograms and Smooth Histograms
 
@@ -13,7 +13,6 @@ Histograms are the most natural way to show a distribution of data. These two al
 
 <br><img src="../media/smooth.jpg" width="100%">
 
-<hr>
 
 ## Box Whisker Charts
 
@@ -21,7 +20,6 @@ One of the most widely used plots for counts data is the "box-whisker" chart. Th
 
 <br><img src="../media/boxWhisker.jpg" width="100%">
 
-<hr>
 
 ## Violin Plot
 
@@ -29,17 +27,17 @@ Violin plots, like box-whisker charts, show the distribution of frequencies of c
 
 <br><img src="../media/violinChart.jpg" width="35%"><img src="../media/violin.png" width="35%"><br>
 
-<hr><hr>
+<hr>
 
 # Exercises
 
 1. <a name="exercise01">[Box-Whisker Chart (R)](./scripts/BoxWhiskerChart)</a>
 2. <a name="exercise03">[Violin Plots (R)](./scripts/ViolinPlots)
 
-<hr><hr>
+<hr>
 
 # Gallery
 
-## Displaying the minimum distances between households
+#### Displaying the minimum distances between households
 
 <br><img src="../media/hitsPaloAlto.jpg" width="30%"><img src="../media/histComoros.jpg" width="30%"><img src="../media/histYorkeys.jpg" width="30%"><br>

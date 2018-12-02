@@ -1,6 +1,6 @@
 # Image Formats
 
-<hr><hr>
+<hr>
 
 ## [Raster-based](https://en.wikipedia.org/wiki/Raster_graphics)
 
@@ -67,9 +67,13 @@ Common compound formats are: _EPS, PDF, PS, PICT, WMF/EMF, SWF, XAML_
 
 ## [Screen Resolutions and Aspect Ratios](https://en.wikipedia.org/wiki/Display_resolution)
 
+The aspect ratio of images and videos is also an important factor to take into account when generating graphics. This is because we can take into account the whole available space alloted to us. For example, when thinking about creating a video out of graphics, we can generate the frames in a standard aspect ratio to avoid black bands on the edges of online resources such as [Youtube](www.youtube.com).
+
+Although generally used interchangeably, screen resolution and aspec ratio are different concepts. The screen resolution is the number of width and height pixels that the screen/projector can show, whilst the aspect ratio is the ratio between the two quantities.
+
 <br><img src="../docs/media/screenResolutions.png"  width="100%"><br>
 
-<hr><hr>
+<hr>
 
 ## More information
 

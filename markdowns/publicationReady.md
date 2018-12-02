@@ -2,7 +2,7 @@
 
 Getting the figures to a "print-ready" state is the most frustrating and time consuming part of the "design" process. This involves the iterative process of refining details, exporting, and verifying it meets the functionality, format and aesthetic requirements for its use in a scientific document.
 
-<br><img src="../media/SD_ecology.jpg" width="100%">
+<br><img src="../media/SD_ecology2.jpg" width="100%">
 
 <hr>
 

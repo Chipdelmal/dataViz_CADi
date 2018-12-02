@@ -4,7 +4,7 @@ __Data type:__ counts varying over time.
 
 Time series data is extremely common amongst different fields, as such, almost every audience knows how to interpret it at a glance. This might make us think that there's not much innovation or many options to make our plots stand out, but in this section we will see how to make some effective uses of color space and plot types to do so.
 
-<hr><hr>
+<hr>
 
 
 ##  Line Plots (connected scatter plots)
@@ -14,7 +14,6 @@ The baseline to which all other plots are compared to. This kind of graphic has 
 <br>
 <img src="../media/traces02.png" width="100%">
 
-<hr>
 
 
 ##  Stream Chart (stacked area)
@@ -23,8 +22,6 @@ In [exercises 2](#exercise02) and [4](#exercise04) we will see how to create the
 
 <!--<img src="../media/flow.jpg" width="100%">-->
 <img src="../media/streamgraph.png" width="100%">
-
-<hr>
 
 
 ##  Dygraph
@@ -40,7 +37,7 @@ Often used in economics, this plot shows us counts ofer time, along with the tim
 <img src="../media/flow3.png" width="100%">
 
 
-<hr><hr>
+<hr>
 
 # Exercises
 
@@ -49,20 +46,19 @@ Often used in economics, this plot shows us counts ofer time, along with the tim
 3. <a name="exercise03">[Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)</a>
 4. <a name="exercise04">[Streamchart (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Streamgraph)
 
-<hr><hr>
+<hr>
 
 # Extensions and Gallery
 
-## Dissecting a mosquito life history
+#### Dissecting a mosquito life history
 
-<img src="../media/F_mosy74_2858.png" width="50%"><img src="../media/F_mosy65_2770.png" width="50%"><br><br><br>
+<img src="../media/F_mosy74_2858.png" width="50%"><img src="../media/F_mosy65_2770.png" width="50%"><br>
 
 
+#### Displaying spatio-temporal processes in a landscape
 
-## Displaying spatio-temporal processes in a landscape
+<img src="../media/heatmapExt01.jpg" width="100%"><br>
 
-<img src="../media/heatmapExt01.jpg" width="100%"><br><br><br>
+#### Using Color Transparency to show spatio-temporal processes in a single plot
 
-## Using Color Transparency to show spatio-temporal processes in a single plot
-
-<img src="../media/heatmapExt02.png" width="100%"><br><br><br>
+<img src="../media/heatmapExt02.png" width="100%"><br>

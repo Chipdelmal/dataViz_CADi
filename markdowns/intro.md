@@ -56,6 +56,8 @@ Some of the examples were developed from scratch, whilst some others were coded 
 * Infographics
 * Psychological interpretations
 
+<br><img src="../media/artMunch.gif" width="50%">
+
 <hr>
 
 ## My background
@@ -65,3 +67,18 @@ Some of the examples were developed from scratch, whilst some others were coded 
 
 <a href="https://chipdelmal.github.io/">
 <img src="../media/MarkovGrid.jpg" width="100%"></a>
+
+
+<hr>
+
+##  Course Structure and Setting up the Required Software
+
+This course was designed to try to accommodate the widest set of audiences in engineering and scientific disciplines. As such, it provides guidelines that are common to most disciplines. For this reason, it was developed to make use of the three aforementioned programming platforms ([R](https://www.r-project.org/), [Mathematica](http://www.wolfram.com/mathematica/) and [Python](https://www.python.org/)) although no deep knowledge of the platforms is required.
+
+### Setting up Mathematica
+
+### Setting up R and RStudio
+
+### Setting up Python, Anaconda and the Required Libraries
+
+The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by following the next steps:

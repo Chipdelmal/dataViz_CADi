@@ -1,8 +1,7 @@
 
-# [<img src="../media/ffmpeg.png" height="50px">](https://www.ffmpeg.org/)
+# [FFmpeg](https://www.ffmpeg.org/)
 
 FFmpeg is an extremely versatile command line utility to process audio and video. It is a compendium of libraries and GNU programs written in assembly and C to streamline the processing of a comprehensive amount of media formats. Despite it being not so user-friendly, it remains as the one stop go-to toolkit for tranforming across video/image kinds. For more information about the project follow this [link](https://en.wikipedia.org/wiki/FFmpeg).
-
 
 <hr>
 
@@ -33,3 +32,7 @@ ffmpeg -i ffmpegSample8K.mp4 -vf "pad=width=3840:height=2160:x=150:y=350:color=w
 ```
 
 For a guide on how to convert a video to high-quality GIFs, follow this [post](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html).
+
+<br>
+
+[<img src="../media/ffmpeg.png" height="50px">](https://en.wikipedia.org/wiki/FFmpeg)

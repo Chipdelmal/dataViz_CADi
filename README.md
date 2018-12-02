@@ -74,8 +74,7 @@ Some other useful packages for development in atom are:
 
 ## Resources
 
-<img src="./media/shades.png" width="100%">
-
+This is a list of complementary sources and tools that are useful in data visualization applications.
 
 ### Tools
 
@@ -87,7 +86,7 @@ Some other useful packages for development in atom are:
 * [irkernel](https://irkernel.github.io/installation/): R kernel for jupyter
 * [jekyll](https://jekyllrb.com/): Blog-like templates for github pages (Ruby)
 * [leaflet](https://leafletjs.com/): Open-source JavaScript library for interactive maps
-* [matplotlib](https://matplotlib.org/): Python plotting
+* [matplotlib](https://matplotlib.org/): Python plotting framework
 * [mathjax](https://www.mathjax.org/): Use latex in html documents through javascript
 * [networkD3](https://christophergandrud.github.io/networkD3/): R Network Plotting
 * [plotly](https://plot.ly/): Interactive plots (both in R, and Python)
@@ -126,9 +125,10 @@ Some other useful packages for development in atom are:
 * [Yau, N. (2011). Visualize this : the FlowingData guide to design, visualization, and statistics. Wiley Pub. ISBN-13: 978-0470944882](https://flowingdata.com/books/)
 * [Yau, N. (2013). Data points: visualization that means something. ISBN-13: 978-1118462195](https://flowingdata.com/books/)
 
+<img src="./media/shades.png" width="100%">
 
 <hr>
 
-## [Ph.D. Héctor Manuel Sánchez Castellanos](./Day01/cv.md)
+### [Ph.D. Héctor Manuel Sánchez Castellanos](./Day01/cv.md)
 
-<img src="./docs/media/berkeley.jpg" height="50"><img src="./docs/media/ihme.png" height="50"><img src="./docs/media/itesm.png" height="57.5"><br>
+<img src="./docs/media/berkeley.jpg" height="40"><img src="./docs/media/ihme.png" height="40"><img src="./docs/media/itesm.png" height="50"><br>

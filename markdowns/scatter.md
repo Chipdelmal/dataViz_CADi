@@ -5,7 +5,7 @@
 
 Scatter data is common because its use in time series and correlation plots. This might make it seem like there are not a lot of options to make these plots interesting, but there are a couple of ways to make them stand out through the use of colors, size (bubble charts), and adding other elements like histograms.
 
-<hr><hr>
+<hr>
 
 ## Scatter Plot
 
@@ -13,7 +13,6 @@ The most natural, and straightforward way to plot coordinates data is in a scatt
 
 <img src="../media/NFL03.png" width="50%">
 
-<hr>
 
 ##  Bubble Chart
 
@@ -21,7 +20,6 @@ Another extension of the scatter plot is a bubble chart, in which additional inf
 
 <img src="../media/bubble.png" width="50%">
 
-<hr>
 
 ## Scatter Plot with Histograms
 
@@ -29,7 +27,7 @@ An extension to a traditional scatter plot is the addition of histograms on the 
 
 <img src="../media/scatterHistogram.png" width="50%">
 
-<hr><hr>
+<hr>
 
 # Exercises
 
@@ -37,10 +35,10 @@ An extension to a traditional scatter plot is the addition of histograms on the 
 2.  <a name="exercise02">[Scatter Plot (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
 3.  <a name="exercise02">[Scatter Plot with Histograms (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
 
-<hr><hr>
+<hr>
 
 # Gallery
 
-## NFL players heights VS weights by position
+#### NFL players heights VS weights by position
 
-<img src="../media/NFL.png" width="50%">
+<img src="../media/NFL.png" width="100%">

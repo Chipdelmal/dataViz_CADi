@@ -37,6 +37,6 @@ Finally, there is always the option to "unfold" the dimensionality of the data b
 
 # Extensions and Gallery
 
-## Changes in mosquito quantities over time, given the coverage of two control interventions
+#### Changes in mosquito quantities over time, given the coverage of two control interventions
 
 <img src="../media/responseBackground.png" width="100%">

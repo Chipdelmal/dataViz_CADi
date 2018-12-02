@@ -37,16 +37,15 @@ Frequently used in genetic analyses. It represents the states around a circle, a
 1. <a name="exercise02">[Heatmap](./scripts/Transitions)</a>
 1. <a name="exercise03">[Random Network](./scripts/NetworksRandom)</a>
 
-<hr><hr>
+<hr>
 
 # Gallery
 
-
-##  Spread of SIR diseases in a network
+####  Spread of SIR diseases in a network
 
 <br><img src="../media/SPA.gif" width="50%"><img src="../media/WS.gif" width="50%">
 
 
-##  Distribution of Feeding Sites and Movement Probabilities in a Landscape
+####  Distribution of Feeding Sites and Movement Probabilities in a Landscape
 
 <img src="../media/network.jpg" width="100%">

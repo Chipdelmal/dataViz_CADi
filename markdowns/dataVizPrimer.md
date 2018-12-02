@@ -2,6 +2,16 @@
 
 The importance of good data visualization is often neglected when thinking about experiments and timelines. This, however, is often a costly oversight as it is what tends to attract more attention when presenting our results. Unfortunately, <b>good data visualization is time consuming</b>. Unless there is a hired data analyst/graphics designer (which is often not the case), we'll have to deal with doing or data visualization ourselves. This might come off as a somewhat daunting endeavor given that the guidelines that make a "good" scientific graphic are fuzzy or close to nonexistent. Things like color palettes, font faces, distribution of elements, thicknesses, opacities, all affect the overall perception of our work. This is on top of selecting the right plot-type, and the correct framework to work in. As such, it is a good idea to review and practice some of the most current trends and technologies in the subject.
 
+<br><img src="../media/sd03.png" width="100%">
+<img src="../media/sd02.png" width="100%">
+
+<hr>
+
+## Where does it fit in scientific/engineering workflows?
+
+Data visualization is, as the name suggests, all about the data. As such, it is natural to think about it as a subset of a data-analysis workflow. At first glance it might seem that generating "nice plots" would only be important in final stages of analyses, but the clever use of visual cues can save a lot of time in performing experiments and debugging code.
+
+<img src="../media/dataVizDiagram.png" width="100%">
 
 <hr>
 
@@ -19,17 +29,7 @@ The importance of good data visualization is often neglected when thinking about
 
 <hr>
 
-## Telling a Story
-
-Data visualization is, ultimately, a tool to aid our narratives. Wether it is a scientific paper, a lecture, a talk, or an internal report; there is always an audience we want to convince, and a story we want to tell.
-
-<br>
-<img src="../media/poster.jpg" width="100%">
-
-<hr>
-
-
-## How?
+## How can it be used effectively?
 
 There are several visual cues that help viewers interpret plots. The most common ones are:
 
@@ -77,7 +77,8 @@ Whilst it is often a good practice to make our visualizations as clean, and  "pu
 
 This constraint is a bit less obvious than the exploration versus communication one, but it's still important to make the distinction between plots made for the purpose of detecting large trends in a dataset (in an inital state of experimentation), and plots that are specifically designed for analysis of a clear phenomenon.
 
-<img src="../media/crispr.png" width="100%">
+<img src="../media/SD_health2.jpg" width="100%"><br>
+<img src="../media/sdMatrix.png" width="100%">
 
 ###  Static VS Dynamic
 
@@ -168,10 +169,17 @@ Finally, we can compile our plots and put them together in a way that favors rea
 
 <!--<img src="../media/drafts01.jpg" width="50%"><img src="../media/drafts02.jpg" width="22.40%">-->
 
-<hr><hr>
+<hr>
 
-## Useful Resources
+## Telling a Story
 
-### Data Visualization Catalogue & Chartmaker Directory
+Data visualization is also a tool to aid our narratives. Wether it is a scientific paper, a lecture, a talk, or an internal report; there is always an audience we want to convince, and a story we want to tell.
+
+<br>
+<img src="../media/poster.jpg" width="100%">
+
+<hr>
+
+#### Useful Resources: Data Visualization Catalogue & Chartmaker Directory
 
 <a href="https://datavizcatalogue.com/index.html"><img src="../media/datavizcatalogue.png" width="27.5%"></a><a href="http://chartmaker.visualisingdata.com/"><img src="../media/chartTypes.png" width="50%"></a>

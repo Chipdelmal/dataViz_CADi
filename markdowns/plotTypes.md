@@ -5,7 +5,7 @@ Plots types are as difficult to classify as the data they represent. There are c
 
 In the following module, we will show some of the most common ways to display information according to the underlying data they hold, and the use we want to give to it.
 
-<hr><hr>
+<hr>
 
 ##  [Time Series](./timeSeries.md)
 
