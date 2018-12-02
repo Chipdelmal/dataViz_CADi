@@ -1,7 +1,10 @@
 ##############################################################################
 # Violin Plots
 # ----------------------------------------------------------------------------
-# Source: http://www.sthda.com/english/wiki/ggplot2-violin-plot-quick-start-guide-r-software-and-data-visualization
+# Source:
+#   http://www.sthda.com/english/wiki/ggplot2-violin-plot-quick-start-guide-r-software-and-data-visualization
+#   https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/ToothGrowth.html
+#   https://ggplot2.tidyverse.org/reference/diamonds.html
 ##############################################################################
 
 #
