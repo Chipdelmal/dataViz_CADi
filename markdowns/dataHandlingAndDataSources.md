@@ -175,6 +175,12 @@ def compileFactorialCSVFromFiles(path, outFilename):
 <img src="../media/googleDataset.png" width="100%">
 </a>
 
+###	[30 Resources to Find the Data you Need](https://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/)
+
+<a href="https://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/">
+<img src="../media/dataSource.png" width="100%">
+</a>
+
 <!--
 ### [CICESE](https://www.cicese.edu.mx/)
 

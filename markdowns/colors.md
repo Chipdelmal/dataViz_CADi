@@ -62,6 +62,7 @@ Designing for colorblindness is difficult. There are tools that can help us unde
 
 * <a href="http://colorpalettes.net/">Artistic Color Palettes</a>
 * <a href="https://coolors.co/">Coolors</a>
+* <a href="http://tristen.ca/hcl-picker/#/hlc/6/1/657D9F/E2E062">Color Picker for Data</a>
 * <a href="https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html">Sci-Fi Color Palettes</a>
 * <a href="http://colorbrewer2.org/#type=sequential&scheme=Blues&n=7">Color Brewer for Maps</a>
 * <a href="https://www.rdocumentation.org/packages/RColorBrewer/versions/1.1-2/topics/RColorBrewer">RColorBrewer Package</a>

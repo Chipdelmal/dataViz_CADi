@@ -34,6 +34,8 @@ Although it is usually a matter of taste, it is generally a good idea to try to 
 
 It is worth taking time to think if we are using the data representation that most people associate with it. When we think of time, we usually expect it plotted in a linear *x-axis*, or as the passage of frames in animations. It is sometimes useful to try an innovative alternative, but always keeping in mind that the viewers might find it unnatural at a first glance.
 
+<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="../media/alternatives.png" width="100%"></a>
+
 #### Do not change the aspect ratio post-rendering
 
 It is extremely easy for audiences to detect when an aspect ratio has been modified. This effect is particularly magnified when numbers/letters are present.
@@ -44,7 +46,8 @@ It is extremely easy for audiences to detect when an aspect ratio has been modif
 
 Sometimes it is worth spending some time attempting some "out of the box" representations of the data. This is not only create interest, but to verify that the way we are presenting our information is the most efficient one.
 
-<a href="https://www.amazon.com/Data-Points-Visualization-Means-Something/dp/111846219X/ref=sr_1_2?ie=UTF8&qid=1542581424&sr=8-2&keywords=nathan+yau"><img src="../media/alternatives.png" width="100%"></a>
+<a href="https://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/"><img src="../media/alternatives2.png" width="100%"></a>
+
 
 #### Be flexible in learning tools
 

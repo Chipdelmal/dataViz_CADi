@@ -108,8 +108,10 @@ This is a list of complementary sources and tools that are useful in data visual
 ### Online
 
 * Coolors Color Palettes: https://coolors.co
+* Colorpicker for Data: http://tristen.ca/hcl-picker/#/hlc/6/1/657D9F/E2E062
 * Data Visualization Catalogue: https://datavizcatalogue.com/index.html
 * Data Visualization Ted Talks: https://www.ted.com/playlists/201/art_from_data
+* Flowing Data: https://flowingdata.com/
 * Google Charts: https://developers.google.com/chart/interactive/docs/
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Markdown Specs: https://github.github.com/gfm/
@@ -118,6 +120,7 @@ This is a list of complementary sources and tools that are useful in data visual
 * Plots and Charts Galleries: https://datavizproject.com/
 * Plot Type Selector: http://chartmaker.visualisingdata.com/
 * The R Graph Gallery: https://www.r-graph-gallery.com
+* The Python Graph Gallery: https://python-graph-gallery.com/
 * The Truthful Art: https://truth-and-beauty.net/
 
 ### Books
