@@ -1,10 +1,10 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught to professors of the ["Tecnológico de Monterrey"](https://tec.mx/es) Institute on December of 2018 at "Estado de México" campus.
+This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute.
 
 <br><img src="./docs/media/images/headerImage.jpg"  width="100%"><br>
 
-This is a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
+It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <hr>
 
@@ -12,21 +12,22 @@ This is a compendium of materials and activities designed to develop and improve
 
 Although not strictly required, having some knowledge on one of the following programming languages is suggested (as we'll be using them throughout the course):
 
-* [Mathematica](http://www.wolfram.com/mathematica/): Most of the graphics showcased in the website were developed in this platform due to its flexibility in terms of graphical capabilities.
+* [Mathematica](http://www.wolfram.com/mathematica/): Most of the graphics showcased in the website were developed in this platform due to its flexibility in terms of graphical capabilities (as well as personal preference of the teacher).
 * [Python](https://www.python.org/): One of the most popular programming languages. Some of the more versatile data visualization frameworks are compatible with it.
-* [R + RStudio](https://www.r-project.org/): A popular statistical framework with lots of community support with its most popular IDE.
+* [R](https://www.r-project.org/): A popular statistical framework with lots of community support.
 
 <br><img src="./media/logoM.png" height="50px"><img src="./media/logoP.png" height="50px"><img src="./media/logoR.png" height="50px"><br>
 
 There's examples developed in each of the platforms according to the application and availability of frameworks for specific tasks.
 
-It is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. For a useful guide on how to install R and Python kernels in Atom follow this [link](https://jstaf.github.io/2018/03/25/atom-ide.html).
-
-Some other useful packages for development in atom are:
+Additionaly, it is also suggested to have the [atom](https://atom.io/) text editor for the markdown and python examples. For a useful guide on how to install R and Python kernels in Atom follow this [link](https://jstaf.github.io/2018/03/25/atom-ide.html). Some other useful packages for development in atom are:
 
 * [Markdown Preview Enhanced](https://atom.io/packages/markdown-preview-enhanced): Allows the live update of markdown documents previews.
 * [Hydrogen](https://atom.io/packages/hydrogen): Package that allows running Python code in [Jupyter](http://jupyter.org/)-style from within atom.
 * [Preview HTML](https://atom.io/packages/atom-html-preview): Allows us to view the results of our HTML within atom.
+* [Platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal): Launches a terminal instance from within atom (the session starts at our current directory).
+
+It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for R development.
 
 <br><img src="./media/flow.jpg"  width="100%"><br>
 
@@ -34,16 +35,17 @@ Some other useful packages for development in atom are:
 
 ## Contents
 
+Given that the course is intended to be useful for several disciplines, the workshop was created with flexibility in mind. As such, modules are fairly independent and can be taken in different order.
+
 ### Day 01 (8h)
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background
+1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background, Installations
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
 4. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
 5. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Data Formats, Data Handling Frameworks
-6. [Colors](./markdowns/colors.md): Color Palettes
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 
@@ -52,9 +54,10 @@ Some other useful packages for development in atom are:
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
 1. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
-2. [Plot Types (second part)](./markdowns/plotTypes.md): Clustering, Factorial, Multidimensional data, Geographic
-3. [Good Practices](./markdowns/goodPractices.md): Suggestions to make data visualization clearer
-4. [Some Visualizaiton Frameworks](./markdowns/frameworks.md): ggplot, plotly, networkD3, D3js
+2. [Colors](./markdowns/colors.md): Color Palettes
+3. [Plot Types (second part)](./markdowns/plotTypes.md): Clustering, Factorial, Multidimensional, Geographic
+4. [Good Practices](./markdowns/goodPractices.md): Suggestions to make data visualization clearer
+5. [Some Visualization Frameworks](./markdowns/frameworks.md): ggplot, plotly, D3js
 
 <br><img src="./docs/media/images/aggregation.png" width="100%"><br>
 

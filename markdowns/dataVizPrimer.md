@@ -25,7 +25,7 @@ Data visualization is, as the name suggests, all about the data. As such, it is 
 * To **communicate** concepts
 * To get **funding**
 
-<br><img src="../media/mgdrive.png" width="45%"><a href="https://www.youtube.com/watch?v=PPvzeV_Gylk&index=9&list=PLRzY6w7pvIWqFJi94ZfhPkSVnazlUylpN&t=0s"><img src="../media/Madagascar.png" width="32.5%"></a>
+<a href="https://medium.com/@hasanoviz/visualization-principles-a8c6e46ddc5f"><img src="../media/bandwidth.jpg" width="50%"></a>
 
 <hr>
 
