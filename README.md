@@ -1,6 +1,6 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" one week intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute. It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
+This repository contains the materials for the "Data Visualization" three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute. It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <br><img src="./docs/media/images/headerImage.jpg"  width="100%"><br>
 
@@ -37,7 +37,7 @@ It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for 
 
 Given that the course is intended to be useful for several disciplines, the workshop was created with flexibility in mind. As such, modules are fairly independent and can be taken in different order.
 
-### Day 01 (8h)
+### Day 01 (7h)
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
@@ -57,7 +57,7 @@ Given that the course is intended to be useful for several disciplines, the work
 2. [Colors](./markdowns/colors.md): Color Palettes
 3. [Plot Types (second part)](./markdowns/plotTypes.md): Clustering, Factorial, Multidimensional, Geographic
 4. [Good Practices](./markdowns/goodPractices.md): Suggestions to make data visualization clearer
-5. [Some Visualization Frameworks](./markdowns/frameworks.md): ggplot, plotly, D3js
+5. [Some Mainstream Visualization Frameworks](./markdowns/frameworks.md): ggplot, plotly, D3js
 
 <br><img src="./docs/media/images/aggregation.png" width="100%"><br>
 
