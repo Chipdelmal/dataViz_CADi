@@ -93,3 +93,14 @@ The most complicated of the three tools is Python with it's required libraries. 
 
 
 <img src="../media/screenPython.png" width="100%">
+
+
+### Forking the Repository
+
+Install the [github desktop app](https://desktop.github.com/). Click on the fork button in the repository's [main page](https://github.com/Chipdelmal/dataViz_CADi):
+
+<img src="../media/fork.png" width="100%">
+
+Once forked, click on the clone or download button, followed by open in desktop:
+
+<img src="../media/fork02.png" width="100%">

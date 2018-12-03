@@ -27,7 +27,7 @@ Additionaly, it is also suggested to have the [atom](https://atom.io/) text edit
 * [Preview HTML](https://atom.io/packages/atom-html-preview): Allows us to view the results of our HTML within atom.
 * [Platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal): Launches a terminal instance from within atom (the session starts at our current directory).
 
-It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for R development.
+It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for R development and the [github desktop app](https://desktop.github.com/) to for the repository.
 
 <br><img src="./media/flow.jpg"  width="100%"><br>
 
