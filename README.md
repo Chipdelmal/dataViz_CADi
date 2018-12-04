@@ -66,11 +66,12 @@ Given that the course is intended to be useful for several disciplines, the work
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
-1. [Markdown + HTML Primer](./markdowns/markdown.md): Introduction to MD and HTML for presentations
-2. [gh-pages](./markdowns/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
-3. [Remark](./markdowns/remark.md): One of the frameworks to create simple markdown presentations
-4. [Revealjs](./markdowns/revealjs.md): MathJax-supported javascript HTML presentations framework
-5. [ffmpeg](./markdowns/ffmpeg.md): Stop-motion animations, Further video editing
+1. Github Introduction
+2. [Markdown + HTML Primer](./markdowns/markdown.md): Introduction to MD and HTML for presentations
+3. [gh-pages](./markdowns/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
+4. [Remark](./markdowns/remark.md): One of the frameworks to create simple markdown presentations
+5. [Revealjs](./markdowns/revealjs.md): MathJax-supported javascript HTML presentations framework
+6. [ffmpeg](./markdowns/ffmpeg.md): Stop-motion animations, Further video editing
 
 <br><img src="./docs/media/images/crispr.jpg" width="100%"><br>
 
