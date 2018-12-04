@@ -45,14 +45,14 @@ Given that the course is intended to be useful for several disciplines, the work
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
 4. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
-5. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
+5. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series
 6. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Data Formats, Data Handling Frameworks
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 
 ### Day 02 (8h)
 
-<b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
+<b>Goal:</b> To describe and run through some examples of popular data visualization frameworks in R and Python.
 
 1. [Working with Python and Anaconda](./markdowns/pythonAndAnaconda.md): Setting up, Basics, VirtualEnv, Anaconda, Jupyter, Spyder, Atom
 2. [Colors](./markdowns/colors.md): Color Palettes
@@ -83,6 +83,7 @@ This is a list of complementary sources and tools that are useful in data visual
 
 ### Tools
 
+* [anaconda](https://www.anaconda.com/): DataScience/Package manager platform for python and R
 * [atom](https://atom.io/): Versatile IDE for R, Python, Markdown, Javascript, amongst others
 * [ffmpeg](https://www.ffmpeg.org/): Video Manipulation command line tool (can be used to create "stop-motion" animations)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf): Plotting in R
