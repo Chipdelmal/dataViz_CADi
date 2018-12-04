@@ -98,3 +98,8 @@ Locate the __./conda/dataViz.yml__ file in the project's repository, name it *da
 To setup the anaconda environment directly in the atom text editor follow the instructions detailed in the [dataViz conda environment readme file](../conda/README.md).
 
 <a href="https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html">![](../media/atom.png)</a>
+
+
+## Checking that everything is running ok
+
+To verify that everything is in shape please run the examples in the [hello python](../scripts/Python) demos.
