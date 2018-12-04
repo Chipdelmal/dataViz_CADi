@@ -88,7 +88,7 @@ Install R by downloading its [executable packages](https://www.r-project.org/), 
 
 ### Setting up Python, Anaconda and the Required Libraries
 
-The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by installing [anaconda](https://conda.io/docs/user-guide/install/index.html), and then following the instructions detailed in the [dataViz conda environment readme](../conda/README.md) and/or the [python explanation](./pythonAndAnaconda.md).
+The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by installing [anaconda](https://conda.io/docs/user-guide/install/index.html), and then following the instructions detailed in the [python introduction](./pythonAndAnaconda.md) (easy) and/or the [dataViz conda environment readme](../conda/README.md) (advanced).
 
 <img src="../media/screenPython.png" width="100%">
 
