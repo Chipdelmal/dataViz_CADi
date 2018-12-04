@@ -48,10 +48,10 @@ Some of the examples were developed from scratch, whilst some others were coded 
 
 ## My background
 
-Click on the GIFs to take a look at my [personal website](https://chipdelmal.github.io/)!
+Click on the GIF to take a look at my [personal website](https://chipdelmal.github.io/)!
 
 
-<a href="https://chipdelmal.github.io/"><img src="../media/artMunch.gif" width="50%"><img src="../media/artCezzane.gif" width="50%"></a>
+<a href="https://chipdelmal.github.io/"><img src="../media/artMunch.gif" width="100%"></a>
 
 
 
