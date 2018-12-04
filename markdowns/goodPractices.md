@@ -61,3 +61,5 @@ The only way to develop a "sense" of what data representations fit certain plot 
 
 <img src="../media/E_065_000_006_040_02D.png" width="99%">
 <img src="../media/E_065_000_006_040_01A.png" width="100%">
+<br><br>
+<img src="../media/MarkovGrid.jpg" width="100%">

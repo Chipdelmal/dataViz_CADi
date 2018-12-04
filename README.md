@@ -89,6 +89,7 @@ This is a list of complementary sources and tools that are useful in data visual
 * [github pages](https://pages.github.com/): Github pages
 * [irkernel](https://irkernel.github.io/installation/): R kernel for jupyter
 * [jekyll](https://jekyllrb.com/): Blog-like templates for github pages (Ruby)
+* [jupyter](https://jupyter.org): Jupyter project
 * [leaflet](https://leafletjs.com/): Open-source JavaScript library for interactive maps
 * [matplotlib](https://matplotlib.org/): Python plotting framework
 * [mathjax](https://www.mathjax.org/): Use latex in html documents through javascript
