@@ -8,19 +8,21 @@
 ##############################################################################
 
 #
+setwd("/Users/sanchez.hmsc/Documents/GitHub/dataViz_CADi/scripts/ViolinPlots/")
 
 #install.packages("ggplot2")
 library(ggplot2)
 options(repr.plot.width=4, repr.plot.height=3)
 
 # Loading and perparing the dataset
-ToothGrowth$dose <- as.factor(ToothGrowth$dose)
+ToothGrowth
+ToothGrowth$dose = as.factor(ToothGrowth$dose)
 ToothGrowth
 
 # Creating the first approach to the visualization
 p = ggplot(ToothGrowth, aes(x=dose, y=len)) +
   geom_violin(trim=FALSE)
-p + geom_boxplot(width=0.1)
+p + geom_boxplot(width=0.05)
 
 # Adding the dotplot
 p = ggplot(ToothGrowth, aes(x=dose, y=len)) +
@@ -30,12 +32,16 @@ p + geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
 # Changing the color
 p = ggplot(ToothGrowth, aes(x=dose, y=len, color=dose)) +
   geom_violin(trim=FALSE)
-p + geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+p=p + geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+p
+pdf("violinChart.pdf", width = 4, height = 4)
+p
+dev.off()
 
 # Testing adding fill color
 p = ggplot(ToothGrowth, aes(x=dose, y=len, fill=dose)) +
   geom_violin(trim=FALSE)
-p + geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+p + geom_dotplot(binaxis='y', stackdir='center', dotsize=.5)
 
 # Improving the style
 p = ggplot(ToothGrowth, aes(x=dose, y=len, color=dose)) +
@@ -47,16 +53,16 @@ data_summary <- function(x) {
    return(c(y=m,ymin=ymin,ymax=ymax))
 }
 p + stat_summary(fun.data=data_summary)
+p
 pdf("violinChart.pdf", width = 4, height = 4)
 p
 dev.off()
-
 
 dp <- ggplot(ToothGrowth, aes(x=dose, y=len, fill=dose)) +
   geom_violin(trim=FALSE)+
   geom_boxplot(width=0.1, fill="white")+
   labs(title="Plot of length  by dose",x="Dose (mg)", y = "Length")
-dp = dp + scale_fill_brewer(palette="Blues") + theme_classic()
+dp = dp + scale_fill_brewer(palette="Blues") + theme_minimal()
 dp
 
 pdf("violinChart.pdf", width = 4, height = 4)
@@ -68,7 +74,8 @@ dev.off()
 # Violin Chart from box-whisker example
 ###############################################################################
 
-width=1
+width=.25
 dp=ggplot(diamonds, aes(carat, price)) +
   geom_violin(aes(group = cut_width(carat, width), fill=cut_width(carat, width)))
 dp + theme(legend.position='none')
+dp

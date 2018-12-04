@@ -163,6 +163,12 @@ def compileFactorialCSVFromFiles(path, outFilename):
 
 ##  Some Useful Data Sources
 
+###	[Kaggle](https://www.kaggle.com/)
+
+<a href="https://www.openstreetmap.org/#map=16/37.8712/-122.2598">
+<img src="../media/kaggle.png" width="100%">
+</a>
+
 ### [OpenStreetMap](https://www.openstreetmap.org/#map=16/37.8689/-122.2681)
 
 <a href="https://www.openstreetmap.org/#map=16/37.8712/-122.2598">
