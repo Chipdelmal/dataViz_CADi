@@ -44,8 +44,9 @@ Given that the course is intended to be useful for several disciplines, the work
 1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background, Installations
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
-4. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
-5. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Data Formats, Data Handling Frameworks
+4. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
+5. [Plot Types (first part)](./markdowns/plotTypes.md): Counts, Scatter, Time Series, Transitions
+6. [Data Handling/Data Sources](./markdowns/dataHandlingAndDataSources.md): Data Formats, Data Handling Frameworks
 
 <br><img src="./docs/media/images/blue.png" width="100%"><br>
 
@@ -53,7 +54,7 @@ Given that the course is intended to be useful for several disciplines, the work
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
-1. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
+1. [Working with Python and Anaconda](./markdowns/pythonAndAnaconda.md): Setting up, Basics
 2. [Colors](./markdowns/colors.md): Color Palettes
 3. [Plot Types (second part)](./markdowns/plotTypes.md): Clustering, Factorial, Multidimensional, Geographic
 4. [Good Practices](./markdowns/goodPractices.md): Suggestions to make data visualization clearer
