@@ -62,11 +62,10 @@ Some of the examples were developed from scratch, whilst some others were coded 
 
 ## My background
 
-<a href="https://www.marshalllab.com/people.html">
-<img src="../media/crispr.jpg" width="100%"></a>
+Click on the image to take a look at my personal website!
 
 <a href="https://chipdelmal.github.io/">
-<img src="../media/MarkovGrid.jpg" width="100%"></a>
+<img src="../media/myWebsite.png" width="100%"></a>
 
 
 <hr>
@@ -89,8 +88,7 @@ Install R by downloading its [executable packages](https://www.r-project.org/), 
 
 ### Setting up Python, Anaconda and the Required Libraries
 
-The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by installing [anaconda](https://conda.io/docs/user-guide/install/index.html), and then following the instructions detailed in the [dataViz conda environment README](../conda/README.md).
-
+The most complicated of the three tools is Python with it's required libraries. However, this can be done easily by installing [anaconda](https://conda.io/docs/user-guide/install/index.html), and then following the instructions detailed in the [dataViz conda environment readme](../conda/README.md) and/or the [python explanation](./pythonAndAnaconda.md).
 
 <img src="../media/screenPython.png" width="100%">
 

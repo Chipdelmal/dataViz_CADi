@@ -37,11 +37,11 @@ It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for 
 
 Given that the course is intended to be useful for several disciplines, the workshop was created with flexibility in mind. As such, modules are fairly independent and can be taken in different order.
 
-### Day 01 (7h)
+### Day 01 (8h)
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
 
-1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background, Installations
+1. [Introduction](./markdowns/intro.md): Objectives, Scope, My background, Software Installation
 2. [Data Visualization Primer](./markdowns/dataVizPrimer.md): Data visualization workflow
 3. [Mathematica/R/Python Primer](./markdowns/programmingPrimer.md): Brief introduction to programming languages
 4. [Media Formats](./markdowns/formats.md): Raster-based, Vector-based
@@ -54,11 +54,11 @@ Given that the course is intended to be useful for several disciplines, the work
 
 <b>Goal:</b> To describe and run through some examples of popular data visualization frameworks.
 
-1. [Working with Python and Anaconda](./markdowns/pythonAndAnaconda.md): Setting up, Basics
+1. [Working with Python and Anaconda](./markdowns/pythonAndAnaconda.md): Setting up, Basics, VirtualEnv, Anaconda, Jupyter, Spyder, Atom
 2. [Colors](./markdowns/colors.md): Color Palettes
-3. [Plot Types (second part)](./markdowns/plotTypes.md): Clustering, Factorial, Multidimensional, Geographic
+3. [Plot Types (second part)](./markdowns/plotTypes.md): Time Series, Transitions, Clustering, Factorial, Multidimensional, Geographic
 4. [Good Practices](./markdowns/goodPractices.md): Suggestions to make data visualization clearer
-5. [Some Mainstream Visualization Frameworks](./markdowns/frameworks.md): ggplot, plotly, D3js
+<!--5. [Some Mainstream Visualization Frameworks](./markdowns/frameworks.md): ggplot, plotly, D3js-->
 
 <br><img src="./docs/media/images/aggregation.png" width="100%"><br>
 

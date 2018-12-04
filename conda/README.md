@@ -2,7 +2,7 @@
 # Python Installation Instructions
 
 
-Install [Python 3.7](https://www.python.org/) and [anaconda](https://www.anaconda.com/download/.
+Install [Python 3.7](https://www.python.org/) and [anaconda](https://www.anaconda.com/download/).
 
 
 To install the *conda* environment run the following command on the terminal (after moving to the project's path):
@@ -23,7 +23,7 @@ To close the environment:
 source deactivate
 ```
 
-## For easy use within Atom text editor
+## For easy use within [Atom](https://atom.io/) text editor
 
 To install ipykernel in hydrogen (to run notebooks in "Jupyter" style from atom):
 
