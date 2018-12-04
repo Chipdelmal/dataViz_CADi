@@ -44,28 +44,15 @@ Some of the examples were developed from scratch, whilst some others were coded 
 * To show how our visualizations can be embedded into presentations and shown online using markdown and HTML
 * To get some exposure on alternatives to make data visualization more attractive/innovative
 
-
-
-### Out of Scope
-
-* Data acquisition (scraping)
-* Data wrangling
-* "Print-ready" images editors (photoshop, gimp)
-* Dimensionality reduction techniques (PCA)
-* Artistic data visualization
-* Infographics
-* Psychological interpretations
-
-<br><img src="../media/artMunch.gif" width="30%">
-
 <hr>
 
 ## My background
 
-Click on the image to take a look at my personal website!
+Click on the GIFs to take a look at my [personal website](https://chipdelmal.github.io/)!
 
-<a href="https://chipdelmal.github.io/">
-<img src="../media/myWebsite.png" width="100%"></a>
+
+<a href="https://chipdelmal.github.io/"><img src="../media/artMunch.gif" width="50%"><img src="../media/artCezzane.gif" width="50%"></a>
+
 
 
 <hr>
