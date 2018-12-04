@@ -2,7 +2,7 @@
 # Python Installation Instructions
 
 
-Install [Python 3.7](https://www.python.org/) and [anaconda](https://www.anaconda.com/download/#macos).
+Install [Python 3.7](https://www.python.org/) and [anaconda](https://www.anaconda.com/download/.
 
 
 To install the *conda* environment run the following command on the terminal (after moving to the project's path):
