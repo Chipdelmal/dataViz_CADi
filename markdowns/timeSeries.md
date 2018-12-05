@@ -41,10 +41,10 @@ Often used in economics, this plot shows us counts ofer time, along with the tim
 
 # Exercises
 
-1. <a name="exercise01">[Stochastic Traces (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TimeSeries)</a>
-2. <a name="exercise02">[Stacked Area (R, Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/StackedArea)</a>
-3. <a name="exercise03">[Dygraph (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Dygraph)</a>
-4. <a name="exercise04">[Streamchart (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Streamgraph)
+1. <a name="exercise01">[Stochastic Traces (Mathematica)](../scripts/TimeSeries)</a>
+2. <a name="exercise02">[Stacked Area (R, Python)](../scripts/StackedArea)</a>
+3. <a name="exercise03">[Dygraph (R)](../scripts/Dygraph)</a>
+4. <a name="exercise04">[Streamchart (R)](../scripts/Streamgraph)
 
 <hr>
 

@@ -1,6 +1,6 @@
 # dataViz CADi
 
-This repository contains the materials for the "Data Visualization" three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute. It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
+This repository contains the materials for the "Data Visualization" three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) course taught to professors at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute. It hosts a compendium of materials and activities designed to develop and improve skills to make charts and plots more interactive/appealing, and to show some of the tools we can use to achieve better exposure of our work in scientific, and engineering applications.
 
 <br><img src="./docs/media/images/headerImage.jpg"  width="100%"><br>
 
@@ -66,8 +66,8 @@ Given that the course is intended to be useful for several disciplines, the work
 
 <b>Goal:</b> To be able to put together a project website and host some of the examples created throughout the course for better exposure of our work.
 
-1. Github Introduction
-2. [Markdown + HTML Primer](./markdowns/markdown.md): Introduction to MD and HTML for presentations
+1. [Github Introduction](./markdowns/github.md): Introduction to github, setting up an account, and our first repository
+2. [Markdown + HTML Primer](./markdowns/markdown.md): Introduction to MD and HTML for github and presentations
 3. [gh-pages](./markdowns/ghPages.md): Github pages, "Docs" folder, "gh-pages" branch
 4. [Remark](./markdowns/remark.md): One of the frameworks to create simple markdown presentations
 5. [Revealjs](./markdowns/revealjs.md): MathJax-supported javascript HTML presentations framework
@@ -101,6 +101,7 @@ This is a list of complementary sources and tools that are useful in data visual
 * [R](https://www.r-project.org/): Statistical computing programming language
 * [RColorBrewer](https://www.rdocumentation.org/packages/RColorBrewer/versions/1.1-2/topics/RColorBrewer): Color palettes for R
 * [remark](https://github.com/gnab/remark): Markdown presentations
+* [replit](https://repl.it/): Online python environments project
 * [revealjs](https://revealjs.com/#/): Javascript presentations
 * [rStudio](https://www.rstudio.com/): R IDE
 * [sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor): Latex to image converter to embed them into markdown
@@ -145,7 +146,7 @@ This is a list of complementary sources and tools that are useful in data visual
 
 ### [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
 
-Contact: sanchez.hmsc@berkeley.edu
+Contact: (sanchez.hmsc@berkeley.edu || chipdelmal@gmail.com)
 
 
 <img src="./docs/media/berkeley.jpg" height="40"><img src="./docs/media/ihme.png" height="40"><img src="./docs/media/itesm.png" height="50"><br>

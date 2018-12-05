@@ -33,9 +33,9 @@ Frequently used in genetic analyses. It represents the states around a circle, a
 
 # Exercises
 
-1. <a name="exercise01">[Chord Diagram](./scripts/Circlize)</a>
-1. <a name="exercise02">[Heatmap](./scripts/Transitions)</a>
-1. <a name="exercise03">[Random Network](./scripts/NetworksRandom)</a>
+1. <a name="exercise01">[Chord Diagram (R)](../scripts/Circlize)</a>
+1. <a name="exercise02">[Heatmap (Mathematica)](../scripts/Transitions)</a>
+1. <a name="exercise03">[Random Network (Mathematica)](../scripts/NetworksRandom)</a>
 
 <hr>
 
