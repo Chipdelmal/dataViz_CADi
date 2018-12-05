@@ -76,4 +76,4 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__ hierarchical
 * __Some options:__ treemap, networks, dendrogram, scatter plots
 
-<br><img src="../media/treemap.jpg" width="30%"></a><img src="../media/cluster.png" width="32%"><img src="../media/taleOfTwoCities.png" width="30%">
+<br><img src="../media/treemap.jpg" width="50%"></a><img src="../media/cluster.png" width="45%">
