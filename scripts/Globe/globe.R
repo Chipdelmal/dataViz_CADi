@@ -50,10 +50,10 @@ globejs(bg="black",
         rotationlat=0.34,
         rotationlong=0, 
         fov=30,
-        color="#D8D8F6"
+        color="#FFFFFF"
       )
 ??globejs
-globeCities=globejs(img=earth,bg="black", lat=cities$lat, long=cities$long, value=value, rotationlat=0.34, rotationlong=0, fov=30)
+globeCities=globejs(img=earth,bg="black",color="#FFFFFF",  lat=cities$lat, long=cities$long, value=value, rotationlat=0.34, rotationlong=0, fov=30)
 globeCities
 htmlwidgets::saveWidget(globeCities, "globeCities.html")
 
@@ -73,7 +73,7 @@ colnames(x) = c("long","lat","value", "age")
 globeMeteors=globejs(img=earth,
         lat = x$lat,
         long = x$long,
-        val =  x$age * 3 ,
+        val =  x$age * 1 ,
         pointsize = 1,
         atmosphere = TRUE,
         color="#FFFFFF"
@@ -91,7 +91,7 @@ dest = factor(sprintf("%.2f:%.2f",flights[,3], flights[,4]))
 # A table of destination frequencies
 freq = sort(table(dest), decreasing=TRUE)
 # The most frequent destinations in these data, possibly hub airports?
-frequent_destinations = names(freq)[1:250]
+frequent_destinations = names(freq)[1:50]
 # Subset the flight data by destination frequency
 idx = dest %in% frequent_destinations
 frequent_flights = flights[idx, ]
@@ -100,7 +100,7 @@ ll = unique(frequent_flights[,3:4])
 # Plot frequent destinations as bars, and the flights to and from
 # them as arcs. Adjust arc width and color by frequency.
 globeFlights=globejs(img=earth,lat=ll[,1], long=ll[,2], arcs=frequent_flights, bodycolor="#aaaaff",
-        arcsHeight=.45, arcsLwd=.5, arcsColor="#ffffff", arcsOpacity=0.1,
+        arcsHeight=.45, arcsLwd=.5, arcsColor="#ffffff", arcsOpacity=0.2,
         atmosphere=FALSE, value=20, color="#D0D0D0", pointsize=1, bg="black")
 globeFlights
 htmlwidgets::saveWidget(globeFlights, "globeFlights.html")
