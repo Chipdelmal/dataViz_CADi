@@ -12,17 +12,17 @@
 # Installing the required libraries
 install.packages("devtools")
 install.packages("threejs")
-#devtools::install_github("Displayr/flipChartBasics")
-#devtools::install_github("Displayr/flipAPI")
-#devtools::install_github("bwlewis/rthreejs")
+devtools::install_github("Displayr/flipChartBasics")
+devtools::install_github("Displayr/flipAPI")
+devtools::install_github("bwlewis/rthreejs")
 install.packages("maptools")
 install.packages("maps")
 install.packages("htmlwidgets")
 
 # Loading the libraries
 library(threejs)
-#library(flipChartBasics)
-#library(flipAPI)
+library(flipChartBasics)
+library(flipAPI)
 library(maps)
 library(maptools)
 
@@ -73,7 +73,7 @@ colnames(x) = c("long","lat","value", "age")
 globeMeteors=globejs(img=earth,
         lat = x$lat,
         long = x$long,
-        val =  x$age * 5 ,
+        val =  x$age * 3 ,
         pointsize = 1,
         atmosphere = TRUE,
         color="#FFFFFF"
