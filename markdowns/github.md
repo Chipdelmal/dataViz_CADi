@@ -10,7 +10,9 @@ Another advantage of GitHub is that it allows the seamless integration of [markd
 
 <a href="https://guides.github.com/"><img src="../media/githubGuides.png"  width="100%"></a>
 
-For purposes of this course, it is highly recommended to download the [github desktop app](https://desktop.github.com/) for easier use (without the command line).
+For purposes of this course, it is highly recommended to download the [github desktop app](https://desktop.github.com/) for easier use (without the command line) and/or the [atom IDE](https://atom.io/).
+
+<a href="https://atom.io"><img src="../media/atom.png"  width="100%"></a>
 
 <hr>
 
