@@ -27,12 +27,19 @@ Violin plots, like box-whisker charts, show the distribution of frequencies of c
 
 <br><img src="../media/violinChart.jpg" width="35%"><img src="../media/violin.png" width="35%"><br>
 
+## Word Cloud
+
+A new and popular way to display the frequencies of words is by generating a "word cloud", in [Exercise 3](#exercise03) we will see how to generate one with the text of the book 1984 by George Orwell.
+
+<img src="../media/wordCloud.png" width="35%"><br>
+
 <hr>
 
 # Exercises
 
 1. <a name="exercise01">[Box-Whisker Chart (R)](./scripts/BoxWhiskerChart)</a>
 2. <a name="exercise03">[Violin Plots (R)](./scripts/ViolinPlots)
+3. [Word Cloud (R)](./scripts/WordCloud)
 
 <hr>
 
