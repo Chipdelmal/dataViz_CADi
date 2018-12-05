@@ -21,7 +21,7 @@ In the following module, we will show some of the most common ways to display in
 * __Data type:__ frequencies or ratios
 * __Some options:__ histogram, smooth histogram, box-whisker chart, violin plot
 
-<br><img src="../media/boxWhisker.jpg" width="100%">
+<br><img src="../media/boxWhisker.jpg" width="60%"><img src="../media/wordCloud.png" width="25%">
 
 <hr>
 
