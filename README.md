@@ -133,10 +133,10 @@ This is a list of complementary sources and tools that are useful in data visual
 * [Adams, S., & Helfand, J. (2017). The designer’s dictionary of color. 9781419723919](https://www.amazon.com/Designers-Dictionary-Color-Sean-Adams/dp/141972391X/ref=sr_1_1?ie=UTF8&qid=1540755233&sr=8-1&keywords=the+designers+dictionary+of+color)
 * [Barabasi, Albert (2016). Network Science.](http://networksciencebook.com/)
 * [Cairo, Alberto (2016). The truthful art: data, charts, and maps for communication.  ISBN-13: 978-0321934079 ](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
-* [Foster Provost, Tom Fawcett, Data science for business]()
-* [Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems]()
-* [Hastie, Trevor. An Introduction to Statistical Learning with Applications in R]()
-* [Kabacoff, Robert. R in Action: Data Analysis and Graphics with R.]()
+* [Foster Provost, Tom Fawcett. Data science for business.](http://shop.oreilly.com/product/0636920028918.do)
+* [Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](http://shop.oreilly.com/product/0636920052289.do)
+* [Hastie, Trevor. An Introduction to Statistical Learning with Applications in R](https://www.springer.com/gp/book/9781461471370)
+* [Kabacoff, Robert. R in Action: Data Analysis and Graphics with R.](https://www.amazon.com/Action-Data-Analysis-Graphics/dp/1617291382)
 * [Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. ISBN-13: 978-1473912144](http://www.visualisingdata.com/book/)
 * [McKinney, W. Python for Data Analysis - Data Wrangling with Pandas, Numpy and Python. (2018). ISBN-13: 1491957662](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o1&hvnetw=g&hvrand=2146894602476699957&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032076&hvtargid=pla-396828636441&psc=1)
 * [Newman, Mark (2010). Networks: An Introduction.  ISBN-13: 978-0199206650.](https://www.amazon.com/Networks-Introduction-Mark-Newman/dp/0199206651)
@@ -151,7 +151,9 @@ This is a list of complementary sources and tools that are useful in data visual
 ### [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
 
 Contact: [ sanchez.hmsc@berkeley.edu | chipdelmal@gmail.com ]
+
 My main projects: [ [MGDrivE](https://marshalllab.github.io/MGDrivE/) & [MoNeT](https://chipdelmal.github.io/MoNeT/) ]
+
 My personal website: [ [chipdelmal.github.io](https://chipdelmal.github.io/) ]
 
 <img src="./docs/media/berkeley.jpg" height="40"><img src="./docs/media/ihme.png" height="40"><img src="./docs/media/itesm.png" height="50"><br>
