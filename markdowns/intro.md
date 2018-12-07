@@ -27,10 +27,11 @@ Throughout these 3 days, we will look at a number of exercises. Most of these de
 1. [Scatter Plot (Mathematica)](../scripts/ScatterPlot/)
 1. [Stacked Area Plot (R/Python)](../scripts/StackedArea/)
 1. [Streamgraph (R)](../scripts/Streamgraph/)
-1. [Transitions (Mathematica)](../scripts/Transitions)
+1. [Transitions (Mathematica)](../scripts/Transitions/)
 1. [Time Series (R/Mathematica)](../scripts/TimeSeries/)
 1. [Tree Map (R)](../scripts/TreeMap/)
 1. [Violin Plots (R)](../scripts/ViolinPlots/)
+1. [Word Cloud (R)](../scripts/WordCloud/)
 
 Some of the examples were developed from scratch, whilst some others were coded as variations of online sources (in which case the sources are cited within the code snippets). The used datasets are either public domain or datasets developed as part of my research group that we are allowed to share.
 
