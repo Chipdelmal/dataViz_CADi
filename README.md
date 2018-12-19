@@ -148,6 +148,19 @@ This is a list of complementary sources and tools that are useful in data visual
 
 <hr>
 
+### Alumni
+
+* Faculty:
+
+<p style="font-size:12px">Camilo René Duque Becerra ● Carlos Daniel Prado Pérez ● Donovan manuel Esqueda Merino ● Edgar Emmanuel Vallejo Clemente ● Faustino Yescas Martinez ● Francisco Javier Delgado Cepeda ● Guillermo Sandoval Benítez ● Ivonne Abud Urbiola ● José Luis Gómez Muñoz ● Juan Carlos del Valle Sotelo ● Lizethe Pérez Fuertes ● Luis Miguel Méndez Díaz ● María de Lourdes Quezada Batalla ● Miguel Rocha Romero ● Rafael Benitez Medina ● Ramón Marín Solís ● Raúl Gómez Castillo ● Raúl Martinez Rosado ● Salvador Elías Venegas Andraca ● Saul Juarez Ordoñez ● Sergio Santiago Rentería</p>
+
+* Masters and PhD Students:
+
+<p style="font-size:12px">Hugo I. Velasco ● Myriam elizabeth ● Rodrigo Careaga</p>
+
+
+<hr>
+
 ### [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
 
 * Contact: [ sanchez.hmsc@berkeley.edu | chipdelmal@gmail.com ]
