@@ -161,10 +161,18 @@ This is a list of complementary sources and tools that are useful in data visual
 
 <hr>
 
-### [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
+### Author: [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
 
 * Contact: [ sanchez.hmsc@berkeley.edu | chipdelmal@gmail.com ]
 * My main projects: [ [MGDrivE](https://marshalllab.github.io/MGDrivE/) & [MoNeT](https://chipdelmal.github.io/MoNeT/) ]
 * My personal website: [ [chipdelmal.github.io](https://chipdelmal.github.io/) ]
 
 <img src="./docs/media/berkeley.jpg" height="40"><img src="./docs/media/ihme.png" height="40"><img src="./docs/media/itesm.png" height="50"><br>
+
+<hr>
+
+### Alumni
+
+<p style="font-size:10px"> <b>Faculty:</b> Camilo René Duque Becerra • Carlos Daniel Prado Pérez • Donovan manuel Esqueda Merino • Edgar Emmanuel Vallejo Clemente • Faustino Yescas Martinez • Francisco Javier Delgado Cepeda • Guillermo Sandoval Benítez • Ivonne Abud Urbiola • José Luis Gómez Muñoz • Juan Carlos del Valle Sotelo • Lizethe Pérez Fuertes • Luis Miguel Méndez Díaz • María de Lourdes Quezada Batalla • Miguel Rocha Romero • Rafael Benitez Medina • Ramón Marín Solís • Raúl Gómez Castillo • Raúl Martinez Rosado • Salvador Elías Venegas Andraca • Saul Juarez Ordoñez • Sergio Santiago Rentería</p>
+
+<p style="font-size:10px"><b>Masters and PhD Students:</b> Hugo I. Velasco • Myriam elizabeth • Rodrigo Careaga</p>
