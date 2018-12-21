@@ -163,9 +163,9 @@ This is a list of complementary sources and tools that are useful in data visual
 
 ### Author: [Ph.D. Héctor Manuel Sánchez Castellanos](https://chipdelmal.github.io/)
 
-* Contact: [ sanchez.hmsc@berkeley.edu | chipdelmal@gmail.com ]
-* My main projects: [ [MGDrivE](https://marshalllab.github.io/MGDrivE/) & [MoNeT](https://chipdelmal.github.io/MoNeT/) ]
-* My personal website: [ [chipdelmal.github.io](https://chipdelmal.github.io/) ]
+Contact: [ sanchez.hmsc@berkeley.edu | chipdelmal@gmail.com ]
+My main projects: [ [MGDrivE](https://marshalllab.github.io/MGDrivE/) & [MoNeT](https://chipdelmal.github.io/MoNeT/) ]
+My personal website: [ [chipdelmal.github.io](https://chipdelmal.github.io/) ]
 
 <img src="./docs/media/berkeley.jpg" height="40"><img src="./docs/media/ihme.png" height="40"><img src="./docs/media/itesm.png" height="50"><br>
 
