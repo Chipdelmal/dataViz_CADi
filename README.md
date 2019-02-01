@@ -154,7 +154,7 @@ This is a list of complementary sources and tools that are useful in data visual
 
 <p style="font-size:10px">Camilo René Duque Becerra • Carlos Daniel Prado Pérez • Donovan manuel Esqueda Merino • Edgar Emmanuel Vallejo Clemente • Faustino Yescas Martinez • Francisco Javier Delgado Cepeda • Guillermo Sandoval Benítez • Ivonne Abud Urbiola • José Luis Gómez Muñoz • Juan Carlos del Valle Sotelo • Lizethe Pérez Fuertes • Luis Miguel Méndez Díaz • María de Lourdes Quezada Batalla • Miguel Rocha Romero • Rafael Benitez Medina • Ramón Marín Solís • Raúl Gómez Castillo • Raúl Martinez Rosado • Salvador Elías Venegas Andraca • Saul Juarez Ordoñez • Sergio Santiago Rentería</p>
 
-####  Masters and PhD Student
+####  Masters and PhD Students
 
 <p style="font-size:10px">Hugo I. Velasco • Martín Molinero • Myriam elizabeth • Rodrigo Careaga</p>
 
