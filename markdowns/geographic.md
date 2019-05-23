@@ -34,8 +34,8 @@ Variations such as: network, heatmap, or bubble chart; over a traditional map ar
 1.  <a name="exercise01">[Leaflet (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Map)</a>
 2.  <a name="exercise02">[Folium (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Map)</a>
 3.  <a name="exercise03">[Globe plotting (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
-4.  <a name="exercise04">[Bubble Map (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
-5.  <a name="exercise05">[Fancy Map (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Globe)</a>
+4.  <a name="exercise04">[Bubble Map (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Map)</a>
+5.  <a name="exercise05">[Fancy Map (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/Map)</a>
 
 
 <hr>

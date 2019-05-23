@@ -37,9 +37,9 @@ A new and popular way to display the frequencies of words is by generating a "wo
 
 # Exercises
 
-1. <a name="exercise01">[Box-Whisker Chart (R)](./scripts/BoxWhiskerChart)</a>
-2. <a name="exercise03">[Violin Plots (R)](./scripts/ViolinPlots)
-3. [Word Cloud (R)](./scripts/WordCloud)
+1. <a name="exercise01">[Box-Whisker Chart (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/BoxWhiskerChart)</a>
+2. <a name="exercise03">[Violin Plots (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ViolinPlots)
+3. [Word Cloud (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/WordCloud)
 
 <hr>
 
