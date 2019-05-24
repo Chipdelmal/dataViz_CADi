@@ -33,9 +33,9 @@ It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for 
 
 <hr>
 
-## Contents
+## [Contents](./markdowns/sitemap.md)
 
-Given that the course is intended to be useful for several disciplines, the workshop was created with flexibility in mind. As such, modules are fairly independent and can be taken in different order.
+Given that the course is intended to be useful for several disciplines, the workshop was created with flexibility in mind. As such, modules are fairly independent and can be taken in different order. Alternatively, take a look at the [sitemap](./markdowns/sitemap.md) for the full tree of contents and exercises contained in this repository.
 
 ### Day 01 (8h)
 

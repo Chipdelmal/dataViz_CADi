@@ -33,7 +33,7 @@ An extension to a traditional scatter plot is the addition of histograms on the 
 
 1.  <a name="exercise01">[Bubble Chart (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/BubbleChart)</a>
 2.  <a name="exercise02">[Scatter Plot (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
-3.  <a name="exercise02">[Scatter Plot with Histograms (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterPlot)</a>
+3.  <a name="exercise03">[Scatter Plot with Histograms (Python)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/ScatterHistogram)</a>
 
 <hr>
 

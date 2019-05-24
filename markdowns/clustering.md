@@ -28,8 +28,8 @@ Traditionally used in genetic analyses, these plots are useful in hierarchical c
 
 # Exercises
 
-1. <a name="exercise01">[Tree Map (R)](./scripts/TreeMap)</a>
-1. <a name="exercise02">[Random Networks (Mathematica)](./scripts/NetworksRandom)</a>
+1. <a name="exercise01">[Tree Map (R)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/TreeMap)</a>
+1. <a name="exercise02">[Random Networks (Mathematica)](https://github.com/Chipdelmal/dataViz_CADi/tree/master/scripts/NetworksRandom)</a>
 
 <hr>
 
