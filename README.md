@@ -168,5 +168,3 @@ My main projects: [ [MGDrivE](https://marshalllab.github.io/MGDrivE/) & [MoNeT](
 My personal website: [ [chipdelmal.github.io](https://chipdelmal.github.io/) ]
 
 <img src="./docs/media/berkeley.jpg" height="40"><img src="./docs/media/ihme.png" height="40"><img src="./docs/media/itesm.png" height="50"><br>
-
-<hr>
