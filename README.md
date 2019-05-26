@@ -6,6 +6,8 @@ This repository contains the materials for the "Data Visualization" three days i
 
 For other data-analysis related topics please take a look at the [dataPy_CADi](https://github.com/Chipdelmal/dataPy_CADi) repository. Which contains exercises on data wrangling in [Python](https://www.python.org/).
 
+[<img src="./media/dataPy.jpg" width="100%">](https://github.com/Chipdelmal/dataPy_CADi)
+
 <hr>
 
 ## Requirements
