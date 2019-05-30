@@ -45,6 +45,7 @@ install.packages(libraryName)
 
 ## Loading Libraries
 
+
 ### Mathematica
 
 ```Mathematica
@@ -68,6 +69,7 @@ library("LibraryName")
 <hr>
 
 ## Loading Data
+
 
 ### Mathematica
 
@@ -96,7 +98,8 @@ readData = read.csv2(paste0(path,"deterministicData.csv"), sep=",", header=FALSE
 
 ## Extracting Rows and Columns from a Data Structure
 
-###  Mathematica
+
+### Mathematica
 
 This [quick reference](https://reference.wolfram.com/language/howto/GetPartsOfAMatrix.html) shows the ways to access elements in a matrix form.
 
