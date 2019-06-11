@@ -22,7 +22,7 @@ Any kind of transition data can me mapped into a network representation. This ki
 
 Frequently used in genetic analyses. It represents the states around a circle, and the transitions in arrows that change in width proportionally to frequency.
 
-<img src="../media/chord_Baseline.png" width="50%"><img src="../media/chord_ATSB.png" width="50%">
+<img src="../media/chord_Baseline.png" width="50%">
 
 
 <!--## Sankey Diagram
