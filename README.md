@@ -39,6 +39,8 @@ It is also suggested to install the [RStudio](https://www.rstudio.com/) IDE for 
 
 Given that the course is intended to be useful for several disciplines, the workshop was created with flexibility in mind. As such, modules are fairly independent and can be taken in different order. Alternatively, take a look at the [sitemap](./markdowns/sitemap.md) for the full tree of contents and exercises contained in this repository.
 
+[<img src="./media/sitemap.png" width="100%">](./markdowns/sitemap.md)
+
 ### Day 01 (8h)
 
 <b>Goal:</b> To describe the basic principles of data visualization, the types of plots that better describe certain datasets, and perform some common data visualization examples that are common across different fields.
