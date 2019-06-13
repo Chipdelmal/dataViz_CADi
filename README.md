@@ -158,7 +158,7 @@ This is a list of complementary sources and tools that are useful in data visual
 
 ####  Masters and PhD Students
 
-<p style="font-size:10px">Hugo I. Velasco • Martín Molinero • Myriam elizabeth • Rodrigo Careaga</p>
+<p style="font-size:10px">Hugo I. Velasco • Martín Molinero • Myriam Elizabeth • Rodrigo Careaga</p>
 
 
 <hr>
